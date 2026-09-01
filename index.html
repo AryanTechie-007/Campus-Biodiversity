@@ -1,0 +1,1283 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SNU Chennai | Campus Biodiversity Explorer & Inventory</title>
+  <meta name="description" content="Official Collective Campus Biodiversity Inventory for Shiv Nadar University Chennai - Environmental Science and Engineering (EVS).">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Playfair+Display:ital,wght@0,600;0,700;1,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg-dark: #081014;
+      --bg-card: rgba(16, 29, 36, 0.75);
+      --bg-glass: rgba(22, 42, 53, 0.6);
+      --border-subtle: rgba(45, 85, 105, 0.35);
+      --border-glow: rgba(52, 211, 153, 0.4);
+      --text-main: #f0fdf4;
+      --text-muted: #94a3b8;
+      --text-dim: #64748b;
+      --accent-emerald: #10b981;
+      --accent-emerald-glow: rgba(16, 185, 129, 0.25);
+      --accent-teal: #14b8a6;
+      --accent-amber: #f59e0b;
+      --accent-sky: #38bdf8;
+      --accent-rose: #f43f5e;
+      --accent-purple: #a855f7;
+      --radius-sm: 8px;
+      --radius-md: 14px;
+      --radius-lg: 20px;
+      --radius-xl: 28px;
+      --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+      background-color: var(--bg-dark);
+      background-image: 
+        radial-gradient(circle at 10% 20%, rgba(16, 185, 129, 0.08) 0%, transparent 40%),
+        radial-gradient(circle at 90% 80%, rgba(20, 184, 166, 0.08) 0%, transparent 40%),
+        radial-gradient(circle at 50% 50%, rgba(8, 16, 20, 0.95) 0%, #081014 100%);
+      color: var(--text-main);
+      min-height: 100vh;
+      line-height: 1.6;
+      overflow-x: hidden;
+    }
+
+    /* Header & Hero */
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      backdrop-filter: blur(16px);
+      -webkit-backdrop-filter: blur(16px);
+      background: rgba(8, 16, 20, 0.85);
+      border-bottom: 1px solid var(--border-subtle);
+    }
+
+    .nav-container {
+      max-width: 1360px;
+      margin: 0 auto;
+      padding: 1rem 1.5rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1rem;
+    }
+
+    .logo-group {
+      display: flex;
+      align-items: center;
+      gap: 0.85rem;
+    }
+
+    .logo-badge {
+      width: 44px;
+      height: 44px;
+      border-radius: var(--radius-md);
+      background: linear-gradient(135deg, #059669, #0d9488);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.5rem;
+      box-shadow: 0 0 20px var(--accent-emerald-glow);
+    }
+
+    .logo-text h1 {
+      font-size: 1.15rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      color: #fff;
+    }
+
+    .logo-text p {
+      font-size: 0.78rem;
+      color: var(--text-muted);
+      font-weight: 500;
+    }
+
+    .nav-tabs {
+      display: flex;
+      gap: 0.5rem;
+      background: rgba(16, 29, 36, 0.8);
+      padding: 0.3rem;
+      border-radius: var(--radius-md);
+      border: 1px solid var(--border-subtle);
+    }
+
+    .nav-btn {
+      background: transparent;
+      border: none;
+      color: var(--text-muted);
+      padding: 0.5rem 1rem;
+      border-radius: var(--radius-sm);
+      font-size: 0.85rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: var(--transition);
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+    }
+
+    .nav-btn:hover {
+      color: #fff;
+      background: rgba(255, 255, 255, 0.05);
+    }
+
+    .nav-btn.active {
+      background: linear-gradient(135deg, #10b981, #0d9488);
+      color: #fff;
+      box-shadow: 0 2px 10px rgba(16, 185, 129, 0.35);
+    }
+
+    /* Hero Section */
+    .hero {
+      max-width: 1360px;
+      margin: 2rem auto 1.5rem;
+      padding: 0 1.5rem;
+    }
+
+    .hero-card {
+      background: linear-gradient(145deg, rgba(16, 36, 46, 0.8), rgba(10, 22, 28, 0.9));
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--radius-xl);
+      padding: 2.5rem;
+      position: relative;
+      overflow: hidden;
+      box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
+    }
+
+    .hero-card::before {
+      content: '';
+      position: absolute;
+      top: -50%;
+      right: -20%;
+      width: 400px;
+      height: 400px;
+      background: radial-gradient(circle, rgba(16, 185, 129, 0.15), transparent 70%);
+      pointer-events: none;
+    }
+
+    .hero-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.35rem 0.9rem;
+      background: rgba(16, 185, 129, 0.15);
+      border: 1px solid rgba(16, 185, 129, 0.3);
+      border-radius: 999px;
+      color: #34d399;
+      font-size: 0.8rem;
+      font-weight: 600;
+      margin-bottom: 1rem;
+    }
+
+    .hero-title {
+      font-family: 'Playfair Display', serif;
+      font-size: 2.6rem;
+      font-weight: 700;
+      line-height: 1.2;
+      margin-bottom: 0.8rem;
+      background: linear-gradient(135deg, #ffffff 40%, #a7f3d0 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    .hero-subtitle {
+      color: var(--text-muted);
+      font-size: 1.05rem;
+      max-width: 800px;
+      margin-bottom: 1.8rem;
+    }
+
+    /* Stat Cards */
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 1rem;
+      margin-top: 1.5rem;
+    }
+
+    .stat-item {
+      background: rgba(22, 42, 53, 0.5);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--radius-md);
+      padding: 1.2rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.3rem;
+      transition: var(--transition);
+    }
+
+    .stat-item:hover {
+      border-color: var(--accent-emerald);
+      transform: translateY(-2px);
+    }
+
+    .stat-val {
+      font-size: 2rem;
+      font-weight: 800;
+      color: #fff;
+      font-family: 'JetBrains Mono', monospace;
+    }
+
+    .stat-label {
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    /* Controls & Filter Bar */
+    .controls-section {
+      max-width: 1360px;
+      margin: 1.5rem auto;
+      padding: 0 1.5rem;
+    }
+
+    .filter-panel {
+      background: var(--bg-card);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--radius-lg);
+      padding: 1.4rem;
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+    }
+
+    .search-row {
+      display: flex;
+      gap: 1rem;
+      flex-wrap: wrap;
+    }
+
+    .search-box {
+      flex: 1;
+      min-width: 260px;
+      position: relative;
+    }
+
+    .search-input {
+      width: 100%;
+      background: rgba(8, 16, 20, 0.8);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--radius-md);
+      padding: 0.75rem 1rem 0.75rem 2.8rem;
+      color: #fff;
+      font-size: 0.95rem;
+      outline: none;
+      transition: var(--transition);
+    }
+
+    .search-input:focus {
+      border-color: var(--accent-emerald);
+      box-shadow: 0 0 12px var(--accent-emerald-glow);
+    }
+
+    .search-icon {
+      position: absolute;
+      left: 1rem;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--text-dim);
+      font-size: 1.1rem;
+    }
+
+    .filter-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      align-items: center;
+    }
+
+    .filter-label {
+      font-size: 0.8rem;
+      color: var(--text-dim);
+      font-weight: 600;
+      margin-right: 0.4rem;
+    }
+
+    .tag-btn {
+      background: rgba(8, 16, 20, 0.6);
+      border: 1px solid var(--border-subtle);
+      color: var(--text-muted);
+      padding: 0.4rem 0.85rem;
+      border-radius: 999px;
+      font-size: 0.8rem;
+      font-weight: 500;
+      cursor: pointer;
+      transition: var(--transition);
+    }
+
+    .tag-btn:hover {
+      color: #fff;
+      border-color: var(--text-muted);
+    }
+
+    .tag-btn.active {
+      background: rgba(16, 185, 129, 0.2);
+      border-color: var(--accent-emerald);
+      color: #34d399;
+      font-weight: 600;
+    }
+
+    /* Main Grid */
+    .content-container {
+      max-width: 1360px;
+      margin: 1.5rem auto 4rem;
+      padding: 0 1.5rem;
+    }
+
+    .species-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+      gap: 1.5rem;
+    }
+
+    /* Species Card */
+    .species-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--radius-lg);
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      transition: var(--transition);
+      position: relative;
+      cursor: pointer;
+    }
+
+    .species-card:hover {
+      transform: translateY(-6px);
+      border-color: var(--border-glow);
+      box-shadow: 0 16px 32px rgba(0, 0, 0, 0.4), 0 0 20px rgba(16, 185, 129, 0.15);
+    }
+
+    .card-img-wrapper {
+      position: relative;
+      width: 100%;
+      height: 230px;
+      background: #0a141a;
+      overflow: hidden;
+    }
+
+    .card-img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      transition: transform 0.6s cubic-bezier(0.2, 0, 0.2, 1);
+    }
+
+    .species-card:hover .card-img {
+      transform: scale(1.06);
+    }
+
+    .card-badges {
+      position: absolute;
+      top: 0.8rem;
+      left: 0.8rem;
+      right: 0.8rem;
+      display: flex;
+      justify-content: space-between;
+      pointer-events: none;
+    }
+
+    .badge {
+      padding: 0.3rem 0.65rem;
+      border-radius: 6px;
+      font-size: 0.72rem;
+      font-weight: 700;
+      letter-spacing: 0.03em;
+      text-transform: uppercase;
+      backdrop-filter: blur(8px);
+    }
+
+    .badge-flora {
+      background: rgba(16, 185, 129, 0.9);
+      color: #064e3b;
+    }
+
+    .badge-fauna {
+      background: rgba(56, 189, 248, 0.9);
+      color: #082f49;
+    }
+
+    .badge-id {
+      background: rgba(0, 0, 0, 0.7);
+      color: #fff;
+      font-family: 'JetBrains Mono', monospace;
+      border: 1px solid rgba(255, 255, 255, 0.15);
+    }
+
+    .card-body {
+      padding: 1.3rem;
+      display: flex;
+      flex-direction: column;
+      flex: 1;
+      gap: 0.7rem;
+    }
+
+    .card-title-group {
+      display: flex;
+      flex-direction: column;
+      gap: 0.15rem;
+    }
+
+    .card-common-name {
+      font-size: 1.15rem;
+      font-weight: 700;
+      color: #fff;
+      line-height: 1.3;
+    }
+
+    .card-sci-name {
+      font-size: 0.9rem;
+      font-style: italic;
+      color: var(--accent-emerald);
+      font-weight: 500;
+    }
+
+    .card-meta {
+      display: flex;
+      flex-direction: column;
+      gap: 0.4rem;
+      margin-top: 0.3rem;
+      font-size: 0.82rem;
+      color: var(--text-muted);
+    }
+
+    .meta-row {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .meta-row span.label {
+      color: var(--text-dim);
+      min-width: 65px;
+    }
+
+    .meta-row span.val {
+      color: #e2e8f0;
+      font-weight: 500;
+    }
+
+    .card-role-snippet {
+      font-size: 0.82rem;
+      color: #cbd5e1;
+      background: rgba(8, 16, 20, 0.5);
+      padding: 0.7rem 0.85rem;
+      border-radius: var(--radius-sm);
+      border-left: 3px solid var(--accent-emerald);
+      margin-top: auto;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    /* Modal */
+    .modal-backdrop {
+      position: fixed;
+      inset: 0;
+      background: rgba(0, 0, 0, 0.85);
+      backdrop-filter: blur(10px);
+      z-index: 999;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      padding: 1.5rem;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    }
+
+    .modal-backdrop.show {
+      display: flex;
+      opacity: 1;
+    }
+
+    .modal-box {
+      background: #0f1d24;
+      border: 1px solid var(--border-glow);
+      border-radius: var(--radius-xl);
+      max-width: 840px;
+      width: 100%;
+      max-height: 90vh;
+      overflow-y: auto;
+      position: relative;
+      box-shadow: 0 25px 60px rgba(0, 0, 0, 0.7);
+    }
+
+    .modal-close-btn {
+      position: absolute;
+      top: 1.2rem;
+      right: 1.2rem;
+      background: rgba(0, 0, 0, 0.6);
+      border: 1px solid var(--border-subtle);
+      color: #fff;
+      width: 38px;
+      height: 38px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.2rem;
+      cursor: pointer;
+      z-index: 10;
+      transition: var(--transition);
+    }
+
+    .modal-close-btn:hover {
+      background: var(--accent-rose);
+      border-color: var(--accent-rose);
+    }
+
+    .modal-grid {
+      display: grid;
+      grid-template-columns: 1fr;
+    }
+
+    @media (min-width: 768px) {
+      .modal-grid {
+        grid-template-columns: 1fr 1.2fr;
+      }
+    }
+
+    .modal-img-col {
+      background: #081014;
+      padding: 1.5rem;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 1rem;
+    }
+
+    .modal-img-col img {
+      max-width: 100%;
+      border-radius: var(--radius-md);
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
+    }
+
+    .modal-content-col {
+      padding: 2rem;
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+    }
+
+    .modal-title {
+      font-size: 1.5rem;
+      font-weight: 700;
+      color: #fff;
+    }
+
+    .modal-sci {
+      font-size: 1.1rem;
+      font-style: italic;
+      color: var(--accent-emerald);
+      margin-bottom: 0.5rem;
+    }
+
+    .modal-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.85rem;
+    }
+
+    .modal-table tr {
+      border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+    }
+
+    .modal-table td {
+      padding: 0.6rem 0;
+    }
+
+    .modal-table td.m-lbl {
+      color: var(--text-dim);
+      width: 35%;
+      font-weight: 600;
+    }
+
+    .modal-table td.m-val {
+      color: #e2e8f0;
+    }
+
+    .modal-section-title {
+      font-size: 0.9rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--accent-teal);
+      margin-top: 0.5rem;
+    }
+
+    .modal-desc {
+      font-size: 0.9rem;
+      color: #cbd5e1;
+      line-height: 1.6;
+    }
+
+    /* Food Web Tab View */
+    .tab-view {
+      display: none;
+    }
+
+    .tab-view.active {
+      display: block;
+    }
+
+    .foodweb-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--radius-xl);
+      padding: 2rem;
+      margin-bottom: 2rem;
+    }
+
+    .foodweb-img {
+      width: 100%;
+      border-radius: var(--radius-md);
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+      margin: 1.5rem 0;
+    }
+
+    .chain-card {
+      background: rgba(8, 16, 20, 0.7);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--radius-md);
+      padding: 1.2rem;
+      margin-bottom: 1rem;
+    }
+
+    .chain-title {
+      font-size: 1rem;
+      font-weight: 700;
+      color: var(--accent-emerald);
+      margin-bottom: 0.5rem;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .chain-flow {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 0.5rem;
+      font-size: 0.88rem;
+    }
+
+    .chain-node {
+      background: rgba(22, 42, 53, 0.8);
+      border: 1px solid rgba(16, 185, 129, 0.3);
+      padding: 0.35rem 0.75rem;
+      border-radius: var(--radius-sm);
+      color: #fff;
+    }
+
+    .chain-arrow {
+      color: var(--accent-amber);
+      font-weight: bold;
+    }
+
+    /* Empty state */
+    .empty-state {
+      grid-column: 1 / -1;
+      text-align: center;
+      padding: 4rem 2rem;
+      color: var(--text-dim);
+    }
+
+    /* Footer */
+    footer {
+      border-top: 1px solid var(--border-subtle);
+      background: rgba(8, 16, 20, 0.95);
+      padding: 2.5rem 1.5rem;
+      text-align: center;
+      color: var(--text-muted);
+      font-size: 0.85rem;
+    }
+
+    .footer-links {
+      display: flex;
+      justify-content: center;
+      gap: 1.5rem;
+      margin-top: 1rem;
+      flex-wrap: wrap;
+    }
+
+    .footer-links a {
+      color: var(--accent-emerald);
+      text-decoration: none;
+      transition: var(--transition);
+    }
+
+    .footer-links a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Top Navigation -->
+  <header>
+    <div class="nav-container">
+      <div class="logo-group">
+        <div class="logo-badge">🌱</div>
+        <div class="logo-text">
+          <h1>SNU Chennai Campus Biodiversity</h1>
+          <p>Assignment 3: Collective Biodiversity Repository</p>
+        </div>
+      </div>
+      <div class="nav-tabs">
+        <button class="nav-btn active" id="tab-btn-explorer" onclick="switchTab('explorer')">
+          <span>🔍</span> Species Catalog
+        </button>
+        <button class="nav-btn" id="tab-btn-foodweb" onclick="switchTab('foodweb')">
+          <span>🕸️</span> Food Web & Trophic Dynamics
+        </button>
+        <button class="nav-btn" id="tab-btn-hotspots" onclick="switchTab('hotspots')">
+          <span>📍</span> Campus Hotspots
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- TAB 1: SPECIES CATALOG EXPLORER -->
+  <div id="tab-explorer" class="tab-view active">
+    <!-- Hero -->
+    <section class="hero">
+      <div class="hero-card">
+        <div class="hero-badge">
+          <span>🏛️</span> Department of Environmental Science & Engineering (EVS)
+        </div>
+        <h2 class="hero-title">Campus Biodiversity Inventory</h2>
+        <p class="hero-subtitle">
+          A systematically organized, research-grade collective catalog documenting 26 unique species across flora and fauna at Shiv Nadar University Chennai.
+        </p>
+        <div class="stats-grid">
+          <div class="stat-item">
+            <span class="stat-val">26</span>
+            <span class="stat-label">Unique Species</span>
+          </div>
+          <div class="stat-item">
+            <span class="stat-val">11</span>
+            <span class="stat-label">Flora Taxa</span>
+          </div>
+          <div class="stat-item">
+            <span class="stat-val">15</span>
+            <span class="stat-label">Fauna Taxa</span>
+          </div>
+          <div class="stat-item">
+            <span class="stat-val">6</span>
+            <span class="stat-label">Faunal Guilds</span>
+          </div>
+          <div class="stat-item">
+            <span class="stat-val">100%</span>
+            <span class="stat-label">Deduplicated</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Filter & Search Controls -->
+    <section class="controls-section">
+      <div class="filter-panel">
+        <div class="search-row">
+          <div class="search-box">
+            <span class="search-icon">🔎</span>
+            <input type="text" id="search-input" class="search-input" placeholder="Search by common name, scientific name, family, location, or keyword..." oninput="filterSpecies()">
+          </div>
+        </div>
+
+        <div class="filter-tags">
+          <span class="filter-label">Category:</span>
+          <button class="tag-btn active" data-filter-group="division" data-value="ALL" onclick="setFilter('division', 'ALL', this)">All (26)</button>
+          <button class="tag-btn" data-filter-group="division" data-value="Flora" onclick="setFilter('division', 'Flora', this)">🌿 Flora (11)</button>
+          <button class="tag-btn" data-filter-group="division" data-value="Fauna" onclick="setFilter('division', 'Fauna', this)">🐾 Fauna (15)</button>
+        </div>
+
+        <div class="filter-tags">
+          <span class="filter-label">Guild / Group:</span>
+          <button class="tag-btn active" data-filter-group="guild" data-value="ALL" onclick="setFilter('guild', 'ALL', this)">All Guilds</button>
+          <button class="tag-btn" data-filter-group="guild" data-value="Insects / Arthropods" onclick="setFilter('guild', 'Insects / Arthropods', this)">Insects</button>
+          <button class="tag-btn" data-filter-group="guild" data-value="Birds (Avifauna)" onclick="setFilter('guild', 'Birds (Avifauna)', this)">Birds</button>
+          <button class="tag-btn" data-filter-group="guild" data-value="Mammals" onclick="setFilter('guild', 'Mammals', this)">Mammals</button>
+          <button class="tag-btn" data-filter-group="guild" data-value="Reptiles" onclick="setFilter('guild', 'Reptiles', this)">Reptiles</button>
+          <button class="tag-btn" data-filter-group="guild" data-value="Molluscs" onclick="setFilter('guild', 'Molluscs', this)">Molluscs</button>
+          <button class="tag-btn" data-filter-group="guild" data-value="Crustaceans" onclick="setFilter('guild', 'Crustaceans', this)">Crustaceans</button>
+          <button class="tag-btn" data-filter-group="guild" data-value="Myriapods / Arthropods" onclick="setFilter('guild', 'Myriapods / Arthropods', this)">Millipedes</button>
+        </div>
+
+        <div class="filter-tags">
+          <span class="filter-label">Location:</span>
+          <button class="tag-btn active" data-filter-group="location" data-value="ALL" onclick="setFilter('location', 'ALL', this)">All Locations</button>
+          <button class="tag-btn" data-filter-group="location" data-value="Dhanyas" onclick="setFilter('location', 'Dhanyas', this)">Pathway behind Dhanyas</button>
+          <button class="tag-btn" data-filter-group="location" data-value="AB3" onclick="setFilter('location', 'AB3', this)">AB3 / Open Space</button>
+          <button class="tag-btn" data-filter-group="location" data-value="AB2" onclick="setFilter('location', 'AB2', this)">AB2</button>
+          <button class="tag-btn" data-filter-group="location" data-value="AB1" onclick="setFilter('location', 'AB1', this)">AB1</button>
+          <button class="tag-btn" data-filter-group="location" data-value="Hostel" onclick="setFilter('location', 'Hostel', this)">Hostels</button>
+          <button class="tag-btn" data-filter-group="location" data-value="entrance" onclick="setFilter('location', 'entrance', this)">Main Entrance</button>
+          <button class="tag-btn" data-filter-group="location" data-value="Metro" onclick="setFilter('location', 'Metro', this)">Metro Cafe</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- Species Grid -->
+    <main class="content-container">
+      <div id="species-grid" class="species-grid">
+        <!-- Rendered dynamically -->
+      </div>
+    </main>
+  </div>
+
+  <!-- TAB 2: FOOD WEB & TROPHIC ANALYSIS -->
+  <div id="tab-foodweb" class="tab-view">
+    <div class="content-container" style="margin-top: 2rem;">
+      <div class="foodweb-card">
+        <h2 style="font-family: 'Playfair Display', serif; font-size: 2rem; color: #fff; margin-bottom: 0.5rem;">
+          Campus Ecosystem Food Web Architecture
+        </h2>
+        <p style="color: var(--text-muted); margin-bottom: 1rem;">
+          Comprehensive energy transfer diagram and multi-tier trophic structure encompassing the 26 unique species observed on the Shiv Nadar University Chennai campus.
+        </p>
+        <img src="Ecological-Analysis/campus_food_web.png" alt="Campus Ecosystem Food Web Diagram" class="foodweb-img">
+
+        <h3 style="color: #fff; margin: 2rem 0 1rem; font-size: 1.3rem;">Documented Food Chains (Linear Pathways)</h3>
+
+        <div class="chain-card">
+          <div class="chain-title"><span>🌱➡️🦎➡️🦚</span> Chain 1: Terrestrial Grazing & Predator Pathway</div>
+          <div class="chain-flow">
+            <span class="chain-node">Hibiscus rosa-sinensis (Red Hibiscus)</span>
+            <span class="chain-arrow">➔</span>
+            <span class="chain-node">Dysdercus cingulatus (Cotton Stainer)</span>
+            <span class="chain-arrow">➔</span>
+            <span class="chain-node">Calotes versicolor (Garden Lizard)</span>
+            <span class="chain-arrow">➔</span>
+            <span class="chain-node">Pavo cristatus (Indian Peafowl)</span>
+          </div>
+        </div>
+
+        <div class="chain-card">
+          <div class="chain-title"><span>🌸➡️🦋➡️🐦</span> Chain 2: Nectar-Pollinator & Aerial Hawking Pathway</div>
+          <div class="chain-flow">
+            <span class="chain-node">Plumeria alba / Turnera ulmifolia (Nectar)</span>
+            <span class="chain-arrow">➔</span>
+            <span class="chain-node">Pachliopta hector (Crimson Rose)</span>
+            <span class="chain-arrow">➔</span>
+            <span class="chain-node">Dicrurus macrocercus (Black Drongo)</span>
+            <span class="chain-arrow">➔</span>
+            <span class="chain-node">Corvus splendens (House Crow)</span>
+          </div>
+        </div>
+
+        <div class="chain-card">
+          <div class="chain-title"><span>🍂➡️🐛➡️🐈</span> Chain 3: Detrital & Soil Decomposition Pathway</div>
+          <div class="chain-flow">
+            <span class="chain-node">Leaf Litter (Bismarckia / Plumeria)</span>
+            <span class="chain-arrow">➔</span>
+            <span class="chain-node">Xenobolus carnifex & Lissachatina fulica</span>
+            <span class="chain-arrow">➔</span>
+            <span class="chain-node">Argya affinis (Babbler)</span>
+            <span class="chain-arrow">➔</span>
+            <span class="chain-node">Felis catus (Domestic Cat)</span>
+          </div>
+        </div>
+
+        <div class="chain-card">
+          <div class="chain-title"><span>💧➡️🦀➡️🐕</span> Chain 4: Wetland & Moist Margin Pathway</div>
+          <div class="chain-flow">
+            <span class="chain-node">Hymenocallis littoralis (Detritus)</span>
+            <span class="chain-arrow">➔</span>
+            <span class="chain-node">Oziotelphusa senex (Field Crab)</span>
+            <span class="chain-arrow">➔</span>
+            <span class="chain-node">Pavo cristatus (Indian Peafowl)</span>
+            <span class="chain-arrow">➔</span>
+            <span class="chain-node">Canis lupus familiaris (Pariah Dog)</span>
+          </div>
+        </div>
+
+        <div class="chain-card">
+          <div class="chain-title"><span>🌴➡️🐒➡️🐕</span> Chain 5: Frugivore-Primate Canopy Pathway</div>
+          <div class="chain-flow">
+            <span class="chain-node">Phoenix sylvestris & Nekemias arborea (Fruits)</span>
+            <span class="chain-arrow">➔</span>
+            <span class="chain-node">Macaca radiata (Bonnet Macaque)</span>
+            <span class="chain-arrow">➔</span>
+            <span class="chain-node">Corvus splendens & Canis lupus familiaris</span>
+          </div>
+        </div>
+
+        <div class="chain-card">
+          <div class="chain-title"><span>🌿➡️🐝➡️🐦</span> Chain 6: Biological Pest Control Pathway</div>
+          <div class="chain-flow">
+            <span class="chain-node">Turnera ulmifolia (Seeds/Weeds)</span>
+            <span class="chain-arrow">➔</span>
+            <span class="chain-node">Spilostethus hospes (Dolic Bug)</span>
+            <span class="chain-arrow">➔</span>
+            <span class="chain-node">Ropalidia marginata (Paper Wasp)</span>
+            <span class="chain-arrow">➔</span>
+            <span class="chain-node">Dicrurus macrocercus (Black Drongo)</span>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <!-- TAB 3: HOTSPOTS -->
+  <div id="tab-hotspots" class="tab-view">
+    <div class="content-container" style="margin-top: 2rem;">
+      <div class="foodweb-card">
+        <h2 style="font-family: 'Playfair Display', serif; font-size: 2rem; color: #fff; margin-bottom: 0.5rem;">
+          Campus Observation Hotspots & Microhabitats
+        </h2>
+        <p style="color: var(--text-muted); margin-bottom: 1.5rem;">
+          Geographical hotspots identified during the campus biodiversity survey at Shiv Nadar University Chennai.
+        </p>
+
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem;">
+          <div class="chain-card" style="border-left: 4px solid var(--accent-emerald);">
+            <h3 style="color: #fff; margin-bottom: 0.4rem;">📍 Pathway Behind Dhanyas</h3>
+            <p style="color: var(--accent-emerald); font-size: 0.85rem; margin-bottom: 0.6rem;">High-Diversity Ecotone (12 Species Documented)</p>
+            <p style="color: var(--text-muted); font-size: 0.85rem;">
+              Combines flowering shrubs, drainage margins, and leaf mulch supporting *Plumeria obtusa*, *Hibiscus*, *Peppervine*, *Spider Lily*, *Field Crab*, *African Snail*, *Peafowl*, and *Garden Lizard*.
+            </p>
+          </div>
+
+          <div class="chain-card" style="border-left: 4px solid var(--accent-sky);">
+            <h3 style="color: #fff; margin-bottom: 0.4rem;">📍 Academic Block 3 (AB3) & Courtyard</h3>
+            <p style="color: var(--accent-sky); font-size: 0.85rem; margin-bottom: 0.6rem;">Arboreal & Canopy Zone (5 Species)</p>
+            <p style="color: var(--text-muted); font-size: 0.85rem;">
+              Houses *Sugar Date Palm*, *Bamboo Palm*, *Red Frangipani*, *Indian Paper Wasp*, and *Indian Pariah Dog*.
+            </p>
+          </div>
+
+          <div class="chain-card" style="border-left: 4px solid var(--accent-rose);">
+            <h3 style="color: #fff; margin-bottom: 0.4rem;">📍 Ladies Hostel Gardens</h3>
+            <p style="color: var(--accent-rose); font-size: 0.85rem; margin-bottom: 0.6rem;">Lepidoptera Microhabitat</p>
+            <p style="color: var(--text-muted); font-size: 0.85rem;">
+              Flowering microclimate supporting the Schedule I protected *Crimson Rose Butterfly (Pachliopta hector)*.
+            </p>
+          </div>
+
+          <div class="chain-card" style="border-left: 4px solid var(--accent-amber);">
+            <h3 style="color: #fff; margin-bottom: 0.4rem;">📍 Gents Hostel Perimeters</h3>
+            <p style="color: var(--accent-amber); font-size: 0.85rem; margin-bottom: 0.6rem;">Mammalian & Canopy Foraging</p>
+            <p style="color: var(--text-muted); font-size: 0.85rem;">
+              Canopy trees and building ledges frequented by *Bonnet Macaque (Macaca radiata)* and *Domestic Cat (Felis catus)*.
+            </p>
+          </div>
+
+          <div class="chain-card" style="border-left: 4px solid var(--accent-purple);">
+            <h3 style="color: #fff; margin-bottom: 0.4rem;">📍 Metro Cafe & Utility Lines</h3>
+            <p style="color: var(--accent-purple); font-size: 0.85rem; margin-bottom: 0.6rem;">Aerial Hawking Vantage</p>
+            <p style="color: var(--text-muted); font-size: 0.85rem;">
+              High open perches utilized by *Black Drongo (Dicrurus macrocercus)* for hunting airborne insects.
+            </p>
+          </div>
+
+          <div class="chain-card" style="border-left: 4px solid var(--accent-teal);">
+            <h3 style="color: #fff; margin-bottom: 0.4rem;">📍 Campus Main Entrance</h3>
+            <p style="color: var(--accent-teal); font-size: 0.85rem; margin-bottom: 0.6rem;">Architectural Landscape</p>
+            <p style="color: var(--text-muted); font-size: 0.85rem;">
+              Features the massive architectural *Bismarck Palm (Bismarckia nobilis)* providing shelter for urban birds.
+            </p>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <!-- SPECIES DETAIL MODAL -->
+  <div id="species-modal" class="modal-backdrop" onclick="closeModalOnBg(event)">
+    <div class="modal-box">
+      <button class="modal-close-btn" onclick="closeModal()">✕</button>
+      <div id="modal-content-area" class="modal-grid">
+        <!-- Rendered dynamically -->
+      </div>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer>
+    <p><strong>Shiv Nadar University Chennai (SNU Chennai)</strong> | Environmental Science and Engineering (EVS)</p>
+    <p style="margin-top: 0.4rem; color: var(--text-dim);">Assignment 3: Collective Biodiversity Repository • Submission Deadline: 16 September 2026</p>
+    <div class="footer-links">
+      <a href="https://github.com/AryanTechie-007/Campus-Biodiversity" target="_blank">GitHub Repository</a>
+      <a href="Flora/README.md">Flora Catalog</a>
+      <a href="Fauna/README.md">Fauna Catalog</a>
+      <a href="Ecological-Analysis/README.md">Ecological Analysis</a>
+      <a href="data/biodiversity_inventory.json" download>Download JSON</a>
+      <a href="data/biodiversity_inventory.csv" download>Download CSV</a>
+    </div>
+  </footer>
+
+  <script>
+    const inventoryData = {"institution": "Shiv Nadar University Chennai (SNU Chennai)", "course": "Environmental Science and Engineering (EVS)", "assignment": "Assignment 3: Collective Biodiversity Repository", "total_unique_species": 26, "flora_species_count": 11, "fauna_species_count": 15, "deduplication_policy": "Specimens 02 and 12 from survey represent Hibiscus rosa-sinensis with two distinct phenotypic cultivars (Tropical China Rose & Red Shoeblack). Consolidated into 1 unique species profile documenting both varieties.", "flora": [{"id": "FL-01", "common_name": "White Champa / Frangipani", "scientific_name": "Plumeria obtusa", "family": "Apocynaceae", "category": "Plant (Evergreen Tree / Shrub)", "location": "Pathway behind Dhanyas", "habitat": "Cultivated Landscape / Pathway border", "trophic_level": "Primary Producer (Trophic Level 1)", "ecological_role": "Ornamental flowering shrub/tree with broad, obovate glossy green leaves with blunt apices. Flowers provide nectar to pollinators like hawk moths.", "description": "Evergreen tree/shrub known for glossy dark green obovate leaves with blunt tips and fragrant white flowers with yellow centers. Drought tolerant and highly attractive to pollinating sphinx/hawk moths.", "image_src": "extracted_pdf_assets/page_1_img_1_8.png", "image_target": "plumeria_obtusa.png", "survey_source": "Survey Specimen 01"}, {"id": "FL-02", "common_name": "Tropical Hibiscus / China Rose & Red Hibiscus / Shoeblack Plant", "scientific_name": "Hibiscus rosa-sinensis", "family": "Malvaceae", "category": "Plant (Evergreen Woody Perennial Shrub)", "location": "Pathway behind Dhanyas", "habitat": "Garden hedge / Pathway border", "trophic_level": "Primary Producer (Trophic Level 1)", "ecological_role": "Widely planted ornamental shrub supporting local pollinators including butterflies, bees, and nectar-feeding birds (sunbirds). Crimson and multi-colored blooms feature prominent staminal columns.", "description": "Evergreen flowering shrub with ovate serrated leaves and large solitary 5-petaled flowers with exerted staminal columns. Observed in multiple color cultivars (Tropical China Rose morph and Crimson Red Shoeblack morph) across campus pathways.", "varieties": [{"variety_name": "Tropical Pink / Peach China Rose Morph (Specimen 02)", "image_src": "extracted_pdf_assets/page_2_img_1_13.png", "image_target": "hibiscus_rosa_sinensis_tropical.png", "notes": "Ornamental variety supporting butterflies and nectar feeders."}, {"variety_name": "Crimson Red Shoeblack Plant Morph (Specimen 12)", "image_src": "extracted_pdf_assets/page_7_img_1_37.png", "image_target": "hibiscus_rosa_sinensis_red.png", "notes": "Classic 5-petaled crimson bloom with exerted staminal column."}], "image_src": "extracted_pdf_assets/page_2_img_1_13.png", "image_target": "hibiscus_rosa_sinensis.png", "survey_source": "Survey Specimens 02 & 12 (Deduplicated single species with documented cultivars)"}, {"id": "FL-03", "common_name": "Peppervine", "scientific_name": "Nekemias arborea (syn. Ampelopsis arborea)", "family": "Vitaceae", "category": "Plant (Woody Climbing Vine)", "location": "Pathway behind Dhanyas", "habitat": "Climbing vegetation / Ground cover", "trophic_level": "Primary Producer (Trophic Level 1)", "ecological_role": "Bipinnate vine that acts as ground cover and climbs nearby vegetation, providing shelter for small insects and berries consumed by wild birds.", "description": "Perennial deciduous or semi-evergreen woody vine characterized by bipinnately compound leaves with serrated margins. Produces small berry clusters that serve as crucial food for campus avifauna.", "image_src": "extracted_pdf_assets/page_2_img_2_14.png", "image_target": "nekemias_arborea.png", "survey_source": "Survey Specimen 03"}, {"id": "FL-04", "common_name": "Bismarck Palm", "scientific_name": "Bismarckia nobilis", "family": "Arecaceae", "category": "Plant (Solitary Fan Palm / Tree)", "location": "Campus entrance", "habitat": "Open landscape / Architectural accent", "trophic_level": "Primary Producer (Trophic Level 1)", "ecological_role": "Distinctive silvery-blue, massive fan-shaped fronds. Serves as an ornamental accent tree and microhabitat for urban birds and insects. Falling leaves add organic biomass to soil.", "description": "Noble solitary palm indigenous to Madagascar with a stout trunk topped by a massive spherical crown of steel-blue, costapalmate leaves. Provides elevated perches for predatory and passerine birds.", "image_src": "extracted_pdf_assets/page_3_img_1_17.png", "image_target": "bismarckia_nobilis.png", "survey_source": "Survey Specimen 04"}, {"id": "FL-05", "common_name": "Bamboo Palm / Lady Palm", "scientific_name": "Rhapis excelsa", "family": "Arecaceae", "category": "Plant (Clumping Fan Palm / Shrub)", "location": "AB3 open space", "habitat": "Shaded understory / Courtyard", "trophic_level": "Primary Producer (Trophic Level 1)", "ecological_role": "Multi-stemmed, shade-tolerant palm with glossy palmate fronds, commonly cultivated in campus understory landscapes and indoor atriums. Provides dense lower-canopy cover.", "description": "Densely clustering fan palm with slender bamboo-like stems covered in coarse brown fiber. The deeply divided palmate leaves create microhabitats for ground invertebrates.", "image_src": "extracted_pdf_assets/page_3_img_2_19.png", "image_target": "rhapis_excelsa.png", "survey_source": "Survey Specimen 05"}, {"id": "FL-06", "common_name": "Sugar Date Palm / Wild Date Palm", "scientific_name": "Phoenix sylvestris", "family": "Arecaceae", "category": "Plant (Tree / Arecaceae)", "location": "AB3", "habitat": "Open grounds / Semi-arid landscape", "trophic_level": "Primary Producer (Trophic Level 1)", "ecological_role": "Hardy native palm producing dense crowns of spiny pinnate leaves and small edible fruits that feed bats, birds, and bonnet macaques.", "description": "Robust native palm reaching up to 15m in height, characterized by diamond-shaped leaf base scars on the trunk. Fruit clusters are vital seasonal food resources for campus wildlife.", "image_src": "extracted_pdf_assets/page_4_img_1_23.png", "image_target": "phoenix_sylvestris.png", "survey_source": "Survey Specimen 06"}, {"id": "FL-07", "common_name": "Golden Trumpet / Yellow Allamanda", "scientific_name": "Allamanda cathartica", "family": "Apocynaceae", "category": "Plant (Woody Climbing Shrub / Apocynaceae)", "location": "AB2", "habitat": "Ornamental garden bed / Wall trellis", "trophic_level": "Primary Producer (Trophic Level 1)", "ecological_role": "Evergreen sprawling shrub with large, vivid yellow funnel-shaped blooms. High ornamental value; supports long-tongued insect pollinators.", "description": "Vigorous sprawling evergreen shrub with whorled glossy leathery leaves and trumpet-shaped golden-yellow flowers emitting a delicate fragrance.", "image_src": "extracted_pdf_assets/page_4_img_2_24.png", "image_target": "allamanda_cathartica.png", "survey_source": "Survey Specimen 07"}, {"id": "FL-08", "common_name": "Yellow Alder / Yellow Buttercup (Ramgovam)", "scientific_name": "Turnera ulmifolia", "family": "Passifloraceae", "category": "Plant (Flowering Herb / Subshrub / Passifloraceae)", "location": "Pathway behind Dhanyas", "habitat": "Sunny roadside margin / Open soil", "trophic_level": "Primary Producer (Trophic Level 1)", "ecological_role": "Serrated leaves with paired extrafloral nectaries at leaf bases that attract ants for biological protection; bright yellow diurnal flowers sustain diverse butterflies and bees.", "description": "Erect perennial subshrub with deeply veined, dark green serrated leaves. Exhibits mutualistic interactions with native ants through nectar-secreting glands on petioles.", "image_src": "extracted_pdf_assets/page_5_img_1_28.png", "image_target": "turnera_ulmifolia.png", "survey_source": "Survey Specimen 08"}, {"id": "FL-09", "common_name": "White Frangipani / Singapore Graveyard Flower", "scientific_name": "Plumeria alba", "family": "Apocynaceae", "category": "Plant (Deciduous Flowering Tree / Apocynaceae)", "location": "AB1", "habitat": "Open quadrangle / Building surroundings", "trophic_level": "Primary Producer (Trophic Level 1)", "ecological_role": "Highly fragrant, five-petaled white flowers with a central yellow throat. Produces milky latex; pollinated primarily by nocturnal sphinx moths.", "description": "Small deciduous tree with narrow elongated lanceolate leaves having distinct downward-curled margins. Flowers release intense fragrance in the evening.", "image_src": "extracted_pdf_assets/page_5_img_2_29.png", "image_target": "plumeria_alba.png", "survey_source": "Survey Specimen 09"}, {"id": "FL-10", "common_name": "Red Frangipani / Pink Temple Tree", "scientific_name": "Plumeria rubra", "family": "Apocynaceae", "category": "Plant (Small Flowering Tree / Apocynaceae)", "location": "AB3", "habitat": "Landscaped courtyard / Open lawn", "trophic_level": "Primary Producer (Trophic Level 1)", "ecological_role": "Striking terminal inflorescence clusters of reddish-pink buds and fragrant blossoms, offering drought tolerance and architectural landscaping value.", "description": "Deciduous tree with thick succulent branches and elliptic-oblong pointed leaves. Renowned for rich aromatic deep pink-red blossoms that bloom in terminal cymes.", "image_src": "extracted_pdf_assets/page_6_img_1_32.png", "image_target": "plumeria_rubra.png", "survey_source": "Survey Specimen 10"}, {"id": "FL-11", "common_name": "Beach Spider Lily", "scientific_name": "Hymenocallis littoralis (syn. Hymenocallis speciosa)", "family": "Amaryllidaceae", "category": "Plant (Bulbous Perennial Herb / Amaryllidaceae)", "location": "Pathway behind Dhanyas", "habitat": "Moist soil border / Drainage margin", "trophic_level": "Primary Producer (Trophic Level 1)", "ecological_role": "Features elegant white star-shaped flowers with delicate spider-like petals radiating from a central cup. Thrives in moist soils and filters runoff water.", "description": "Bulbous perennial herb with strap-like linear leaves and umbels of pure white spider-like blossoms. Roots stabilize soil along moist drainage contours.", "image_src": "extracted_pdf_assets/page_6_img_2_33.png", "image_target": "hymenocallis_littoralis.png", "survey_source": "Survey Specimen 11"}], "fauna": [{"id": "FA-01", "common_name": "Dolic Bug / Ground Bug (Milkweed Bug)", "scientific_name": "Spilostethus hospes", "family": "Lygaeidae", "order": "Hemiptera (True Bugs)", "category": "Insect (True Bug / Hemiptera)", "sub_category": "Insects / Arthropods", "location": "Pathway behind Dhanyas", "habitat": "Ground herbaceous layer & seed pods", "trophic_level": "Primary Consumer / Herbivore (Trophic Level 2)", "ecological_role": "Red and black aposematic (warning) coloration signaling distastefulness to predators. Feeds on plant seeds and sap across composite weeds.", "description": "Seed bug displaying high-contrast crimson and black geometric markings. Feeds selectively on seed fluids and serves as prey for specialized predators.", "image_src": "extracted_pdf_assets/page_7_img_2_39.png", "image_target": "spilostethus_hospes.png", "survey_source": "Survey Specimen 13"}, {"id": "FA-02", "common_name": "Crimson Rose Butterfly", "scientific_name": "Pachliopta hector", "family": "Papilionidae", "order": "Lepidoptera (Butterflies & Moths)", "category": "Insect (Swallowtail Butterfly / Lepidoptera)", "sub_category": "Insects / Arthropods", "location": "Ladies Hostel", "habitat": "Terrestrial & Aerial (Flowering gardens)", "trophic_level": "Primary Consumer / Herbivore (Trophic Level 2)", "conservation_status": "Schedule I Protected (Wildlife Protection Act, India) - Endemic to South Asia", "ecological_role": "Schedule I protected species endemic to South Asia. Striking black swallowtail with prominent crimson-red crescent spots on hindwings. Vital pollinator.", "description": "Large, breathtaking swallowtail butterfly with velvety-black forewings crossed by white bands and brilliant crimson-red spots along the scalloped margin of hindwings. Pollinates diverse flowering flora.", "image_src": "extracted_pdf_assets/page_8_img_1_42.png", "image_target": "pachliopta_hector.png", "survey_source": "Survey Specimen 14"}, {"id": "FA-03", "common_name": "Indian Paper Wasp / Yellow Paper Wasp", "scientific_name": "Ropalidia marginata", "family": "Vespidae", "order": "Hymenoptera (Wasps, Bees, Ants)", "category": "Insect (Social Wasp / Hymenoptera)", "sub_category": "Insects / Arthropods", "location": "AB3", "habitat": "Terrestrial & Arboreal (Under leaf surfaces, building eaves)", "trophic_level": "Secondary Consumer / Insectivore (Trophic Level 3)", "ecological_role": "Primitively eusocial wasp constructing small open paper comb nests. Essential natural pest control agent preying on garden caterpillars and insect larvae.", "description": "Slender brownish-yellow social wasp renowned as a model organism in sociobiology. Workers forage tirelessly for caterpillars and insect larvae to feed developing broods, providing biocontrol.", "image_src": "extracted_pdf_assets/page_8_img_2_44.png", "image_target": "ropalidia_marginata.png", "survey_source": "Survey Specimen 15"}, {"id": "FA-04", "common_name": "Giant African Snail", "scientific_name": "Lissachatina fulica (syn. Achatina fulica)", "family": "Achatinidae", "order": "Stylommatophora (Land Snails)", "category": "Mollusc (Terrestrial Gastropod / Achatinidae)", "sub_category": "Molluscs", "location": "Pathway behind Dhanyas", "habitat": "Moist soil litter & shaded garden beds", "trophic_level": "Primary Consumer / Detritivore & Decomposer (Trophic Level 2)", "ecological_role": "Large herbivorous land snail with conical banded shell. Acts as a decomposer of decaying plant matter, active predominantly during humid/monsoon conditions.", "description": "Massive terrestrial pulmonate gastropod with a tall, conical brown and yellow variegated shell. Feeds voraciously on decaying vegetation, recycling organic matter into soil humus.", "image_src": "extracted_pdf_assets/page_9_img_1_48.png", "image_target": "lissachatina_fulica.png", "survey_source": "Survey Specimen 16"}, {"id": "FA-05", "common_name": "Indian Freshwater / Field Crab", "scientific_name": "Oziotelphusa senex", "family": "Gecarcinucidae", "order": "Decapoda (Crabs, Shrimps)", "category": "Crustacean (Decapoda / Freshwater Crab)", "sub_category": "Crustaceans", "location": "Pathway behind Dhanyas", "habitat": "Wetland margins, moist earthen burrows, seasonal puddles", "trophic_level": "Primary/Secondary Consumer & Detritivore (Trophic Level 2-3)", "ecological_role": "Burrowing freshwater crab active during night and rainy periods. Plays a critical role in nutrient cycling and soil aeration in campus wetland margins.", "description": "Semi-terrestrial freshwater burrowing crab with dark brownish carapace and adapted chelae for digging. Deep burrows aerate soil and provide vital prey for larger wading birds and mammals.", "image_src": "extracted_pdf_assets/page_9_img_2_50.png", "image_target": "oziotelphusa_senex.png", "survey_source": "Survey Specimen 17"}, {"id": "FA-06", "common_name": "Red Cotton Stainer", "scientific_name": "Dysdercus cingulatus", "family": "Pyrrhocoridae", "order": "Hemiptera (True Bugs)", "category": "Insect (True Bug / Hemiptera)", "sub_category": "Insects / Arthropods", "location": "Pathway behind Dhanyas", "habitat": "Foliage, flowers, and ground litter of Malvaceae plants", "trophic_level": "Primary Consumer / Herbivore (Trophic Level 2)", "ecological_role": "Phytophagous bug with bright crimson body and black dorsal patches. Frequently observed in mating pairs (tail-to-tail copulation) on ground and foliage.", "description": "Vibrantly colored hemipteran bug with bright red body, white transverse abdominal bands, and black markings on hemelytra. Often seen gregariously feeding on hibiscus flower buds and seeds.", "image_src": "extracted_pdf_assets/page_10_img_1_53.png", "image_target": "dysdercus_cingulatus.png", "survey_source": "Survey Specimen 18"}, {"id": "FA-07", "common_name": "Red-Headed / Banded Millipede", "scientific_name": "Xenobolus carnifex", "family": "Pachybolidae", "order": "Spirobolida (Round-backed Millipedes)", "category": "Myriapod (Diplopoda / Arthropod)", "sub_category": "Myriapods / Arthropods", "location": "Pathway to Rishabhs", "habitat": "Leaf litter, decaying logs, moist soil humus", "trophic_level": "Primary Consumer / Primary Detritivore (Trophic Level 2)", "ecological_role": "Cylindrical detritivore with dark trunk and vibrant red dorsal spots/bands. Crucial primary decomposer breaking down leaf litter and enhancing soil organic matter.", "description": "Striking millipede featuring a dark cylindrical exoskeleton accented by vibrant crimson-red bands and head. Plays an indispensable role in converting coarse mulch into bioavailable soil nutrients.", "image_src": "extracted_pdf_assets/page_10_img_2_55.png", "image_target": "xenobolus_carnifex.png", "survey_source": "Survey Specimen 19"}, {"id": "FA-08", "common_name": "Yellow-billed Babbler (Seven Sisters)", "scientific_name": "Argya affinis (syn. Turdoides affinis)", "family": "Leiothrichidae", "order": "Passeriformes (Perching Birds)", "category": "Bird (Avifauna / Leiothrichidae)", "sub_category": "Birds (Avifauna)", "location": "Pathway behind Dhanyas", "habitat": "Undergrowth, hedge perimeters, open ground", "trophic_level": "Secondary Consumer / Insectivore-Omnivore (Trophic Level 3)", "ecological_role": "Highly gregarious endemic passerine with a pale grey-white cap and yellowish bill. Forages in noisy groups on the ground and trees, consuming insects, berries, and nectar.", "description": "Endemic southern Indian songbird renowned for foraging in tight communal flocks of 6 to 10 individuals ('Seven Sisters'). Energetically flips leaf litter to uncover hidden insects and larvae.", "image_src": "extracted_pdf_assets/page_11_img_1_59.png", "image_target": "argya_affinis.png", "survey_source": "Survey Specimen 20"}, {"id": "FA-09", "common_name": "Black Drongo (King Crow)", "scientific_name": "Dicrurus macrocercus", "family": "Dicruridae", "order": "Passeriformes (Perching Birds)", "category": "Bird (Avifauna / Passerine)", "sub_category": "Birds (Avifauna)", "location": "Metro Cafe", "habitat": "High electrical lines, open canopy perches", "trophic_level": "Secondary Consumer / Aerial Insectivore (Trophic Level 3)", "ecological_role": "Agile insectivore with glossy black plumage and a distinct deeply forked tail. Perches high to hunt flying insects (hawking) and fearlessly mob raptors.", "description": "All-black passerine with an unmistakable deeply forked tail. Renowned for its aerial acrobatic hunting displays catching dragonflies, cicadas, and moths mid-air.", "image_src": "extracted_pdf_assets/page_11_img_2_61.png", "image_target": "dicrurus_macrocercus.png", "survey_source": "Survey Specimen 21"}, {"id": "FA-10", "common_name": "House Crow", "scientific_name": "Corvus splendens", "family": "Corvidae", "order": "Passeriformes (Perching Birds)", "category": "Bird (Avifauna / Corvidae)", "sub_category": "Birds (Avifauna)", "location": "Campus-wide / Academic & Dining vicinity", "habitat": "Urban / Terrestrial (Anthropogenic environments)", "trophic_level": "Tertiary Consumer / Omnivorous Scavenger (Trophic Level 4)", "ecological_role": "Omnivorous, highly intelligent urban bird characterized by a grey neck collar. Functions as a scavenger cleaning food scraps and biological waste across campus.", "description": "Slender crow recognized by its pale grey nape, neck, and breast contrasted with glossy black forehead and wings. Acts as a campus scavenger and opportunist predator.", "image_src": "extracted_pdf_assets/page_12_img_1_65.png", "image_target": "corvus_splendens.png", "survey_source": "Survey Specimen 22"}, {"id": "FA-11", "common_name": "Bonnet Macaque", "scientific_name": "Macaca radiata", "family": "Cercopithecidae", "order": "Primates (Monkeys & Apes)", "category": "Mammal (Primate / Simian)", "sub_category": "Mammals", "location": "Gents Hostel", "habitat": "Tree canopies, building roofs, hostel terraces", "trophic_level": "Primary/Secondary Consumer & Frugivore (Trophic Level 2-3)", "ecological_role": "Endemic South Indian macaque recognized by the bonnet-like whorl of hair on its head. Plays a role in seed dispersal while foraging across fruits, leaves, and trees.", "description": "Arboreal cercopithecine monkey endemic to peninsular India, noted for its radiating cap of dark hair. Troops travel across campus trees feeding on date palm drupes, peppervine berries, and tree shoots.", "image_src": "extracted_pdf_assets/page_12_img_2_66.png", "image_target": "macaca_radiata.png", "survey_source": "Survey Specimen 23"}, {"id": "FA-12", "common_name": "Indian Pariah Dog (Desi Dog / INDog)", "scientific_name": "Canis lupus familiaris", "family": "Canidae", "order": "Carnivora (Carnivores)", "category": "Mammal (Carnivora / Canidae)", "sub_category": "Mammals", "location": "Backside of AB3", "habitat": "Campus open grounds, shaded sandpits, shaded walkways", "trophic_level": "Tertiary Consumer / Apex Predator & Scavenger (Trophic Level 4)", "ecological_role": "Ancient landrace indigenous dog breed adapted to tropical climate. Highly territorial and plays a scavenger role, co-existing peacefully within the campus ecosystem.", "description": "Indigenous primitive landrace dog characterized by erect ears, wedge-shaped head, and curved tail. Functions as a territorial apex mammalian scavenger across the campus boundary.", "image_src": "extracted_pdf_assets/page_13_img_1_70.png", "image_target": "canis_lupus_familiaris.png", "survey_source": "Survey Specimen 24"}, {"id": "FA-13", "common_name": "Indian Peafowl (Peacock - National Bird of India)", "scientific_name": "Pavo cristatus", "family": "Phasianidae", "order": "Galliformes (Gamebirds)", "category": "Bird (Avifauna / Galliformes)", "sub_category": "Birds (Avifauna)", "location": "Pathway behind Dhanyas", "habitat": "Open scrub, grassy meadows, forest edges", "trophic_level": "Secondary / Tertiary Consumer & Predator (Trophic Level 3-4)", "ecological_role": "Large ground bird with striking iridescent blue neck and fan crest. Omnivorous diet includes seeds, insects, and small reptiles (snakes), controlling garden pests.", "description": "The National Bird of India, possessing iridescent cobalt blue neck plumage, fan-shaped crest, and magnificent elongated upper tail coverts with vibrant ocelli. Preys upon ground insects, snails, and lizards.", "image_src": "extracted_pdf_assets/page_13_img_2_72.png", "image_target": "pavo_cristatus.png", "survey_source": "Survey Specimen 25"}, {"id": "FA-14", "common_name": "Oriental Garden Lizard (Changeable Lizard)", "scientific_name": "Calotes versicolor", "family": "Agamidae", "order": "Squamata (Lizards & Snakes)", "category": "Reptile (Squamata / Agamidae)", "sub_category": "Reptiles", "location": "Pathway behind Dhanyas", "habitat": "Garden shrubs, low branches, sunny fence posts", "trophic_level": "Secondary Consumer / Insectivore (Trophic Level 3)", "ecological_role": "Diurnal agamid lizard capable of color change during breeding/thermoregulation. Feeds extensively on insect pests like crickets, moths, and caterpillars.", "description": "Diurnal arboreal agamid lizard capable of physiological color shifts. Males develop crimson throat patches during courtship. An efficient ambush predator regulating insect pest numbers.", "image_src": "extracted_pdf_assets/page_14_img_1_76.png", "image_target": "calotes_versicolor.png", "survey_source": "Survey Specimen 26"}, {"id": "FA-15", "common_name": "Domestic Cat (Campus Tabby / Feral Cat)", "scientific_name": "Felis catus", "family": "Felidae", "order": "Carnivora (Carnivores)", "category": "Mammal (Carnivora / Felidae)", "sub_category": "Mammals", "location": "Gents Hostel", "habitat": "Human-inhabited areas, dining halls, building perimeters", "trophic_level": "Tertiary Consumer / Small Carnivore & Apex Predator (Trophic Level 4)", "ecological_role": "Small carnivorous feline that controls campus rodent populations (mice, rats) around human-inhabited areas.", "description": "Agile carnivorous feline adapted to semi-feral campus life. Serves as a vital biological regulator of commensal rodents and small invasive pests around student residences.", "image_src": "extracted_pdf_assets/page_14_img_2_78.png", "image_target": "felis_catus.png", "survey_source": "Survey Specimen 27"}]};
+
+    // Combine into single species list with division flag
+    const allSpecies = [];
+
+    inventoryData.flora.forEach(item => {
+      allSpecies.push({
+        ...item,
+        division: 'Flora',
+        guild: 'Flora',
+        imgPath: 'Flora/images/' + item.image_target
+      });
+    });
+
+    inventoryData.fauna.forEach(item => {
+      allSpecies.push({
+        ...item,
+        division: 'Fauna',
+        guild: item.sub_category || 'Fauna',
+        imgPath: 'Fauna/images/' + item.image_target
+      });
+    });
+
+    const activeFilters = {
+      division: 'ALL',
+      guild: 'ALL',
+      location: 'ALL',
+      search: ''
+    };
+
+    function switchTab(tabId) {
+      document.querySelectorAll('.tab-view').forEach(el => el.classList.remove('active'));
+      document.querySelectorAll('.nav-btn').forEach(el => el.classList.remove('active'));
+      
+      document.getElementById('tab-' + tabId).classList.add('active');
+      document.getElementById('tab-btn-' + tabId).classList.add('active');
+    }
+
+    function setFilter(group, value, btnEl) {
+      activeFilters[group] = value;
+      
+      const parent = btnEl.parentElement;
+      parent.querySelectorAll('.tag-btn').forEach(b => b.classList.remove('active'));
+      btnEl.classList.add('active');
+
+      filterSpecies();
+    }
+
+    function filterSpecies() {
+      const query = document.getElementById('search-input').value.toLowerCase().trim();
+      activeFilters.search = query;
+
+      const filtered = allSpecies.filter(item => {
+        // Division filter
+        if (activeFilters.division !== 'ALL' && item.division !== activeFilters.division) {
+          return false;
+        }
+
+        // Guild filter
+        if (activeFilters.guild !== 'ALL') {
+          if (item.guild !== activeFilters.guild) return false;
+        }
+
+        // Location filter
+        if (activeFilters.location !== 'ALL') {
+          if (!item.location.toLowerCase().includes(activeFilters.location.toLowerCase())) return false;
+        }
+
+        // Search query
+        if (query) {
+          const matchCommon = item.common_name.toLowerCase().includes(query);
+          const matchSci = item.scientific_name.toLowerCase().includes(query);
+          const matchFam = (item.family || '').toLowerCase().includes(query);
+          const matchLoc = (item.location || '').toLowerCase().includes(query);
+          const matchDesc = (item.description || '').toLowerCase().includes(query);
+          const matchRole = (item.ecological_role || '').toLowerCase().includes(query);
+          if (!matchCommon && !matchSci && !matchFam && !matchLoc && !matchDesc && !matchRole) {
+            return false;
+          }
+        }
+
+        return true;
+      });
+
+      renderSpeciesGrid(filtered);
+    }
+
+    function renderSpeciesGrid(speciesList) {
+      const grid = document.getElementById('species-grid');
+      grid.innerHTML = '';
+
+      if (speciesList.length === 0) {
+        grid.innerHTML = `
+          <div class="empty-state">
+            <div style="font-size: 2.5rem; margin-bottom: 0.5rem;">🔍</div>
+            <h3>No species matching your filters</h3>
+            <p style="margin-top: 0.3rem;">Try clearing your search query or selecting "All" categories.</p>
+          </div>
+        `;
+        return;
+      }
+
+      speciesList.forEach(sp => {
+        const card = document.createElement('div');
+        card.className = 'species-card';
+        card.onclick = () => openModal(sp);
+
+        const badgeClass = sp.division === 'Flora' ? 'badge-flora' : 'badge-fauna';
+        const guildBadge = sp.division === 'Flora' ? 'Flora' : (sp.sub_category || 'Fauna');
+
+        card.innerHTML = `
+          <div class="card-img-wrapper">
+            <img src="${sp.imgPath}" alt="${sp.common_name}" class="card-img" loading="lazy">
+            <div class="card-badges">
+              <span class="badge ${badgeClass}">${guildBadge}</span>
+              <span class="badge badge-id">${sp.id}</span>
+            </div>
+          </div>
+          <div class="card-body">
+            <div class="card-title-group">
+              <h3 class="card-common-name">${sp.common_name}</h3>
+              <p class="card-sci-name">${sp.scientific_name}</p>
+            </div>
+            <div class="card-meta">
+              <div class="meta-row">
+                <span class="label">Family:</span>
+                <span class="val">${sp.family || 'N/A'}</span>
+              </div>
+              <div class="meta-row">
+                <span class="label">Location:</span>
+                <span class="val">${sp.location}</span>
+              </div>
+            </div>
+            <div class="card-role-snippet">
+              ${sp.ecological_role}
+            </div>
+          </div>
+        `;
+
+        grid.appendChild(card);
+      });
+    }
+
+    function openModal(sp) {
+      const modal = document.getElementById('species-modal');
+      const container = document.getElementById('modal-content-area');
+
+      let varietiesHtml = '';
+      if (sp.varieties && sp.varieties.length > 0) {
+        varietiesHtml = `
+          <div style="margin-top: 1rem; border-top: 1px solid rgba(255,255,255,0.1); padding-top: 0.8rem;">
+            <div class="modal-section-title">Observed Color Morphs on Campus</div>
+            <div style="display: flex; gap: 0.8rem; margin-top: 0.5rem; flex-wrap: wrap;">
+              ${sp.varieties.map(v => `
+                <div style="flex: 1; min-width: 130px; text-align: center; background: rgba(0,0,0,0.4); padding: 0.5rem; border-radius: 8px;">
+                  <img src="Flora/images/${v.image_target}" style="width: 100%; height: 110px; object-fit: cover; border-radius: 6px;">
+                  <div style="font-size: 0.75rem; color: #cbd5e1; margin-top: 0.3rem; font-weight: 600;">${v.variety_name.split('(')[0]}</div>
+                </div>
+              `).join('')}
+            </div>
+          </div>
+        `;
+      }
+
+      let legalStatusRow = '';
+      if (sp.conservation_status) {
+        legalStatusRow = `
+          <tr>
+            <td class="m-lbl">Legal Status</td>
+            <td class="m-val" style="color: #f43f5e; font-weight: 700;">${sp.conservation_status}</td>
+          </tr>
+        `;
+      }
+
+      container.innerHTML = `
+        <div class="modal-img-col">
+          <img src="${sp.imgPath}" alt="${sp.common_name}">
+          <div style="font-size: 0.8rem; color: var(--text-dim); text-align: center;">Original Field Survey Specimen Photo</div>
+        </div>
+        <div class="modal-content-col">
+          <div>
+            <div style="display: flex; gap: 0.5rem; margin-bottom: 0.4rem;">
+              <span class="badge ${sp.division === 'Flora' ? 'badge-flora' : 'badge-fauna'}">${sp.division}</span>
+              <span class="badge badge-id">${sp.id}</span>
+            </div>
+            <h2 class="modal-title">${sp.common_name}</h2>
+            <p class="modal-sci">${sp.scientific_name}</p>
+          </div>
+
+          <table class="modal-table">
+            <tr>
+              <td class="m-lbl">Taxonomic Family</td>
+              <td class="m-val">${sp.family || 'N/A'}</td>
+            </tr>
+            <tr>
+              <td class="m-lbl">Classification</td>
+              <td class="m-val">${sp.category}</td>
+            </tr>
+            <tr>
+              <td class="m-lbl">Campus Location</td>
+              <td class="m-val" style="color: var(--accent-emerald); font-weight: 600;">${sp.location}</td>
+            </tr>
+            <tr>
+              <td class="m-lbl">Habitat / Zone</td>
+              <td class="m-val">${sp.habitat}</td>
+            </tr>
+            <tr>
+              <td class="m-lbl">Trophic Level</td>
+              <td class="m-val">${sp.trophic_level}</td>
+            </tr>
+            ${legalStatusRow}
+            <tr>
+              <td class="m-lbl">Survey Source</td>
+              <td class="m-val">${sp.survey_source}</td>
+            </tr>
+          </table>
+
+          <div>
+            <div class="modal-section-title">Description & Morphology</div>
+            <p class="modal-desc" style="margin-top: 0.3rem;">${sp.description}</p>
+          </div>
+
+          <div>
+            <div class="modal-section-title">Ecological Significance & Role</div>
+            <p class="modal-desc" style="margin-top: 0.3rem;">${sp.ecological_role}</p>
+          </div>
+
+          ${varietiesHtml}
+        </div>
+      `;
+
+      modal.classList.add('show');
+      document.body.style.overflow = 'hidden';
+    }
+
+    function closeModal() {
+      const modal = document.getElementById('species-modal');
+      modal.classList.remove('show');
+      document.body.style.overflow = 'auto';
+    }
+
+    function closeModalOnBg(e) {
+      if (e.target.id === 'species-modal') {
+        closeModal();
+      }
+    }
+
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') closeModal();
+    });
+
+    // Initial render
+    renderSpeciesGrid(allSpecies);
+  </script>
+</body>
+</html>
