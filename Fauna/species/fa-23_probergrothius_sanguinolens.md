@@ -11,8 +11,8 @@
 | **Location of Observation** | **Pathway near main canteen** |
 | **Microhabitat** | Sunny pavement, masonry bases, leaf litter near trees |
 | **Trophic Level** | Primary Consumer / Seed Bug (Trophic Level 2) |
-| **Contributing Survey Team** | **Team Rehan** |
-| **Survey Source** | Assignment 2 Survey (Team Rehan) |
+| **Contributing Survey Team** | **Team Viswa** |
+| **Survey Source** | Assignment 2 Survey (Team Viswa) |
 
 ---
 

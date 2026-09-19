@@ -10,8 +10,8 @@
 | **Location of Observation** | **AB1 Golden Stairs** |
 | **Microhabitat** | Shaded, moist gravel/soil planter |
 | **Trophic Level** | Primary Producer (Trophic Level 1) |
-| **Contributing Survey Team** | **Team Rehan** |
-| **Survey Source** | Assignment 2 Survey (Team Rehan) |
+| **Contributing Survey Team** | **Team Viswa** |
+| **Survey Source** | Assignment 2 Survey (Team Viswa) |
 
 ---
 

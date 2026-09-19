@@ -3,7 +3,7 @@
 > **Department of Environmental Science & Engineering (EVS)**  
 > **Shiv Nadar University Chennai (SNU Chennai)**  
 > **Total Documented Faunal Species:** 25 Species across 6 Taxonomic Guilds  
-> **Contributing Survey Teams:** Team Aryan, Team Katyayani, Team Prathin, Team Rehan
+> **Contributing Survey Teams:** Team Aryan, Team Katyayani, Team Prathin, Team Viswa
 
 ---
 
@@ -36,12 +36,12 @@ The campus zoological diversity comprises 25 distinct species spanning Arthropod
 | 17 | `FA-17` | **Checkered Keelback (Asiatic Water Snake)** | *Fowlea piscator* | `Colubridae` | Bio Block & Storm-water drain off Hostel Link Road | [📷 View](images/fowlea_piscator.png) | Team Katyayani | [📄 Open Profile](species/fa-17_fowlea_piscator.md) |
 | 18 | `FA-18` | **Blue Tiger Butterfly** | *Tirumala limniace* | `Nymphalidae` | Perimeter green belt shrubbery | [📷 View](images/tirumala_limniace.png) | Team Prathin | [📄 Open Profile](species/fa-18_tirumala_limniace.md) |
 | 19 | `FA-19` | **Noctuid Owlet Moth** | *Noctuidae sp.* | `Noctuidae` | Service road south of Hostel Link Road | [📷 View](images/noctuidae_sp.png) | Team Prathin | [📄 Open Profile](species/fa-19_noctuidae_sp.md) |
-| 20 | `FA-20` | **Tawny Coster** | *Acraea terpsicore* | `Nymphalidae` | Near Cricket Ground & Main Canteen lawns | [📷 View](images/acraea_terpsicore.png) | Team Rehan | [📄 Open Profile](species/fa-20_acraea_terpsicore.md) |
-| 21 | `FA-21` | **Jungle Babbler** | *Argya striata* | `Leiothrichidae` | AB1 Cafeteria & Garden perimeters | [📷 View](images/argya_striata.png) | Team Rehan | [📄 Open Profile](species/fa-21_argya_striata.md) |
-| 22 | `FA-22` | **Long-legged Marsh Glider** | *Trithemis pallidinervis* | `Libellulidae` | Near Cricket Ground & Wetland margins | [📷 View](images/trithemis_pallidinervis.png) | Team Rehan | [📄 Open Profile](species/fa-22_trithemis_pallidinervis.md) |
-| 23 | `FA-23` | **Indian Red Bug** | *Probergrothius sanguinolens* | `Largidae` | Pathway near main canteen | [📷 View](images/probergrothius_sanguinolens.png) | Team Rehan | [📄 Open Profile](species/fa-23_probergrothius_sanguinolens.md) |
-| 24 | `FA-24` | **Asian Honeybee / Indian Honeybee** | *Apis cerana* | `Apidae` | Near AB3 | [📷 View](images/apis_cerana.png) | Team Rehan | [📄 Open Profile](species/fa-24_apis_cerana.md) |
-| 25 | `FA-25` | **Greater Coucal / Southern Crow Pheasant** | *Centropus sinensis* | `Cuculidae` | Near Football ground | [📷 View](images/centropus_sinensis.png) | Team Rehan | [📄 Open Profile](species/fa-25_centropus_sinensis.md) |
+| 20 | `FA-20` | **Tawny Coster** | *Acraea terpsicore* | `Nymphalidae` | Near Cricket Ground & Main Canteen lawns | [📷 View](images/acraea_terpsicore.png) | Team Viswa | [📄 Open Profile](species/fa-20_acraea_terpsicore.md) |
+| 21 | `FA-21` | **Jungle Babbler** | *Argya striata* | `Leiothrichidae` | AB1 Cafeteria & Garden perimeters | [📷 View](images/argya_striata.png) | Team Viswa | [📄 Open Profile](species/fa-21_argya_striata.md) |
+| 22 | `FA-22` | **Long-legged Marsh Glider** | *Trithemis pallidinervis* | `Libellulidae` | Near Cricket Ground & Wetland margins | [📷 View](images/trithemis_pallidinervis.png) | Team Viswa | [📄 Open Profile](species/fa-22_trithemis_pallidinervis.md) |
+| 23 | `FA-23` | **Indian Red Bug** | *Probergrothius sanguinolens* | `Largidae` | Pathway near main canteen | [📷 View](images/probergrothius_sanguinolens.png) | Team Viswa | [📄 Open Profile](species/fa-23_probergrothius_sanguinolens.md) |
+| 24 | `FA-24` | **Asian Honeybee / Indian Honeybee** | *Apis cerana* | `Apidae` | Near AB3 | [📷 View](images/apis_cerana.png) | Team Viswa | [📄 Open Profile](species/fa-24_apis_cerana.md) |
+| 25 | `FA-25` | **Greater Coucal / Southern Crow Pheasant** | *Centropus sinensis* | `Cuculidae` | Near Football ground | [📷 View](images/centropus_sinensis.png) | Team Viswa | [📄 Open Profile](species/fa-25_centropus_sinensis.md) |
 
 ---
 
@@ -57,7 +57,7 @@ The campus zoological diversity comprises 25 distinct species spanning Arthropod
 - **Team Aryan**: FA-01 to FA-15
 - **Team Katyayani**: FA-16 (Lime Butterfly), FA-17 (Checkered Keelback)
 - **Team Prathin**: FA-18 (Blue Tiger), FA-19 (Owlet Moth)
-- **Team Rehan**: FA-20 (Tawny Coster), FA-21 (Jungle Babbler), FA-22 (Marsh Glider), FA-23 (Indian Red Bug), FA-24 (Asian Honeybee), FA-25 (Greater Coucal)
+- **Team Viswa**: FA-20 (Tawny Coster), FA-21 (Jungle Babbler), FA-22 (Marsh Glider), FA-23 (Indian Red Bug), FA-24 (Asian Honeybee), FA-25 (Greater Coucal)
 
 ---
 

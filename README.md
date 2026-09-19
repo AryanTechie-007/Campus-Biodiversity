@@ -42,9 +42,9 @@ This repository serves as the official, systematically organized **Collective Ca
 
 ### 🌸 Team Katyayani
 - **Dataset Contribution**: Campus survey within 500m radius (4 unique taxa: FL-12, FL-13, FA-16, FA-17).
-- **Team Leader**: **Katyayani Tiwary** (Roll No: `25011102023`)
+- **Team Leader**: **Katyayani Tiwari** (Roll No: `25011102023`)
 - **Team Members**:
-  1. **Katyayani Tiwary** — `25011102023` (Team Leader)
+  1. **Katyayani Tiwari** — `25011102023` (Team Leader)
   2. **Manushri V** — `25011102031`
   3. **Praveen I** — `25011103039`
   4. **Abhishek S** — `25011103045`
@@ -52,23 +52,24 @@ This repository serves as the official, systematically organized **Collective Ca
 
 ### 🌿 Team Prathin
 - **Dataset Contribution**: 5-Zone structured survey across central plaza, admin blocks, hostel grounds, and sports complex (12 unique taxa: FL-14 to FL-23, FA-18, FA-19).
-- **Team Leader**: **BK Prathin** (Roll No: `25011103013`) / **K Anbuselvan** (Roll No: `25011103021`)
+- **Team Leader**: **Prathin Balaji** (Roll No: `25011103013`)
 - **Team Members**:
-  1. **BK Prathin** — `25011103013`
+  1. **Prathin Balaji** (BK Prathin) — `25011103013` (Team Leader)
   2. **K Anbuselvan** — `25011103021`
   3. **PS Sanjai** — `25011103035`
   4. **SP Brooklynn** — `25011103046`
   5. **S Swetha** — `25011103047`
 
-### 🌳 Team Rehan
+### 🌳 Team Viswa
 - **Dataset Contribution**: Comprehensive micro-habitat survey including campus canopy trees, cycads, aroids, climbers, mosses, and avian predators (18 unique taxa: FL-24 to FL-35, FA-20 to FA-25).
-- **Team Leader**: **Rehan Bava R** (Roll No: `25011103042`)
+- **Team Leader**: **Viswa R** (Roll No: `25011103061`)
 - **Team Members**:
-  1. **Rehan Bava R** — `25011103042` (Team Leader)
-  2. **Rithik Raghav P** — `25011103043`
-  3. **Ritvik R** — `25011103044`
-  4. **Viswa** — `25011103061`
+  1. **Viswa R** — `25011103061` (Team Leader)
+  2. **Rehan Bava R** — `25011103042`
+  3. **Rithik Raghav P** — `25011103043`
+  4. **Ritvik R** — `25011103044`
   5. **Yogit SB** — `25011103062`
+
 
 ---
 
@@ -99,18 +100,18 @@ This repository serves as the official, systematically organized **Collective Ca
 | `FL-21` | **Golden Dewdrop / Skyflower** | *Duranta erecta* | `Verbenaceae` | Lawn beside Sports Complex | [📷 Photo](Flora/images/duranta_erecta.png) | Team Prathin | [📄 Profile](Flora/species/fl-21_duranta_erecta.md) |
 | `FL-22` | **Bermuda Grass / Arugampullu** | *Cynodon dactylon* | `Poaceae` | All mown lawns across campus | [📷 Photo](Flora/images/cynodon_dactylon.png) | Team Prathin | [📄 Profile](Flora/species/fl-22_cynodon_dactylon.md) |
 | `FL-23` | **Parasol Mushroom / Lawn Chlorophyllum** | *Chlorophyllum sp.* | `Agaricaceae` | Lawn beside the Sports Complex | [📷 Photo](Flora/images/chlorophyllum_sp.png) | Team Prathin | [📄 Profile](Flora/species/fl-23_chlorophyllum_sp.md) |
-| `FL-24` | **Willowleaf Angelon / Summer Snapdragon** | *Angelonia salicariifolia* | `Plantaginaceae` | Near Clocktower | [📷 Photo](Flora/images/angelonia_salicariifolia.png) | Team Rehan | [📄 Profile](Flora/species/fl-24_angelonia_salicariifolia.md) |
-| `FL-25` | **Sago Palm / King Sago Cycad** | *Cycas revoluta* | `Cycadaceae` | Garden Lawn near AB1 | [📷 Photo](Flora/images/cycas_revoluta.png) | Team Rehan | [📄 Profile](Flora/species/fl-25_cycas_revoluta.md) |
-| `FL-26` | **Ruffled Fan Palm / Vanuatu Fan Palm** | *Licuala grandis* | `Arecaceae` | AB1 Entrance | [📷 Photo](Flora/images/licuala_grandis.png) | Team Rehan | [📄 Profile](Flora/species/fl-26_licuala_grandis.md) |
-| `FL-27` | **Golden Melinonii** | *Philodendron melinonii 'Golden'* | `Araceae` | AB1 Golden Stairs | [📷 Photo](Flora/images/philodendron_melinonii.png) | Team Rehan | [📄 Profile](Flora/species/fl-27_philodendron_melinonii_golden.md) |
-| `FL-28` | **Wild Jasmine / Ban Mallika** | *Jasminum angustifolium* | `Oleaceae` | Near AB3 | [📷 Photo](Flora/images/jasminum_angustifolium.png) | Team Rehan | [📄 Profile](Flora/species/fl-28_jasminum_angustifolium.md) |
-| `FL-29` | **Gulmohar / Royal Poinciana (Flame Tree)** | *Delonix regia* | `Fabaceae` | Clocktower | [📷 Photo](Flora/images/delonix_regia.png) | Team Rehan | [📄 Profile](Flora/species/fl-29_delonix_regia.md) |
-| `FL-30` | **Giant Crinum Lily / Poison Bulb** | *Crinum asiaticum* | `Amaryllidaceae` | Near Old Sports Complex | [📷 Photo](Flora/images/crinum_asiaticum.png) | Team Rehan | [📄 Profile](Flora/species/fl-30_crinum_asiaticum.md) |
-| `FL-31` | **East Indian Walnut / Siris Tree** | *Albizia lebbeck* | `Fabaceae` | Pathway near Old Sports Complex | [📷 Photo](Flora/images/albizia_lebbeck.png) | Team Rehan | [📄 Profile](Flora/species/fl-31_albizia_lebbeck.md) |
-| `FL-32` | **Variegated Spider Plant / Ribbon Plant** | *Chlorophytum comosum 'Variegatum'* | `Asparagaceae` | Near AB1 | [📷 Photo](Flora/images/chlorophytum_comosum.png) | Team Rehan | [📄 Profile](Flora/species/fl-32_chlorophytum_comosum_variegatum.md) |
-| `FL-33` | **Dumb Cane / Leopard Lily** | *Dieffenbachia seguine* | `Araceae` | Outside AB3 block | [📷 Photo](Flora/images/dieffenbachia_seguine.png) | Team Rehan | [📄 Profile](Flora/species/fl-33_dieffenbachia_seguine.md) |
-| `FL-34` | **Bushkiller Vine** | *Cayratia japonica* | `Vitaceae` | Near AB1 | [📷 Photo](Flora/images/cayratia_japonica.png) | Team Rehan | [📄 Profile](Flora/species/fl-34_cayratia_japonica.md) |
-| `FL-35` | **Campus Lithophytic Moss** | *Bryophyta sp.* | `Bryaceae` | Well near cricket ground | [📷 Photo](Flora/images/bryophyta_sp.png) | Team Rehan | [📄 Profile](Flora/species/fl-35_bryophyta_sp.md) |
+| `FL-24` | **Willowleaf Angelon / Summer Snapdragon** | *Angelonia salicariifolia* | `Plantaginaceae` | Near Clocktower | [📷 Photo](Flora/images/angelonia_salicariifolia.png) | Team Viswa | [📄 Profile](Flora/species/fl-24_angelonia_salicariifolia.md) |
+| `FL-25` | **Sago Palm / King Sago Cycad** | *Cycas revoluta* | `Cycadaceae` | Garden Lawn near AB1 | [📷 Photo](Flora/images/cycas_revoluta.png) | Team Viswa | [📄 Profile](Flora/species/fl-25_cycas_revoluta.md) |
+| `FL-26` | **Ruffled Fan Palm / Vanuatu Fan Palm** | *Licuala grandis* | `Arecaceae` | AB1 Entrance | [📷 Photo](Flora/images/licuala_grandis.png) | Team Viswa | [📄 Profile](Flora/species/fl-26_licuala_grandis.md) |
+| `FL-27` | **Golden Melinonii** | *Philodendron melinonii 'Golden'* | `Araceae` | AB1 Golden Stairs | [📷 Photo](Flora/images/philodendron_melinonii.png) | Team Viswa | [📄 Profile](Flora/species/fl-27_philodendron_melinonii_golden.md) |
+| `FL-28` | **Wild Jasmine / Ban Mallika** | *Jasminum angustifolium* | `Oleaceae` | Near AB3 | [📷 Photo](Flora/images/jasminum_angustifolium.png) | Team Viswa | [📄 Profile](Flora/species/fl-28_jasminum_angustifolium.md) |
+| `FL-29` | **Gulmohar / Royal Poinciana (Flame Tree)** | *Delonix regia* | `Fabaceae` | Clocktower | [📷 Photo](Flora/images/delonix_regia.png) | Team Viswa | [📄 Profile](Flora/species/fl-29_delonix_regia.md) |
+| `FL-30` | **Giant Crinum Lily / Poison Bulb** | *Crinum asiaticum* | `Amaryllidaceae` | Near Old Sports Complex | [📷 Photo](Flora/images/crinum_asiaticum.png) | Team Viswa | [📄 Profile](Flora/species/fl-30_crinum_asiaticum.md) |
+| `FL-31` | **East Indian Walnut / Siris Tree** | *Albizia lebbeck* | `Fabaceae` | Pathway near Old Sports Complex | [📷 Photo](Flora/images/albizia_lebbeck.png) | Team Viswa | [📄 Profile](Flora/species/fl-31_albizia_lebbeck.md) |
+| `FL-32` | **Variegated Spider Plant / Ribbon Plant** | *Chlorophytum comosum 'Variegatum'* | `Asparagaceae` | Near AB1 | [📷 Photo](Flora/images/chlorophytum_comosum.png) | Team Viswa | [📄 Profile](Flora/species/fl-32_chlorophytum_comosum_variegatum.md) |
+| `FL-33` | **Dumb Cane / Leopard Lily** | *Dieffenbachia seguine* | `Araceae` | Outside AB3 block | [📷 Photo](Flora/images/dieffenbachia_seguine.png) | Team Viswa | [📄 Profile](Flora/species/fl-33_dieffenbachia_seguine.md) |
+| `FL-34` | **Bushkiller Vine** | *Cayratia japonica* | `Vitaceae` | Near AB1 | [📷 Photo](Flora/images/cayratia_japonica.png) | Team Viswa | [📄 Profile](Flora/species/fl-34_cayratia_japonica.md) |
+| `FL-35` | **Campus Lithophytic Moss** | *Bryophyta sp.* | `Bryaceae` | Well near cricket ground | [📷 Photo](Flora/images/bryophyta_sp.png) | Team Viswa | [📄 Profile](Flora/species/fl-35_bryophyta_sp.md) |
 
 ---
 
@@ -137,12 +138,12 @@ This repository serves as the official, systematically organized **Collective Ca
 | `FA-17` | **Checkered Keelback (Asiatic Water Snake)** | *Fowlea piscator* | `Colubridae` | Bio Block & Storm-water drain off Hostel Link Road | [📷 Photo](Fauna/images/fowlea_piscator.png) | Team Katyayani | [📄 Profile](Fauna/species/fa-17_fowlea_piscator.md) |
 | `FA-18` | **Blue Tiger Butterfly** | *Tirumala limniace* | `Nymphalidae` | Perimeter green belt shrubbery | [📷 Photo](Fauna/images/tirumala_limniace.png) | Team Prathin | [📄 Profile](Fauna/species/fa-18_tirumala_limniace.md) |
 | `FA-19` | **Noctuid Owlet Moth** | *Noctuidae sp.* | `Noctuidae` | Service road south of Hostel Link Road | [📷 Photo](Fauna/images/noctuidae_sp.png) | Team Prathin | [📄 Profile](Fauna/species/fa-19_noctuidae_sp.md) |
-| `FA-20` | **Tawny Coster** | *Acraea terpsicore* | `Nymphalidae` | Near Cricket Ground & Main Canteen lawns | [📷 Photo](Fauna/images/acraea_terpsicore.png) | Team Rehan | [📄 Profile](Fauna/species/fa-20_acraea_terpsicore.md) |
-| `FA-21` | **Jungle Babbler** | *Argya striata* | `Leiothrichidae` | AB1 Cafeteria & Garden perimeters | [📷 Photo](Fauna/images/argya_striata.png) | Team Rehan | [📄 Profile](Fauna/species/fa-21_argya_striata.md) |
-| `FA-22` | **Long-legged Marsh Glider** | *Trithemis pallidinervis* | `Libellulidae` | Near Cricket Ground & Wetland margins | [📷 Photo](Fauna/images/trithemis_pallidinervis.png) | Team Rehan | [📄 Profile](Fauna/species/fa-22_trithemis_pallidinervis.md) |
-| `FA-23` | **Indian Red Bug** | *Probergrothius sanguinolens* | `Largidae` | Pathway near main canteen | [📷 Photo](Fauna/images/probergrothius_sanguinolens.png) | Team Rehan | [📄 Profile](Fauna/species/fa-23_probergrothius_sanguinolens.md) |
-| `FA-24` | **Asian Honeybee / Indian Honeybee** | *Apis cerana* | `Apidae` | Near AB3 | [📷 Photo](Fauna/images/apis_cerana.png) | Team Rehan | [📄 Profile](Fauna/species/fa-24_apis_cerana.md) |
-| `FA-25` | **Greater Coucal / Southern Crow Pheasant** | *Centropus sinensis* | `Cuculidae` | Near Football ground | [📷 Photo](Fauna/images/centropus_sinensis.png) | Team Rehan | [📄 Profile](Fauna/species/fa-25_centropus_sinensis.md) |
+| `FA-20` | **Tawny Coster** | *Acraea terpsicore* | `Nymphalidae` | Near Cricket Ground & Main Canteen lawns | [📷 Photo](Fauna/images/acraea_terpsicore.png) | Team Viswa | [📄 Profile](Fauna/species/fa-20_acraea_terpsicore.md) |
+| `FA-21` | **Jungle Babbler** | *Argya striata* | `Leiothrichidae` | AB1 Cafeteria & Garden perimeters | [📷 Photo](Fauna/images/argya_striata.png) | Team Viswa | [📄 Profile](Fauna/species/fa-21_argya_striata.md) |
+| `FA-22` | **Long-legged Marsh Glider** | *Trithemis pallidinervis* | `Libellulidae` | Near Cricket Ground & Wetland margins | [📷 Photo](Fauna/images/trithemis_pallidinervis.png) | Team Viswa | [📄 Profile](Fauna/species/fa-22_trithemis_pallidinervis.md) |
+| `FA-23` | **Indian Red Bug** | *Probergrothius sanguinolens* | `Largidae` | Pathway near main canteen | [📷 Photo](Fauna/images/probergrothius_sanguinolens.png) | Team Viswa | [📄 Profile](Fauna/species/fa-23_probergrothius_sanguinolens.md) |
+| `FA-24` | **Asian Honeybee / Indian Honeybee** | *Apis cerana* | `Apidae` | Near AB3 | [📷 Photo](Fauna/images/apis_cerana.png) | Team Viswa | [📄 Profile](Fauna/species/fa-24_apis_cerana.md) |
+| `FA-25` | **Greater Coucal / Southern Crow Pheasant** | *Centropus sinensis* | `Cuculidae` | Near Football ground | [📷 Photo](Fauna/images/centropus_sinensis.png) | Team Viswa | [📄 Profile](Fauna/species/fa-25_centropus_sinensis.md) |
 
 ---
 

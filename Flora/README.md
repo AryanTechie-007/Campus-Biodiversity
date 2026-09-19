@@ -3,7 +3,7 @@
 > **Department of Environmental Science & Engineering (EVS)**  
 > **Shiv Nadar University Chennai (SNU Chennai)**  
 > **Total Documented Unique Floral Species:** 35 Species  
-> **Contributing Survey Teams:** Team Aryan, Team Katyayani, Team Prathin, Team Rehan
+> **Contributing Survey Teams:** Team Aryan, Team Katyayani, Team Prathin, Team Viswa
 
 ---
 
@@ -43,18 +43,18 @@ In accordance with assignment guidelines (*"Do not include duplicate/repeated sp
 | 21 | `FL-21` | **Golden Dewdrop / Skyflower** | *Duranta erecta* | `Verbenaceae` | Lawn beside Sports Complex | [📷 View](images/duranta_erecta.png) | Team Prathin | [📄 Open Profile](species/fl-21_duranta_erecta.md) |
 | 22 | `FL-22` | **Bermuda Grass / Arugampullu** | *Cynodon dactylon* | `Poaceae` | All mown lawns across campus | [📷 View](images/cynodon_dactylon.png) | Team Prathin | [📄 Open Profile](species/fl-22_cynodon_dactylon.md) |
 | 23 | `FL-23` | **Parasol Mushroom / Lawn Chlorophyllum** | *Chlorophyllum sp.* | `Agaricaceae` | Lawn beside the Sports Complex | [📷 View](images/chlorophyllum_sp.png) | Team Prathin | [📄 Open Profile](species/fl-23_chlorophyllum_sp.md) |
-| 24 | `FL-24` | **Willowleaf Angelon / Summer Snapdragon** | *Angelonia salicariifolia* | `Plantaginaceae` | Near Clocktower | [📷 View](images/angelonia_salicariifolia.png) | Team Rehan | [📄 Open Profile](species/fl-24_angelonia_salicariifolia.md) |
-| 25 | `FL-25` | **Sago Palm / King Sago Cycad** | *Cycas revoluta* | `Cycadaceae` | Garden Lawn near AB1 | [📷 View](images/cycas_revoluta.png) | Team Rehan | [📄 Open Profile](species/fl-25_cycas_revoluta.md) |
-| 26 | `FL-26` | **Ruffled Fan Palm / Vanuatu Fan Palm** | *Licuala grandis* | `Arecaceae` | AB1 Entrance | [📷 View](images/licuala_grandis.png) | Team Rehan | [📄 Open Profile](species/fl-26_licuala_grandis.md) |
-| 27 | `FL-27` | **Golden Melinonii** | *Philodendron melinonii 'Golden'* | `Araceae` | AB1 Golden Stairs | [📷 View](images/philodendron_melinonii.png) | Team Rehan | [📄 Open Profile](species/fl-27_philodendron_melinonii_golden.md) |
-| 28 | `FL-28` | **Wild Jasmine / Ban Mallika** | *Jasminum angustifolium* | `Oleaceae` | Near AB3 | [📷 View](images/jasminum_angustifolium.png) | Team Rehan | [📄 Open Profile](species/fl-28_jasminum_angustifolium.md) |
-| 29 | `FL-29` | **Gulmohar / Royal Poinciana (Flame Tree)** | *Delonix regia* | `Fabaceae` | Clocktower | [📷 View](images/delonix_regia.png) | Team Rehan | [📄 Open Profile](species/fl-29_delonix_regia.md) |
-| 30 | `FL-30` | **Giant Crinum Lily / Poison Bulb** | *Crinum asiaticum* | `Amaryllidaceae` | Near Old Sports Complex | [📷 View](images/crinum_asiaticum.png) | Team Rehan | [📄 Open Profile](species/fl-30_crinum_asiaticum.md) |
-| 31 | `FL-31` | **East Indian Walnut / Siris Tree** | *Albizia lebbeck* | `Fabaceae` | Pathway near Old Sports Complex | [📷 View](images/albizia_lebbeck.png) | Team Rehan | [📄 Open Profile](species/fl-31_albizia_lebbeck.md) |
-| 32 | `FL-32` | **Variegated Spider Plant / Ribbon Plant** | *Chlorophytum comosum 'Variegatum'* | `Asparagaceae` | Near AB1 | [📷 View](images/chlorophytum_comosum.png) | Team Rehan | [📄 Open Profile](species/fl-32_chlorophytum_comosum_variegatum.md) |
-| 33 | `FL-33` | **Dumb Cane / Leopard Lily** | *Dieffenbachia seguine* | `Araceae` | Outside AB3 block | [📷 View](images/dieffenbachia_seguine.png) | Team Rehan | [📄 Open Profile](species/fl-33_dieffenbachia_seguine.md) |
-| 34 | `FL-34` | **Bushkiller Vine** | *Cayratia japonica* | `Vitaceae` | Near AB1 | [📷 View](images/cayratia_japonica.png) | Team Rehan | [📄 Open Profile](species/fl-34_cayratia_japonica.md) |
-| 35 | `FL-35` | **Campus Lithophytic Moss** | *Bryophyta sp.* | `Bryaceae` | Well near cricket ground | [📷 View](images/bryophyta_sp.png) | Team Rehan | [📄 Open Profile](species/fl-35_bryophyta_sp.md) |
+| 24 | `FL-24` | **Willowleaf Angelon / Summer Snapdragon** | *Angelonia salicariifolia* | `Plantaginaceae` | Near Clocktower | [📷 View](images/angelonia_salicariifolia.png) | Team Viswa | [📄 Open Profile](species/fl-24_angelonia_salicariifolia.md) |
+| 25 | `FL-25` | **Sago Palm / King Sago Cycad** | *Cycas revoluta* | `Cycadaceae` | Garden Lawn near AB1 | [📷 View](images/cycas_revoluta.png) | Team Viswa | [📄 Open Profile](species/fl-25_cycas_revoluta.md) |
+| 26 | `FL-26` | **Ruffled Fan Palm / Vanuatu Fan Palm** | *Licuala grandis* | `Arecaceae` | AB1 Entrance | [📷 View](images/licuala_grandis.png) | Team Viswa | [📄 Open Profile](species/fl-26_licuala_grandis.md) |
+| 27 | `FL-27` | **Golden Melinonii** | *Philodendron melinonii 'Golden'* | `Araceae` | AB1 Golden Stairs | [📷 View](images/philodendron_melinonii.png) | Team Viswa | [📄 Open Profile](species/fl-27_philodendron_melinonii_golden.md) |
+| 28 | `FL-28` | **Wild Jasmine / Ban Mallika** | *Jasminum angustifolium* | `Oleaceae` | Near AB3 | [📷 View](images/jasminum_angustifolium.png) | Team Viswa | [📄 Open Profile](species/fl-28_jasminum_angustifolium.md) |
+| 29 | `FL-29` | **Gulmohar / Royal Poinciana (Flame Tree)** | *Delonix regia* | `Fabaceae` | Clocktower | [📷 View](images/delonix_regia.png) | Team Viswa | [📄 Open Profile](species/fl-29_delonix_regia.md) |
+| 30 | `FL-30` | **Giant Crinum Lily / Poison Bulb** | *Crinum asiaticum* | `Amaryllidaceae` | Near Old Sports Complex | [📷 View](images/crinum_asiaticum.png) | Team Viswa | [📄 Open Profile](species/fl-30_crinum_asiaticum.md) |
+| 31 | `FL-31` | **East Indian Walnut / Siris Tree** | *Albizia lebbeck* | `Fabaceae` | Pathway near Old Sports Complex | [📷 View](images/albizia_lebbeck.png) | Team Viswa | [📄 Open Profile](species/fl-31_albizia_lebbeck.md) |
+| 32 | `FL-32` | **Variegated Spider Plant / Ribbon Plant** | *Chlorophytum comosum 'Variegatum'* | `Asparagaceae` | Near AB1 | [📷 View](images/chlorophytum_comosum.png) | Team Viswa | [📄 Open Profile](species/fl-32_chlorophytum_comosum_variegatum.md) |
+| 33 | `FL-33` | **Dumb Cane / Leopard Lily** | *Dieffenbachia seguine* | `Araceae` | Outside AB3 block | [📷 View](images/dieffenbachia_seguine.png) | Team Viswa | [📄 Open Profile](species/fl-33_dieffenbachia_seguine.md) |
+| 34 | `FL-34` | **Bushkiller Vine** | *Cayratia japonica* | `Vitaceae` | Near AB1 | [📷 View](images/cayratia_japonica.png) | Team Viswa | [📄 Open Profile](species/fl-34_cayratia_japonica.md) |
+| 35 | `FL-35` | **Campus Lithophytic Moss** | *Bryophyta sp.* | `Bryaceae` | Well near cricket ground | [📷 View](images/bryophyta_sp.png) | Team Viswa | [📄 Open Profile](species/fl-35_bryophyta_sp.md) |
 
 ---
 
@@ -62,7 +62,7 @@ In accordance with assignment guidelines (*"Do not include duplicate/repeated sp
 - **Team Aryan**: Foundational campus biodiversity survey (FL-01 to FL-11)
 - **Team Katyayani**: Wetland and ornamental taxa (FL-12, FL-13)
 - **Team Prathin**: Plaza beds, lawns, and student residence ornamental flora (FL-14 to FL-23)
-- **Team Rehan**: Campus canopy, cycads, aroids, climbing vines, and lithophytes (FL-24 to FL-35)
+- **Team Viswa**: Campus canopy, cycads, aroids, climbing vines, and lithophytes (FL-24 to FL-35)
 
 ---
 
