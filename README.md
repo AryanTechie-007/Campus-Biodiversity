@@ -29,7 +29,7 @@ This repository serves as the official, systematically organized **Collective Ca
 
 ## 👥 Contributing Teams & Research Roster
 
-### 🌟 Team Aryan (Founding Survey Team)
+### 🌟 Team Aryan
 - **Dataset Contribution**: Initial comprehensive campus biodiversity survey (26 unique taxa: FL-01 to FL-11, FA-01 to FA-15).
 - **Team Leader**: **Aryan Sinha** (Roll No: `25011103009`) • [AryanTechie-007](https://github.com/AryanTechie-007)
 - **Team Members**:

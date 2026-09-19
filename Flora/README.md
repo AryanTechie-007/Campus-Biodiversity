@@ -59,7 +59,7 @@ In accordance with assignment guidelines (*"Do not include duplicate/repeated sp
 ---
 
 ## Contributing Survey Teams
-- **Team Aryan**: Foundational campus biodiversity survey (FL-01 to FL-11)
+- **Team Aryan**: Campus biodiversity survey (FL-01 to FL-11)
 - **Team Katyayani**: Wetland and ornamental taxa (FL-12, FL-13)
 - **Team Prathin**: Plaza beds, lawns, and student residence ornamental flora (FL-14 to FL-23)
 - **Team Viswa**: Campus canopy, cycads, aroids, climbing vines, and lithophytes (FL-24 to FL-35)
