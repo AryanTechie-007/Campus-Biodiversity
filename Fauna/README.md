@@ -2,7 +2,9 @@
 
 > **Department of Environmental Science & Engineering (EVS)**  
 > **Shiv Nadar University Chennai (SNU Chennai)**  
-> **Total Documented Faunal Species:** 15 Species across 6 Taxonomic Guilds
+> **Total Documented Faunal Species:** 15 Species across 6 Taxonomic Guilds  
+> **Data Contributed By:** Team Aryan (Lead: Aryan Sinha - `25011103009`)
+
 
 ---
 

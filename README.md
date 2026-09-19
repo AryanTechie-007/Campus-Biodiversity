@@ -18,6 +18,7 @@ This repository serves as the official, systematically organized **Collective Ca
 - 🌿 **Flora (Botanical Diversity)**: **11 Unique Species** (Trees, Palms, Shrubs, Climbing Vines, and Wetland Herbs).
 - 🐾 **Fauna (Zoological Diversity)**: **15 Unique Species** across 6 distinct taxonomic guilds (Insects, Myriapods, Molluscs, Crustaceans, Reptiles, Birds, and Mammals).
 - 🛡️ **Conservation Highlight**: Documented presence of the **Crimson Rose Butterfly (*Pachliopta hector*)**, a **Schedule I Protected Species** under the Indian Wildlife (Protection) Act, and the **Indian Peafowl (*Pavo cristatus*)**, the **National Bird of India**.
+- 👥 **Data Provenance**: Surveyed and contributed by **Team Aryan** (Team Lead: Aryan Sinha - `25011103009`).
 - 🔄 **Deduplication Policy**: In strict compliance with guidelines (*"Do not include duplicate/repeated species. Each species should be listed only once"*), redundant entries such as *Hibiscus rosa-sinensis* (observed as both Tropical Peach and Crimson Red cultivars) have been unified into a single comprehensive taxon entry (`FL-02`) with both original field survey photographs documented.
 
 ---
@@ -168,6 +169,23 @@ The biodiversity documented on campus interacts dynamically across four major tr
 
 ---
 
+## 👥 Contributing Teams & Research Roster
+
+### 🌟 Team Aryan (Founding Survey Team)
+- **Dataset Contribution**: Initial comprehensive campus biodiversity survey (26 unique taxa: 11 Flora, 15 Fauna across SNU Chennai campus).
+- **Team Leader**: **Aryan Sinha** (Roll No: `25011103009`) • [AryanTechie-007](https://github.com/AryanTechie-007)
+- **Team Members**:
+  1. **Aryan Sinha** — `25011103009` (Team Leader)
+  2. **Pranavsai Reddy**
+  3. **Srijan Karmakar** — `25011103056`
+  4. **Ragul Thangam**
+  5. **Sri Darshini**
+  6. **Shrimati**
+
+> ℹ️ *As additional teams upload survey documents (.docx / .pdf), their verified observations and team rosters will be integrated under their respective Team Leader attributions.*
+
+---
+
 ## 👥 Course & Assignment Information
 - **Course**: Environmental Science and Engineering (EVS)
 - **Institution**: Shiv Nadar University Chennai (SNU Chennai)
@@ -181,3 +199,4 @@ The biodiversity documented on campus interacts dynamically across four major tr
   <b>Shiv Nadar University Chennai — Campus Biodiversity Inventory Repository</b><br>
   <i>Conserving and documenting our living campus heritage.</i>
 </p>
+

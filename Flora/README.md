@@ -2,7 +2,9 @@
 
 > **Department of Environmental Science & Engineering (EVS)**  
 > **Shiv Nadar University Chennai (SNU Chennai)**  
-> **Total Documented Unique Floral Species:** 11 Species
+> **Total Documented Unique Floral Species:** 11 Species  
+> **Data Contributed By:** Team Aryan (Lead: Aryan Sinha - `25011103009`)
+
 
 ---
 

@@ -20,7 +20,8 @@
       "description": "Evergreen tree/shrub known for glossy dark green obovate leaves with blunt tips and fragrant white flowers with yellow centers. Drought tolerant and highly attractive to pollinating sphinx/hawk moths.",
       "image_src": "extracted_pdf_assets/page_1_img_1_8.png",
       "image_target": "plumeria_obtusa.png",
-      "survey_source": "Survey Specimen 01"
+      "survey_source": "Survey Specimen 01",
+      "contributor_team": "Team Aryan"
     },
     {
       "id": "FL-02",
@@ -49,7 +50,8 @@
       ],
       "image_src": "extracted_pdf_assets/page_2_img_1_13.png",
       "image_target": "hibiscus_rosa_sinensis.png",
-      "survey_source": "Survey Specimens 02 & 12 (Deduplicated single species with documented cultivars)"
+      "survey_source": "Survey Specimens 02 & 12 (Deduplicated single species with documented cultivars)",
+      "contributor_team": "Team Aryan"
     },
     {
       "id": "FL-03",
@@ -64,7 +66,8 @@
       "description": "Perennial deciduous or semi-evergreen woody vine characterized by bipinnately compound leaves with serrated margins. Produces small berry clusters that serve as crucial food for campus avifauna.",
       "image_src": "extracted_pdf_assets/page_2_img_2_14.png",
       "image_target": "nekemias_arborea.png",
-      "survey_source": "Survey Specimen 03"
+      "survey_source": "Survey Specimen 03",
+      "contributor_team": "Team Aryan"
     },
     {
       "id": "FL-04",
@@ -79,7 +82,8 @@
       "description": "Noble solitary palm indigenous to Madagascar with a stout trunk topped by a massive spherical crown of steel-blue, costapalmate leaves. Provides elevated perches for predatory and passerine birds.",
       "image_src": "extracted_pdf_assets/page_3_img_1_17.png",
       "image_target": "bismarckia_nobilis.png",
-      "survey_source": "Survey Specimen 04"
+      "survey_source": "Survey Specimen 04",
+      "contributor_team": "Team Aryan"
     },
     {
       "id": "FL-05",
@@ -94,7 +98,8 @@
       "description": "Densely clustering fan palm with slender bamboo-like stems covered in coarse brown fiber. The deeply divided palmate leaves create microhabitats for ground invertebrates.",
       "image_src": "extracted_pdf_assets/page_3_img_2_19.png",
       "image_target": "rhapis_excelsa.png",
-      "survey_source": "Survey Specimen 05"
+      "survey_source": "Survey Specimen 05",
+      "contributor_team": "Team Aryan"
     },
     {
       "id": "FL-06",
@@ -109,7 +114,8 @@
       "description": "Robust native palm reaching up to 15m in height, characterized by diamond-shaped leaf base scars on the trunk. Fruit clusters are vital seasonal food resources for campus wildlife.",
       "image_src": "extracted_pdf_assets/page_4_img_1_23.png",
       "image_target": "phoenix_sylvestris.png",
-      "survey_source": "Survey Specimen 06"
+      "survey_source": "Survey Specimen 06",
+      "contributor_team": "Team Aryan"
     },
     {
       "id": "FL-07",
@@ -124,7 +130,8 @@
       "description": "Vigorous sprawling evergreen shrub with whorled glossy leathery leaves and trumpet-shaped golden-yellow flowers emitting a delicate fragrance.",
       "image_src": "extracted_pdf_assets/page_4_img_2_24.png",
       "image_target": "allamanda_cathartica.png",
-      "survey_source": "Survey Specimen 07"
+      "survey_source": "Survey Specimen 07",
+      "contributor_team": "Team Aryan"
     },
     {
       "id": "FL-08",
@@ -139,7 +146,8 @@
       "description": "Erect perennial subshrub with deeply veined, dark green serrated leaves. Exhibits mutualistic interactions with native ants through nectar-secreting glands on petioles.",
       "image_src": "extracted_pdf_assets/page_5_img_1_28.png",
       "image_target": "turnera_ulmifolia.png",
-      "survey_source": "Survey Specimen 08"
+      "survey_source": "Survey Specimen 08",
+      "contributor_team": "Team Aryan"
     },
     {
       "id": "FL-09",
@@ -154,7 +162,8 @@
       "description": "Small deciduous tree with narrow elongated lanceolate leaves having distinct downward-curled margins. Flowers release intense fragrance in the evening.",
       "image_src": "extracted_pdf_assets/page_5_img_2_29.png",
       "image_target": "plumeria_alba.png",
-      "survey_source": "Survey Specimen 09"
+      "survey_source": "Survey Specimen 09",
+      "contributor_team": "Team Aryan"
     },
     {
       "id": "FL-10",
@@ -169,7 +178,8 @@
       "description": "Deciduous tree with thick succulent branches and elliptic-oblong pointed leaves. Renowned for rich aromatic deep pink-red blossoms that bloom in terminal cymes.",
       "image_src": "extracted_pdf_assets/page_6_img_1_32.png",
       "image_target": "plumeria_rubra.png",
-      "survey_source": "Survey Specimen 10"
+      "survey_source": "Survey Specimen 10",
+      "contributor_team": "Team Aryan"
     },
     {
       "id": "FL-11",
@@ -184,7 +194,8 @@
       "description": "Bulbous perennial herb with strap-like linear leaves and umbels of pure white spider-like blossoms. Roots stabilize soil along moist drainage contours.",
       "image_src": "extracted_pdf_assets/page_6_img_2_33.png",
       "image_target": "hymenocallis_littoralis.png",
-      "survey_source": "Survey Specimen 11"
+      "survey_source": "Survey Specimen 11",
+      "contributor_team": "Team Aryan"
     }
   ],
   "fauna": [
@@ -203,7 +214,8 @@
       "description": "Seed bug displaying high-contrast crimson and black geometric markings. Feeds selectively on seed fluids and serves as prey for specialized predators.",
       "image_src": "extracted_pdf_assets/page_7_img_2_39.png",
       "image_target": "spilostethus_hospes.png",
-      "survey_source": "Survey Specimen 13"
+      "survey_source": "Survey Specimen 13",
+      "contributor_team": "Team Aryan"
     },
     {
       "id": "FA-02",
@@ -221,7 +233,8 @@
       "description": "Large, breathtaking swallowtail butterfly with velvety-black forewings crossed by white bands and brilliant crimson-red spots along the scalloped margin of hindwings. Pollinates diverse flowering flora.",
       "image_src": "extracted_pdf_assets/page_8_img_1_42.png",
       "image_target": "pachliopta_hector.png",
-      "survey_source": "Survey Specimen 14"
+      "survey_source": "Survey Specimen 14",
+      "contributor_team": "Team Aryan"
     },
     {
       "id": "FA-03",
@@ -238,7 +251,8 @@
       "description": "Slender brownish-yellow social wasp renowned as a model organism in sociobiology. Workers forage tirelessly for caterpillars and insect larvae to feed developing broods, providing biocontrol.",
       "image_src": "extracted_pdf_assets/page_8_img_2_44.png",
       "image_target": "ropalidia_marginata.png",
-      "survey_source": "Survey Specimen 15"
+      "survey_source": "Survey Specimen 15",
+      "contributor_team": "Team Aryan"
     },
     {
       "id": "FA-04",
@@ -255,7 +269,8 @@
       "description": "Massive terrestrial pulmonate gastropod with a tall, conical brown and yellow variegated shell. Feeds voraciously on decaying vegetation, recycling organic matter into soil humus.",
       "image_src": "extracted_pdf_assets/page_9_img_1_48.png",
       "image_target": "lissachatina_fulica.png",
-      "survey_source": "Survey Specimen 16"
+      "survey_source": "Survey Specimen 16",
+      "contributor_team": "Team Aryan"
     },
     {
       "id": "FA-05",
@@ -272,7 +287,8 @@
       "description": "Semi-terrestrial freshwater burrowing crab with dark brownish carapace and adapted chelae for digging. Deep burrows aerate soil and provide vital prey for larger wading birds and mammals.",
       "image_src": "extracted_pdf_assets/page_9_img_2_50.png",
       "image_target": "oziotelphusa_senex.png",
-      "survey_source": "Survey Specimen 17"
+      "survey_source": "Survey Specimen 17",
+      "contributor_team": "Team Aryan"
     },
     {
       "id": "FA-06",
@@ -289,7 +305,8 @@
       "description": "Vibrantly colored hemipteran bug with bright red body, white transverse abdominal bands, and black markings on hemelytra. Often seen gregariously feeding on hibiscus flower buds and seeds.",
       "image_src": "extracted_pdf_assets/page_10_img_1_53.png",
       "image_target": "dysdercus_cingulatus.png",
-      "survey_source": "Survey Specimen 18"
+      "survey_source": "Survey Specimen 18",
+      "contributor_team": "Team Aryan"
     },
     {
       "id": "FA-07",
@@ -306,7 +323,8 @@
       "description": "Striking millipede featuring a dark cylindrical exoskeleton accented by vibrant crimson-red bands and head. Plays an indispensable role in converting coarse mulch into bioavailable soil nutrients.",
       "image_src": "extracted_pdf_assets/page_10_img_2_55.png",
       "image_target": "xenobolus_carnifex.png",
-      "survey_source": "Survey Specimen 19"
+      "survey_source": "Survey Specimen 19",
+      "contributor_team": "Team Aryan"
     },
     {
       "id": "FA-08",
@@ -323,7 +341,8 @@
       "description": "Endemic southern Indian songbird renowned for foraging in tight communal flocks of 6 to 10 individuals ('Seven Sisters'). Energetically flips leaf litter to uncover hidden insects and larvae.",
       "image_src": "extracted_pdf_assets/page_11_img_1_59.png",
       "image_target": "argya_affinis.png",
-      "survey_source": "Survey Specimen 20"
+      "survey_source": "Survey Specimen 20",
+      "contributor_team": "Team Aryan"
     },
     {
       "id": "FA-09",
@@ -340,7 +359,8 @@
       "description": "All-black passerine with an unmistakable deeply forked tail. Renowned for its aerial acrobatic hunting displays catching dragonflies, cicadas, and moths mid-air.",
       "image_src": "extracted_pdf_assets/page_11_img_2_61.png",
       "image_target": "dicrurus_macrocercus.png",
-      "survey_source": "Survey Specimen 21"
+      "survey_source": "Survey Specimen 21",
+      "contributor_team": "Team Aryan"
     },
     {
       "id": "FA-10",
@@ -357,7 +377,8 @@
       "description": "Slender crow recognized by its pale grey nape, neck, and breast contrasted with glossy black forehead and wings. Acts as a campus scavenger and opportunist predator.",
       "image_src": "extracted_pdf_assets/page_12_img_1_65.png",
       "image_target": "corvus_splendens.png",
-      "survey_source": "Survey Specimen 22"
+      "survey_source": "Survey Specimen 22",
+      "contributor_team": "Team Aryan"
     },
     {
       "id": "FA-11",
@@ -374,7 +395,8 @@
       "description": "Arboreal cercopithecine monkey endemic to peninsular India, noted for its radiating cap of dark hair. Troops travel across campus trees feeding on date palm drupes, peppervine berries, and tree shoots.",
       "image_src": "extracted_pdf_assets/page_12_img_2_66.png",
       "image_target": "macaca_radiata.png",
-      "survey_source": "Survey Specimen 23"
+      "survey_source": "Survey Specimen 23",
+      "contributor_team": "Team Aryan"
     },
     {
       "id": "FA-12",
@@ -391,7 +413,8 @@
       "description": "Indigenous primitive landrace dog characterized by erect ears, wedge-shaped head, and curved tail. Functions as a territorial apex mammalian scavenger across the campus boundary.",
       "image_src": "extracted_pdf_assets/page_13_img_1_70.png",
       "image_target": "canis_lupus_familiaris.png",
-      "survey_source": "Survey Specimen 24"
+      "survey_source": "Survey Specimen 24",
+      "contributor_team": "Team Aryan"
     },
     {
       "id": "FA-13",
@@ -408,7 +431,8 @@
       "description": "The National Bird of India, possessing iridescent cobalt blue neck plumage, fan-shaped crest, and magnificent elongated upper tail coverts with vibrant ocelli. Preys upon ground insects, snails, and lizards.",
       "image_src": "extracted_pdf_assets/page_13_img_2_72.png",
       "image_target": "pavo_cristatus.png",
-      "survey_source": "Survey Specimen 25"
+      "survey_source": "Survey Specimen 25",
+      "contributor_team": "Team Aryan"
     },
     {
       "id": "FA-14",
@@ -425,7 +449,8 @@
       "description": "Diurnal arboreal agamid lizard capable of physiological color shifts. Males develop crimson throat patches during courtship. An efficient ambush predator regulating insect pest numbers.",
       "image_src": "extracted_pdf_assets/page_14_img_1_76.png",
       "image_target": "calotes_versicolor.png",
-      "survey_source": "Survey Specimen 26"
+      "survey_source": "Survey Specimen 26",
+      "contributor_team": "Team Aryan"
     },
     {
       "id": "FA-15",
@@ -442,7 +467,23 @@
       "description": "Agile carnivorous feline adapted to semi-feral campus life. Serves as a vital biological regulator of commensal rodents and small invasive pests around student residences.",
       "image_src": "extracted_pdf_assets/page_14_img_2_78.png",
       "image_target": "felis_catus.png",
-      "survey_source": "Survey Specimen 27"
+      "survey_source": "Survey Specimen 27",
+      "contributor_team": "Team Aryan"
+    }
+  ],
+  "contributing_teams": [
+    {
+      "team_name": "Team Aryan",
+      "team_leader": "Aryan Sinha (25011103009)",
+      "members": [
+        "Aryan Sinha - 25011103009",
+        "Pranavsai Reddy",
+        "Srijan Karmakar - 25011103056",
+        "Ragul Thangam",
+        "Sri Darshini",
+        "Shrimati"
+      ],
+      "contributions": "Initial campus survey (26 unique species: 11 Flora, 15 Fauna)"
     }
   ]
 }
