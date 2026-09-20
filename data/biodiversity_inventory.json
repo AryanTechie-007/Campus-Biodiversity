@@ -130,8 +130,8 @@
       "description": "Vigorous sprawling evergreen shrub with whorled glossy leathery leaves and trumpet-shaped golden-yellow flowers emitting a delicate fragrance.",
       "image_src": "extracted_pdf_assets/page_4_img_2_24.png",
       "image_target": "allamanda_cathartica.png",
-      "survey_source": "Survey Specimen 07",
-      "contributor_team": "Team Aryan"
+      "survey_source": "Assignment 2 Survey (Team Katyayani & Team Aryan)",
+      "contributor_team": "Team Katyayani"
     },
     {
       "id": "FL-08",
@@ -178,8 +178,8 @@
       "description": "Deciduous tree with thick succulent branches and elliptic-oblong pointed leaves. Renowned for rich aromatic deep pink-red blossoms that bloom in terminal cymes.",
       "image_src": "extracted_pdf_assets/page_6_img_1_32.png",
       "image_target": "plumeria_rubra.png",
-      "survey_source": "Survey Specimen 10",
-      "contributor_team": "Team Aryan"
+      "survey_source": "Assignment 2 Survey (Team Saravanan & Team Aryan)",
+      "contributor_team": "Team Saravanan"
     },
     {
       "id": "FL-11",
@@ -194,8 +194,8 @@
       "description": "Bulbous perennial herb with strap-like linear leaves and umbels of pure white spider-like blossoms. Roots stabilize soil along moist drainage contours.",
       "image_src": "extracted_pdf_assets/page_6_img_2_33.png",
       "image_target": "hymenocallis_littoralis.png",
-      "survey_source": "Survey Specimen 11",
-      "contributor_team": "Team Aryan"
+      "survey_source": "Assignment 2 Survey (Team Asmath & Team Aryan)",
+      "contributor_team": "Team Asmath"
     },
     {
       "id": "FL-12",
@@ -964,8 +964,8 @@
       "description": "Slender crow recognized by its pale grey nape, neck, and breast contrasted with glossy black forehead and wings. Acts as a campus scavenger and opportunist predator.",
       "image_src": "extracted_pdf_assets/page_12_img_1_65.png",
       "image_target": "corvus_splendens.png",
-      "survey_source": "Survey Specimen 22",
-      "contributor_team": "Team Aryan"
+      "survey_source": "Assignment 2 Survey (Team Asmath & Team Aryan)",
+      "contributor_team": "Team Asmath"
     },
     {
       "id": "FA-11",
@@ -1018,8 +1018,8 @@
       "description": "The National Bird of India, possessing iridescent cobalt blue neck plumage, fan-shaped crest, and magnificent elongated upper tail coverts with vibrant ocelli. Preys upon ground insects, snails, and lizards.",
       "image_src": "extracted_pdf_assets/page_13_img_2_72.png",
       "image_target": "pavo_cristatus.png",
-      "survey_source": "Survey Specimen 25",
-      "contributor_team": "Team Aryan"
+      "survey_source": "Assignment 2 Survey (Team Saravanan & Team Aryan)",
+      "contributor_team": "Team Saravanan"
     },
     {
       "id": "FA-14",
@@ -1036,8 +1036,8 @@
       "description": "Diurnal arboreal agamid lizard capable of physiological color shifts. Males develop crimson throat patches during courtship. An efficient ambush predator regulating insect pest numbers.",
       "image_src": "extracted_pdf_assets/page_14_img_1_76.png",
       "image_target": "calotes_versicolor.png",
-      "survey_source": "Survey Specimen 26",
-      "contributor_team": "Team Aryan"
+      "survey_source": "Assignment 2 Survey (Team Saravanan & Team Aryan)",
+      "contributor_team": "Team Saravanan"
     },
     {
       "id": "FA-15",
@@ -1563,7 +1563,7 @@
         "Sri Dharshini - 25011103055",
         "Shrimathi Lakshmi - 25011103053"
       ],
-      "contributions": "Founding campus biodiversity survey (26 unique species: FL-01 to FL-11, FA-01 to FA-15)"
+      "contributions": "Founding campus biodiversity survey (20 unique species: FL-01 to FL-06, FL-08, FL-09, FA-01 to FA-05, FA-07 to FA-09, FA-11, FA-12, FA-15)"
     },
     {
       "team_name": "Team Katyayani",
@@ -1575,7 +1575,7 @@
         "Abhishek S - 25011103045",
         "Gunashekar - 25011103060"
       ],
-      "contributions": "Campus survey within 500m radius from EVS project.pdf (4 unique species: Bougainvillea, Pink Knotweed, Lime Butterfly, Checkered Keelback)"
+      "contributions": "Campus survey within 500m radius (5 unique species: FL-07, FL-12, FL-13, FA-16, FA-17)"
     },
     {
       "team_name": "Team Prathin",
@@ -1634,7 +1634,7 @@
         "Darshan Ishvar - 25011103014",
         "Kavin Amudhan I.A. - 25011103024"
       ],
-      "contributions": "Assignment 2 Campus Biodiversity Explorer survey report (13 documented species: Elephant's Foot, Common Myna, Asian Koel, Red Cotton Bug, Indian Palm Squirrel, Stray Dog, House Crow, Land Snail, Jungle Geranium, China Rose, Golden Dewdrop, Beach Spider Lily, Butterfly)"
+      "contributions": "Assignment 2 Campus Biodiversity Explorer survey report (5 unique species: FL-11, FL-42, FA-10, FA-41, FA-42; 13 total documented species)"
     },
     {
       "team_name": "Team Manoj",
@@ -1658,7 +1658,7 @@
         "Maria Griffin Raj I",
         "Sudhanthiran S"
       ],
-      "contributions": "Assignment 2 Campus Biodiversity Survey report (14 documented species: Crimson Rose Butterfly, Red & Pink Ixora, Yellow Allamanda, Frangipani, Red Plant Bug, Oriental Garden Lizard breeding/non-breeding, Indian Peafowl, Checkered Keelback, Wandering Glider Dragonfly, Bougainvillea, Rusty Millipede, Garden Snail; 2 new unique taxa: FA-43, FA-44)"
+      "contributions": "Assignment 2 Campus Biodiversity Survey report (5 unique species: FL-10, FA-13, FA-14, FA-43, FA-44; 14 total documented species)"
     }
   ]
 }

@@ -10,7 +10,8 @@
 | **Location of Observation** | **Pathway behind Dhanyas** |
 | **Microhabitat** | Moist soil border / Drainage margin |
 | **Trophic Level** | Primary Producer (Trophic Level 1) |
-| **Deduplication / Survey Source** | Survey Specimen 11 |
+| **Contributing Survey Team** | **Team Asmath** |
+| **Deduplication / Survey Source** | Assignment 2 Survey (Team Asmath & Team Aryan) |
 
 ---
 

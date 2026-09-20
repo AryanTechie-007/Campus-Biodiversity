@@ -10,7 +10,8 @@
 | **Location of Observation** | **AB3** |
 | **Microhabitat** | Landscaped courtyard / Open lawn |
 | **Trophic Level** | Primary Producer (Trophic Level 1) |
-| **Deduplication / Survey Source** | Survey Specimen 10 |
+| **Contributing Survey Team** | **Team Saravanan** |
+| **Deduplication / Survey Source** | Assignment 2 Survey (Team Saravanan & Team Aryan) |
 
 ---
 

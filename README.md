@@ -31,7 +31,7 @@ This repository serves as the official, systematically organized **Collective Ca
 ## 👥 Contributing Teams & Research Roster
 
 ### 🌟 Team Aryan
-- **Dataset Contribution**: Founding comprehensive campus biodiversity survey (26 unique taxa: FL-01 to FL-11, FA-01 to FA-15).
+- **Dataset Contribution**: Founding comprehensive campus biodiversity survey (20 unique taxa: FL-01 to FL-06, FL-08, FL-09, FA-01 to FA-05, FA-07 to FA-09, FA-11, FA-12, FA-15).
 - **Team Leader**: **Aryan Sinha** (Roll No: `25011103009`) • [AryanTechie-007](https://github.com/AryanTechie-007)
 - **Team Members**:
   1. **Aryan Sinha** — `25011103009` (Team Leader)
@@ -42,7 +42,7 @@ This repository serves as the official, systematically organized **Collective Ca
   6. **Shrimathi Lakshmi** — `25011103053`
 
 ### 🌸 Team Katyayani
-- **Dataset Contribution**: Campus survey within 500m radius (4 unique taxa: FL-12, FL-13, FA-16, FA-17).
+- **Dataset Contribution**: Campus survey within 500m radius (5 unique taxa: FL-07, FL-12, FL-13, FA-16, FA-17).
 - **Team Leader**: **Katyayani Tiwari** (Roll No: `25011102023`)
 - **Team Members**:
   1. **Katyayani Tiwari** — `25011102023` (Team Leader)
@@ -92,7 +92,7 @@ This repository serves as the official, systematically organized **Collective Ca
   5. **Aiswarya** — `25011103002`
 
 ### 🐦 Team Asmath
-- **Dataset Contribution**: Assignment 2 Campus Biodiversity Explorer survey report (3 new unique taxa: FL-42, FA-41, FA-42; 13 total documented species).
+- **Dataset Contribution**: Assignment 2 Campus Biodiversity Explorer survey report (5 unique taxa: FL-11, FL-42, FA-10, FA-41, FA-42; 13 total documented species).
 - **Team Leader**: **Asmath S** (Roll No: `25011103010`)
 - **Team Members**:
   1. **Asmath S** — `25011103010` (Team Leader)
@@ -111,7 +111,7 @@ This repository serves as the official, systematically organized **Collective Ca
   5. **Neha Senthil** — `25011103034`
 
 ### 🦗 Team Saravanan
-- **Dataset Contribution**: Assignment 2 Campus Biodiversity Survey report (2 new unique taxa: FA-43, FA-44; 14 total documented species).
+- **Dataset Contribution**: Assignment 2 Campus Biodiversity Survey report (5 unique taxa: FL-10, FA-13, FA-14, FA-43, FA-44; 14 total documented species).
 - **Team Leader**: **Saravanan K**
 - **Team Members**:
   1. **Saravanan K** (Team Leader)
@@ -132,11 +132,11 @@ This repository serves as the official, systematically organized **Collective Ca
 | **FL-04** | Bismarck Palm | *Bismarckia nobilis* | Arecaceae | Plant (Solitary Fan Palm / Tree) | Team Aryan | [View Profile](Flora/species/fl-04_bismarckia_nobilis.md) |
 | **FL-05** | Bamboo Palm / Lady Palm | *Rhapis excelsa* | Arecaceae | Plant (Clumping Fan Palm / Shrub) | Team Aryan | [View Profile](Flora/species/fl-05_rhapis_excelsa.md) |
 | **FL-06** | Sugar Date Palm / Wild Date Palm | *Phoenix sylvestris* | Arecaceae | Plant (Tree / Arecaceae) | Team Aryan | [View Profile](Flora/species/fl-06_phoenix_sylvestris.md) |
-| **FL-07** | Golden Trumpet / Yellow Allamanda | *Allamanda cathartica* | Apocynaceae | Plant (Woody Climbing Shrub / Apocynaceae) | Team Aryan | [View Profile](Flora/species/fl-07_allamanda_cathartica.md) |
+| **FL-07** | Golden Trumpet / Yellow Allamanda | *Allamanda cathartica* | Apocynaceae | Plant (Woody Climbing Shrub / Apocynaceae) | Team Katyayani | [View Profile](Flora/species/fl-07_allamanda_cathartica.md) |
 | **FL-08** | Yellow Alder / Yellow Buttercup (Ramgovam) | *Turnera ulmifolia* | Passifloraceae | Plant (Flowering Herb / Subshrub / Passifloraceae) | Team Aryan | [View Profile](Flora/species/fl-08_turnera_ulmifolia.md) |
 | **FL-09** | White Frangipani / Singapore Graveyard Flower | *Plumeria alba* | Apocynaceae | Plant (Deciduous Flowering Tree / Apocynaceae) | Team Aryan | [View Profile](Flora/species/fl-09_plumeria_alba.md) |
-| **FL-10** | Red Frangipani / Pink Temple Tree | *Plumeria rubra* | Apocynaceae | Plant (Small Flowering Tree / Apocynaceae) | Team Aryan | [View Profile](Flora/species/fl-10_plumeria_rubra.md) |
-| **FL-11** | Beach Spider Lily | *Hymenocallis littoralis (syn. Hymenocallis speciosa)* | Amaryllidaceae | Plant (Bulbous Perennial Herb / Amaryllidaceae) | Team Aryan | [View Profile](Flora/species/fl-11_hymenocallis_littoralis.md) |
+| **FL-10** | Red Frangipani / Pink Temple Tree | *Plumeria rubra* | Apocynaceae | Plant (Small Flowering Tree / Apocynaceae) | Team Saravanan | [View Profile](Flora/species/fl-10_plumeria_rubra.md) |
+| **FL-11** | Beach Spider Lily | *Hymenocallis littoralis (syn. Hymenocallis speciosa)* | Amaryllidaceae | Plant (Bulbous Perennial Herb / Amaryllidaceae) | Team Asmath | [View Profile](Flora/species/fl-11_hymenocallis_littoralis.md) |
 | **FL-12** | Paper Flower / Bougainvillea | *Bougainvillea glabra* | Nyctaginaceae | Plant (Ornamental Woody Climber / Shrub) | Team Katyayani | [View Profile](Flora/species/fl-12_bougainvillea_glabra.md) |
 | **FL-13** | Pink Knotweed / Denseflower Knotweed | *Persicaria barbata* | Polygonaceae | Plant (Erect Herb / Wetland Emergent) | Team Katyayani | [View Profile](Flora/species/fl-13_persicaria_barbata.md) |
 | **FL-14** | Scarlet & Pink Ixora / Jungle Geranium | *Ixora coccinea* | Rubiaceae | Plant (Evergreen Ornamental Shrub) | Team Prathin | [View Profile](Flora/species/fl-14_ixora_coccinea.md) |
@@ -192,11 +192,11 @@ This repository serves as the official, systematically organized **Collective Ca
 | **FA-07** | Red-Headed / Banded Millipede | *Xenobolus carnifex* | Pachybolidae | Myriapods / Arthropods | Primary Consumer / Primary Detritivore | Team Aryan | [View Profile](Fauna/species/fa-07_xenobolus_carnifex.md) |
 | **FA-08** | Yellow-billed Babbler (Seven Sisters) | *Argya affinis (syn. Turdoides affinis)* | Leiothrichidae | Birds (Avifauna) | Secondary Consumer / Insectivore-Omnivore | Team Aryan | [View Profile](Fauna/species/fa-08_argya_affinis.md) |
 | **FA-09** | Black Drongo (King Crow) | *Dicrurus macrocercus* | Dicruridae | Birds (Avifauna) | Secondary Consumer / Aerial Insectivore | Team Aryan | [View Profile](Fauna/species/fa-09_dicrurus_macrocercus.md) |
-| **FA-10** | House Crow | *Corvus splendens* | Corvidae | Birds (Avifauna) | Tertiary Consumer / Omnivorous Scavenger | Team Aryan | [View Profile](Fauna/species/fa-10_corvus_splendens.md) |
+| **FA-10** | House Crow | *Corvus splendens* | Corvidae | Birds (Avifauna) | Tertiary Consumer / Omnivorous Scavenger | Team Asmath | [View Profile](Fauna/species/fa-10_corvus_splendens.md) |
 | **FA-11** | Bonnet Macaque | *Macaca radiata* | Cercopithecidae | Mammals | Primary/Secondary Consumer & Frugivore | Team Aryan | [View Profile](Fauna/species/fa-11_macaca_radiata.md) |
 | **FA-12** | Indian Pariah Dog (Desi Dog / INDog) | *Canis lupus familiaris* | Canidae | Mammals | Tertiary Consumer / Apex Predator & Scavenger | Team Aryan | [View Profile](Fauna/species/fa-12_canis_lupus_familiaris.md) |
-| **FA-13** | Indian Peafowl (Peacock - National Bird of India) | *Pavo cristatus* | Phasianidae | Birds (Avifauna) | Secondary / Tertiary Consumer & Predator | Team Aryan | [View Profile](Fauna/species/fa-13_pavo_cristatus.md) |
-| **FA-14** | Oriental Garden Lizard (Changeable Lizard) | *Calotes versicolor* | Agamidae | Reptiles | Secondary Consumer / Insectivore | Team Aryan | [View Profile](Fauna/species/fa-14_calotes_versicolor.md) |
+| **FA-13** | Indian Peafowl (Peacock - National Bird of India) | *Pavo cristatus* | Phasianidae | Birds (Avifauna) | Secondary / Tertiary Consumer & Predator | Team Saravanan | [View Profile](Fauna/species/fa-13_pavo_cristatus.md) |
+| **FA-14** | Oriental Garden Lizard (Changeable Lizard) | *Calotes versicolor* | Agamidae | Reptiles | Secondary Consumer / Insectivore | Team Saravanan | [View Profile](Fauna/species/fa-14_calotes_versicolor.md) |
 | **FA-15** | Domestic Cat (Campus Tabby / Feral Cat) | *Felis catus* | Felidae | Mammals | Tertiary Consumer / Small Carnivore & Apex Predator | Team Aryan | [View Profile](Fauna/species/fa-15_felis_catus.md) |
 | **FA-16** | Common Lime Butterfly / Lemon Swallowtail | *Papilio demoleus* | Papilionidae | Insects / Arthropods | Primary Consumer / Herbivore | Team Katyayani | [View Profile](Fauna/species/fa-16_papilio_demoleus.md) |
 | **FA-17** | Checkered Keelback (Asiatic Water Snake) | *Fowlea piscator* | Colubridae | Reptiles | Tertiary Consumer / Carnivore | Team Katyayani | [View Profile](Fauna/species/fa-17_fowlea_piscator.md) |
