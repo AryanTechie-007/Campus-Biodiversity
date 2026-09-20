@@ -277,23 +277,21 @@ For complete trophic structure diagrams, energy flow pathways, and micro-habitat
 
 ---
 
-## Missing Registration Numbers (1 to 62)
+## Cohort Registration Number Reconciliation (1 to 62)
 
 ### Cohort Distribution Summary
-- **Class Registry Range**: 1 to 62 (Total capacity: 62 students)
-- **Documented Participating Students**: **61 Students** across **12 Collective Survey Teams**
-- **Remaining Unassigned / Missing Registration Numbers**: **1 Student**
+- **Class Registry Range**: 1 to 62 (Total allocated capacity: 62 registration numbers)
+- **Active Enrolled Students**: **61 Students**
+- **Documented Participating Students**: **61 Students (100% active cohort accounted for)** across **12 Collective Survey Teams**
+- **Unaccounted Active Students**: **0**
 
-### Remaining Missing Registration Number
+### Inactive / Transferred Registration Number
 
-Across the 1 to 62 class range, exactly 1 registration number remains unassigned:
+Across the entire 1 to 62 sequence, all 61 active students are documented in the survey teams. The only non-participating registration number corresponds to Roll No. 12, who discontinued / took a Transfer Certificate (TC):
 
-- **Missing Roll Suffix**:  
-  `012`
-
-| S.No | Roll No. | Registration Number (`25011103XXX`) | Status |
+| S.No | Roll No. | Registration Number (`25011103XXX`) | Status / Remarks |
 | :---: | :---: | :---: | :---: |
-| 1 | 012 | `25011103012` | Missing / Unassigned |
+| 1 | 012 | `25011103012` | Took Transfer Certificate (TC) / Discontinued |
 
 ---
 
