@@ -2,9 +2,9 @@
   "institution": "Shiv Nadar University Chennai (SNU Chennai)",
   "course": "Environmental Science and Engineering (EVS)",
   "assignment": "Assignment 3: Collective Biodiversity Repository",
-  "total_unique_species": 94,
-  "flora_species_count": 50,
-  "fauna_species_count": 44,
+  "total_unique_species": 99,
+  "flora_species_count": 52,
+  "fauna_species_count": 47,
   "deduplication_policy": "Specimens 02 and 12 from survey represent Hibiscus rosa-sinensis with two distinct phenotypic cultivars (Tropical China Rose & Red Shoeblack). Consolidated into 1 unique species profile documenting both varieties.",
   "flora": [
     {
@@ -783,6 +783,38 @@
       "image_target": "nerium_oleander.png",
       "survey_source": "Assignment 2 Survey (Team Manoj)",
       "contributor_team": "Team Manoj"
+    },
+    {
+      "id": "FL-51",
+      "common_name": "Copperpod Tree / Yellow Flame Tree / Rusty Shield Bearer",
+      "scientific_name": "Peltophorum pterocarpum",
+      "family": "Fabaceae (Caesalpinioideae)",
+      "category": "Plant (Deciduous Flowering Shade Tree)",
+      "location": "Near the Main Canteen",
+      "habitat": "Landscaped campus road / Canteen walkway border",
+      "trophic_level": "Primary Producer (Trophic Level 1)",
+      "ecological_role": "Massive shade tree providing dense canopy, rich floral nectar forage for bees and butterflies, and soil enrichment via leaf and pod decay.",
+      "description": "A majestic deciduous flowering tree with broad spreading crown, fine bipinnate leaves, and dense fragrant yellow blossom clusters followed by coppery-brown woody pods.",
+      "image_src": "../images/peltophorum_pterocarpum.png",
+      "image_target": "peltophorum_pterocarpum.png",
+      "survey_source": "Assignment 2 Survey (Team Yagna Sanjeev)",
+      "contributor_team": "Team Yagna Sanjeev"
+    },
+    {
+      "id": "FL-52",
+      "common_name": "Rain Tree / Monkey Pod / Five O'Clock Tree",
+      "scientific_name": "Samanea saman (syn. Albizia saman)",
+      "family": "Fabaceae (Mimosoideae)",
+      "category": "Plant (Large Canopy Shade Tree)",
+      "location": "Justice Prathap Auditorium Premises",
+      "habitat": "Open manicured lawn / Auditorium perimeter landscape",
+      "trophic_level": "Primary Producer (Trophic Level 1)",
+      "ecological_role": "Keystone canopy tree providing extensive thermal cooling, nitrogen fixation, floral nectar, and fleshy pods for squirrels, birds, and insects.",
+      "description": "A broad-crowned spreading umbrella tree whose bipinnate leaves fold during rain and at night, bearing showy pink-white pom-pom flowers and sweet pods.",
+      "image_src": "../images/samanea_saman.png",
+      "image_target": "samanea_saman.png",
+      "survey_source": "Assignment 2 Survey (Team Yagna Sanjeev)",
+      "contributor_team": "Team Yagna Sanjeev"
     }
   ],
   "fauna": [
@@ -1549,6 +1581,60 @@
       "image_target": "trigoniulus_corallinus.png",
       "survey_source": "Assignment 2 Survey (Team Saravanan)",
       "contributor_team": "Team Saravanan"
+    },
+    {
+      "id": "FA-45",
+      "common_name": "Yellow-spotted Assassin Bug / Corsair Bug",
+      "scientific_name": "Acanthaspis quinquespinosa",
+      "family": "Reduviidae",
+      "order": "Hemiptera (True Bugs)",
+      "category": "Insect (True Bug / Reduviidae)",
+      "taxonomic_guild": "Insects / Arthropods",
+      "location": "Gents Hostel 8",
+      "habitat": "Outdoor wall surfaces near light fixtures, leaf litter, concrete crevices",
+      "trophic_level": "Secondary Consumer / Predatory Insect (Trophic Level 3)",
+      "ecological_role": "Active nocturnal predatory bug regulating campus insect pests, injecting digestive enzymes into termites, caterpillars, cockroaches, and beetles.",
+      "description": "Dark brown reduviid bug with five conspicuous yellow-orange spots on thorax and hemelytra, equipped with a powerful curved rostrum and raptorial legs.",
+      "image_src": "../images/acanthaspis_quinquespinosa.png",
+      "image_target": "acanthaspis_quinquespinosa.png",
+      "survey_source": "Assignment 2 Survey (Team Yagna Sanjeev)",
+      "contributor_team": "Team Yagna Sanjeev"
+    },
+    {
+      "id": "FA-46",
+      "common_name": "American Cockroach",
+      "scientific_name": "Periplaneta americana",
+      "family": "Blattidae",
+      "order": "Blattodea (Cockroaches)",
+      "category": "Insect (Cockroach / Blattidae)",
+      "taxonomic_guild": "Insects / Arthropods",
+      "location": "Gents Hostel 4",
+      "habitat": "Moist utility conduits, shaded drains, basement perimeters, outdoor floor margins",
+      "trophic_level": "Primary / Secondary Consumer & Detritivore (Trophic Level 2-3)",
+      "ecological_role": "Generalist opportunistic scavenger recycling organic detritus while serving as high-protein prey for predatory bugs, lizards, and cats.",
+      "description": "Large reddish-brown cursorial insect with a yellowish band on the pronotum margin, fast locomotion, and nocturnally active feeding habits.",
+      "image_src": "../images/periplaneta_americana.png",
+      "image_target": "periplaneta_americana.png",
+      "survey_source": "Assignment 2 Survey (Team Yagna Sanjeev)",
+      "contributor_team": "Team Yagna Sanjeev"
+    },
+    {
+      "id": "FA-47",
+      "common_name": "Common Orb-weaver Spider / Barn Spider",
+      "scientific_name": "Neoscona sp. (syn. Araneus sp.)",
+      "family": "Araneidae",
+      "order": "Araneae (Spiders)",
+      "category": "Arachnid (Orb-weaving Spider / Araneidae)",
+      "taxonomic_guild": "Spiders (Araneae)",
+      "location": "Gents Hostel 2",
+      "habitat": "Garden shrubs, exterior building corridors, eave frameworks near illumination",
+      "trophic_level": "Secondary Consumer / Carnivorous Predator (Trophic Level 3)",
+      "ecological_role": "Nocturnal orb-web spinner providing residential biocontrol by intercepting flying mosquitoes, midges, and moths in spiral sticky webs.",
+      "description": "Globular orb-weaver with cryptic patterned abdomen and banded legs, rebuilding its vertical geometric orb web daily after consuming nocturnal catch.",
+      "image_src": "../images/neoscona_sp.png",
+      "image_target": "neoscona_sp.png",
+      "survey_source": "Assignment 2 Survey (Team Yagna Sanjeev)",
+      "contributor_team": "Team Yagna Sanjeev"
     }
   ],
   "contributing_teams": [
@@ -1659,6 +1745,18 @@
         "Sudhanthiran S"
       ],
       "contributions": "Assignment 2 Campus Biodiversity Survey report (5 unique species: FL-10, FA-13, FA-14, FA-43, FA-44; 14 total documented species)"
+    },
+    {
+      "team_name": "Team Yagna Sanjeev",
+      "team_leader": "P Yagna Sanjeev (25011103036)",
+      "members": [
+        "P Yagna Sanjeev — 25011103036 (Team Leader)",
+        "Himesh Karthik — 25011103017",
+        "K Mohit Arav — 25011103022",
+        "Rohith M — 25011103028",
+        "Mohnish Condoor — 25011103033"
+      ],
+      "contributions": "Assignment 2 Campus Biodiversity Explorer survey report (5 unique species: FL-51, FL-52, FA-45, FA-46, FA-47; 15 total documented species)"
     }
   ]
 }

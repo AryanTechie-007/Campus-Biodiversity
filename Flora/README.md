@@ -12,7 +12,7 @@ The flora of the SNU Chennai campus encompasses a rich diversity of botanical ha
 
 ---
 
-## Master Flora Index (50 Unique Species)
+## Master Flora Index (52 Unique Species)
 
 | ID | Common Name | Scientific Name | Family | Category / Growth Habit | Location & Microhabitat | Contributor Team | Profile Link |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -66,6 +66,8 @@ The flora of the SNU Chennai campus encompasses a rich diversity of botanical ha
 | **FL-48** | Spicy Jatropha / Peregrina | *Jatropha integerrima* | Euphorbiaceae | Plant (Flowering Shrub) | JP Auditorium | Team Manoj | [View Profile](species/fl-48_jatropha_integerrima.md) |
 | **FL-49** | Desert Rose | *Adenium obesum* | Apocynaceae | Plant (Pachycaul Succulent Shrub) | JP Auditorium | Team Manoj | [View Profile](species/fl-49_adenium_obesum.md) |
 | **FL-50** | Oleander / Kaner | *Nerium oleander* | Apocynaceae | Plant (Evergreen Flowering Shrub) | JP Auditorium | Team Manoj | [View Profile](species/fl-50_nerium_oleander.md) |
+| **FL-51** | Copperpod Tree / Yellow Flame Tree | *Peltophorum pterocarpum* | Fabaceae (Caesalpinioideae) | Plant (Deciduous Flowering Shade Tree) | Near the Main Canteen | Team Yagna Sanjeev | [View Profile](species/fl-51_peltophorum_pterocarpum.md) |
+| **FL-52** | Rain Tree / Monkey Pod | *Samanea saman* | Fabaceae (Mimosoideae) | Plant (Large Canopy Shade Tree) | Justice Prathap Auditorium Premises | Team Yagna Sanjeev | [View Profile](species/fl-52_samanea_saman.md) |
 
 ---
 

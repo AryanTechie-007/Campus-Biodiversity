@@ -12,7 +12,7 @@ The fauna of SNU Chennai ranges across 7 distinct taxonomic guilds: Insects & Ar
 
 ---
 
-## Master Fauna Index (44 Unique Species)
+## Master Fauna Index (47 Unique Species)
 
 | ID | Common Name | Scientific Name | Family | Taxonomic Guild | Trophic Level | Contributor Team | Profile Link |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -60,6 +60,9 @@ The fauna of SNU Chennai ranges across 7 distinct taxonomic guilds: Insects & Ar
 | **FA-42** | Asian Koel | *Eudynamys scolopaceus* | Cuculidae | Birds (Avifauna) | Secondary Consumer & Frugivore-Insectivore | Team Asmath | [View Profile](species/fa-42_eudynamys_scolopaceus.md) |
 | **FA-43** | Wandering Glider Dragonfly | *Pantala flavescens* | Libellulidae | Insects / Arthropods | Secondary Consumer / Aerial Predator | Team Saravanan | [View Profile](species/fa-43_pantala_flavescens.md) |
 | **FA-44** | Rusty Millipede | *Trigoniulus corallinus* | Trigoniulidae | Myriapods / Arthropods | Primary Consumer / Primary Detritivore | Team Saravanan | [View Profile](species/fa-44_trigoniulus_corallinus.md) |
+| **FA-45** | Yellow-spotted Assassin Bug / Corsair Bug | *Acanthaspis quinquespinosa* | Reduviidae | Insects / Arthropods | Secondary Consumer / Predatory Insect | Team Yagna Sanjeev | [View Profile](species/fa-45_acanthaspis_quinquespinosa.md) |
+| **FA-46** | American Cockroach | *Periplaneta americana* | Blattidae | Insects / Arthropods | Primary / Secondary Consumer & Detritivore | Team Yagna Sanjeev | [View Profile](species/fa-46_periplaneta_americana.md) |
+| **FA-47** | Common Orb-weaver Spider | *Neoscona sp.* | Araneidae | Spiders (Araneae) | Secondary Consumer / Carnivorous Predator | Team Yagna Sanjeev | [View Profile](species/fa-47_neoscona_sp.md) |
 
 ---
 
