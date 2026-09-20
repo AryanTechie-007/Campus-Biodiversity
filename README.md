@@ -13,16 +13,16 @@ This repository serves as the official, systematically organized **Collective Ca
 
 ### Key Inventory Highlights
 - **Institution**: Shiv Nadar University Chennai, Rajiv Gandhi Salai (OMR), Kalavakkam, Tamil Nadu.
-- **Total Unique Documented Species**: **99 Species** (Zero duplicate taxa).
-- **Flora (Botanical & Mycological Diversity)**: **52 Unique Species** (Trees, Palms, Cycads, Shrubs, Climbing Vines, Wetland Herbs, Aroids, Grasses, and Macrofungi).
-- **Fauna (Zoological Diversity)**: **47 Unique Species** across 7 distinct taxonomic guilds (Insects & Arthropods, Spiders, Molluscs, Crustaceans, Amphibians & Reptiles, Birds, and Mammals).
+- **Total Unique Documented Species**: **105 Species** (Zero duplicate taxa).
+- **Flora (Botanical & Mycological Diversity)**: **55 Unique Species** (Trees, Palms, Cycads, Shrubs, Climbing Vines, Wetland Herbs, Aroids, Grasses, and Macrofungi).
+- **Fauna (Zoological Diversity)**: **50 Unique Species** across 7 distinct taxonomic guilds (Insects & Arthropods, Spiders, Molluscs, Crustaceans, Amphibians & Reptiles, Birds, and Mammals).
 - **Conservation Highlights**:
   - **Crimson Rose Butterfly (*Pachliopta hector*)**: **Schedule I Protected Species** under the Indian Wildlife (Protection) Act, 1972.
   - **Indian Peafowl (*Pavo cristatus*)**: National Bird of India.
   - **Russell's Viper (*Daboia russelii*)**: Apex serpentine predator regulating small mammal populations.
   - **Checkered Keelback (*Fowlea piscator*)**: Semi-aquatic predator regulating drain and wetland food webs.
   - **Greater Coucal (*Centropus sinensis*)**: Avian predator regulating snakes, lizards, and ground invertebrates.
-- **Contributing Research Teams**: **10 Collective Survey Teams** integrated with verified taxonomic profiles and data provenance.
+- **Contributing Research Teams**: **11 Collective Survey Teams** integrated with verified taxonomic profiles and data provenance.
 - **Deduplication Policy**: In strict compliance with guidelines (*"Do not include duplicate/repeated species. Each species should be listed only once"*), all survey reports have been cross-verified and consolidated into unique taxa entries with their respective original field photographic documentation preserved.
 
 ---
@@ -135,8 +135,22 @@ This repository serves as the official, systematically organized **Collective Ca
 
 ---
 
+### Team Venkatadri
+- **Dataset Contribution**: Assignment 2 Campus Biodiversity Explorer survey report (6 unique taxa: FL-53, FL-54, FL-55, FA-48, FA-49, FA-50; 23 total documented species across 6 zones).
+- **Team Leader**: **Manchu Venkatadri** (Roll No: `25011103029`)
+- **Team Members**:
+  1. **Manchu Venkatadri** — `25011103029` (Team Leader)
+  2. **Arvindh PA** — `25011103008`
+  3. **Jaswanth Sai** — `25011103015`
+  4. **Hariharan S N** — `25011103018`
+  5. **Shreeharsh S R** — `25011103052`
+  6. **Leesha Priya** — `25011103059`
 
-## Master Flora Inventory Table (52 Species)
+---
+
+
+
+## Master Flora Inventory Table (55 Species)
 
 | ID | Common Name | Scientific Name | Family | Category / Habit | Survey Provenance | Profile Link |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -192,10 +206,13 @@ This repository serves as the official, systematically organized **Collective Ca
 | **FL-50** | Oleander / Kaner | *Nerium oleander* | Apocynaceae | Plant (Evergreen Flowering Shrub) | Team Manoj | [View Profile](Flora/species/fl-50_nerium_oleander.md) |
 | **FL-51** | Copperpod Tree / Yellow Flame Tree | *Peltophorum pterocarpum* | Fabaceae (Caesalpinioideae) | Plant (Deciduous Flowering Shade Tree) | Team Yagna Sanjeev | [View Profile](Flora/species/fl-51_peltophorum_pterocarpum.md) |
 | **FL-52** | Rain Tree / Monkey Pod | *Samanea saman* | Fabaceae (Mimosoideae) | Plant (Large Canopy Shade Tree) | Team Yagna Sanjeev | [View Profile](Flora/species/fl-52_samanea_saman.md) |
+| **FL-53** | Betel Nut Palm / Areca Palm | *Areca catechu* | Arecaceae | Plant (Slender Solitary Canopy Palm / Tree) | Team Venkatadri | [View Profile](Flora/species/fl-53_areca_catechu.md) |
+| **FL-54** | Golden Cane Palm / Areca Palm | *Dypsis lutescens* | Arecaceae | Plant (Clumping Ornamental Palm / Shrub) | Team Venkatadri | [View Profile](Flora/species/fl-54_dypsis_lutescens.md) |
+| **FL-55** | Sessile Joyweed / Ponnanganni | *Alternanthera sessilis* | Amaranthaceae | Plant (Prostrate Wild Herb / Groundcover) | Team Venkatadri | [View Profile](Flora/species/fl-55_alternanthera_sessilis.md) |
 
 ---
 
-## Master Fauna Inventory Table (47 Species)
+## Master Fauna Inventory Table (50 Species)
 
 | ID | Common Name | Scientific Name | Family | Category / Guild | Trophic Level | Survey Provenance | Profile Link |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -246,6 +263,9 @@ This repository serves as the official, systematically organized **Collective Ca
 | **FA-45** | Yellow-spotted Assassin Bug / Corsair Bug | *Acanthaspis quinquespinosa* | Reduviidae | Insects / Arthropods | Secondary Consumer / Predatory Insect | Team Yagna Sanjeev | [View Profile](Fauna/species/fa-45_acanthaspis_quinquespinosa.md) |
 | **FA-46** | American Cockroach | *Periplaneta americana* | Blattidae | Insects / Arthropods | Primary / Secondary Consumer & Detritivore | Team Yagna Sanjeev | [View Profile](Fauna/species/fa-46_periplaneta_americana.md) |
 | **FA-47** | Common Orb-weaver Spider | *Neoscona sp.* | Araneidae | Spiders (Araneae) | Secondary Consumer / Carnivorous Predator | Team Yagna Sanjeev | [View Profile](Fauna/species/fa-47_neoscona_sp.md) |
+| **FA-48** | Indian Jungle Crow / Large-billed Crow | *Corvus culminatus* | Corvidae | Birds (Avifauna) | Tertiary Consumer / Scavenger & Top Omnivore | Team Venkatadri | [View Profile](Fauna/species/fa-48_corvus_culminatus.md) |
+| **FA-49** | Rock Pigeon / Blue Rock Dove | *Columba livia* | Columbidae | Birds (Avifauna) | Primary Consumer / Granivore & Frugivore | Team Venkatadri | [View Profile](Fauna/species/fa-49_columba_livia.md) |
+| **FA-50** | Flat-backed Millipede / Paradoxosomatid Millipede | *Anoplodesmus sp.* | Paradoxosomatidae | Myriapods / Arthropods | Primary Consumer / Primary Detritivore & Decomposer | Team Venkatadri | [View Profile](Fauna/species/fa-50_anoplodesmus_sp.md) |
 
 ---
 
@@ -259,10 +279,10 @@ For complete trophic structure diagrams, energy flow pathways, and micro-habitat
 
 ### Cohort Distribution Summary
 - **Class Registry Range**: 1 to 62 (Total capacity: 62 students)
-- **Documented Participating Students**: **50 Students** across **10 Collective Survey Teams**
-  - Teams with explicit report registration numbers: 45 students (9 teams)
+- **Documented Participating Students**: **56 Students** across **11 Collective Survey Teams**
+  - Teams with explicit report registration numbers: 51 students (10 teams)
   - Team Saravanan (5 members mapped via alphabetical registry sequence): 5 students
-- **Remaining Unassigned / Missing Registration Numbers**: **12 Students**
+- **Remaining Unassigned / Missing Registration Numbers**: **6 Students**
 
 ### Team Saravanan Assigned Registration Numbers
 Based on the batch's alphabetical roll allocation structure, the 5 members of Team Saravanan map to the following registry positions:
@@ -275,27 +295,21 @@ Based on the batch's alphabetical roll allocation structure, the 5 members of Te
 | 4 | **Saravanan K** | Team Leader | `25011103048` | Suffix `048` (Between S Swetha `047` and Sasthika `049`) |
 | 5 | **Sudhanthiran S** | Team Member | `25011103057` | Suffix `057` (Between Srijan Karmakar `056` and Gunashekar `060`) |
 
-### Remaining 12 Missing Registration Numbers
+### Remaining 6 Missing Registration Numbers
 
-With Team Yagna Sanjeev (Himesh - 17, Mohit - 22, Rohith - 28, Mohnish - 33, Sanjeev - 36) registered, the following 12 registration numbers remain unassigned across the 1 to 62 class range:
+With Team Venkatadri (Arvindh - 08, Jaswanth - 15, Hariharan - 18, Venkatadri - 29, Shreeharsh - 52, Leesha Priya - 59) registered, only the following 6 registration numbers remain unassigned across the 1 to 62 class range:
 
 - **Missing Roll Suffixes**:  
-  `005`, `008`, `011`, `012`, `015`, `018`, `019`, `029`, `052`, `054`, `058`, `059`
+  `005`, `011`, `012`, `019`, `054`, `058`
 
 | S.No | Roll No. | Registration Number (`25011103XXX`) | Status |
 | :---: | :---: | :---: | :---: |
 | 1 | 005 | `25011103005` | Missing / Unassigned |
-| 2 | 008 | `25011103008` | Missing / Unassigned |
-| 3 | 011 | `25011103011` | Missing / Unassigned |
-| 4 | 012 | `25011103012` | Missing / Unassigned |
-| 5 | 015 | `25011103015` | Missing / Unassigned |
-| 6 | 018 | `25011103018` | Missing / Unassigned |
-| 7 | 019 | `25011103019` | Missing / Unassigned |
-| 8 | 029 | `25011103029` | Missing / Unassigned |
-| 9 | 052 | `25011103052` | Missing / Unassigned |
-| 10 | 054 | `25011103054` | Missing / Unassigned |
-| 11 | 058 | `25011103058` | Missing / Unassigned |
-| 12 | 059 | `25011103059` | Missing / Unassigned |
+| 2 | 011 | `25011103011` | Missing / Unassigned |
+| 3 | 012 | `25011103012` | Missing / Unassigned |
+| 4 | 019 | `25011103019` | Missing / Unassigned |
+| 5 | 054 | `25011103054` | Missing / Unassigned |
+| 6 | 058 | `25011103058` | Missing / Unassigned |
 
 ---
 

@@ -2,9 +2,9 @@
   "institution": "Shiv Nadar University Chennai (SNU Chennai)",
   "course": "Environmental Science and Engineering (EVS)",
   "assignment": "Assignment 3: Collective Biodiversity Repository",
-  "total_unique_species": 99,
-  "flora_species_count": 52,
-  "fauna_species_count": 47,
+  "total_unique_species": 105,
+  "flora_species_count": 55,
+  "fauna_species_count": 50,
   "deduplication_policy": "Specimens 02 and 12 from survey represent Hibiscus rosa-sinensis with two distinct phenotypic cultivars (Tropical China Rose & Red Shoeblack). Consolidated into 1 unique species profile documenting both varieties.",
   "flora": [
     {
@@ -815,6 +815,54 @@
       "image_target": "samanea_saman.png",
       "survey_source": "Assignment 2 Survey (Team Yagna Sanjeev)",
       "contributor_team": "Team Yagna Sanjeev"
+    },
+    {
+      "id": "FL-53",
+      "common_name": "Betel Nut Palm / Areca Palm / Supari Palm",
+      "scientific_name": "Areca catechu",
+      "family": "Arecaceae",
+      "category": "Plant (Slender Solitary Canopy Palm / Tree)",
+      "location": "Zone D — Management Block Garden",
+      "habitat": "Irrigated landscaped lawn bed",
+      "trophic_level": "Primary Producer (Trophic Level 1)",
+      "ecological_role": "Landscaped vertical canopy accent plant that stabilizes irrigated soils, intercepts rainfall, and provides nectar forage during flowering periods.",
+      "description": "A tall, slender solitary feather palm with a smooth ringed trunk, dense pinnate fronds, and orange-red fibrous drupes.",
+      "image_src": "../images/areca_catechu.png",
+      "image_target": "areca_catechu.png",
+      "survey_source": "Assignment 2 Survey (Team Venkatadri)",
+      "contributor_team": "Team Venkatadri"
+    },
+    {
+      "id": "FL-54",
+      "common_name": "Golden Cane Palm / Areca Palm / Butterfly Palm",
+      "scientific_name": "Dypsis lutescens",
+      "family": "Arecaceae",
+      "category": "Plant (Clumping Ornamental Palm / Shrub)",
+      "location": "Zone C — Academic Block Foyer",
+      "habitat": "Indoor architectural container / Diffuse light courtyard",
+      "trophic_level": "Primary Producer (Trophic Level 1)",
+      "ecological_role": "Air-purifying clumping palm providing architectural greening and micro-refugia for small indoor-outdoor invertebrates and geckos.",
+      "description": "Multi-stemmed clumping palm with cane-like golden-yellow ringed trunks and arching feathery pinnate leaves.",
+      "image_src": "../images/dypsis_lutescens.png",
+      "image_target": "dypsis_lutescens.png",
+      "survey_source": "Assignment 2 Survey (Team Venkatadri)",
+      "contributor_team": "Team Venkatadri"
+    },
+    {
+      "id": "FL-55",
+      "common_name": "Sessile Joyweed / Ponnanganni / Dwarf Copperleaf",
+      "scientific_name": "Alternanthera sessilis",
+      "family": "Amaranthaceae",
+      "category": "Plant (Prostrate Wild Herb / Groundcover)",
+      "location": "Zone A — Sports Complex Lawns",
+      "habitat": "Prostrate herbaceous mat interspersed within mown turf",
+      "trophic_level": "Primary Producer (Trophic Level 1)",
+      "ecological_role": "Spontaneous wild lawn herb that binds topsoil, sustains micro-herbivores, and provides nectar and larval forage for campus butterflies like Acraea terpsicore.",
+      "description": "Prostrate creeping herb with opposite leaves and small white sessile axillary flower heads forming ground-layer mats.",
+      "image_src": "../images/alternanthera_sessilis.png",
+      "image_target": "alternanthera_sessilis.png",
+      "survey_source": "Assignment 2 Survey (Team Venkatadri)",
+      "contributor_team": "Team Venkatadri"
     }
   ],
   "fauna": [
@@ -1635,6 +1683,60 @@
       "image_target": "neoscona_sp.png",
       "survey_source": "Assignment 2 Survey (Team Yagna Sanjeev)",
       "contributor_team": "Team Yagna Sanjeev"
+    },
+    {
+      "id": "FA-48",
+      "common_name": "Indian Jungle Crow / Large-billed Crow",
+      "scientific_name": "Corvus culminatus",
+      "family": "Corvidae",
+      "order": "Passeriformes (Perching Birds)",
+      "category": "Bird (Avifauna / Corvidae)",
+      "taxonomic_guild": "Birds (Avifauna)",
+      "location": "Zone C — Admin Block Surrounds",
+      "habitat": "Perched in mature Gulmohar (Delonix regia) tree canopy",
+      "trophic_level": "Tertiary Consumer / Scavenger & Top Omnivore (Trophic Level 4-5)",
+      "ecological_role": "Keystone scavenger and opportunistic predator consuming refuse, garden pests, reptiles, and small vertebrates in the upper canopy.",
+      "description": "Large robust corvid with uniform purplish-black glossy plumage, arched black beak, and distinct deep resonance call.",
+      "image_src": "../images/corvus_culminatus.png",
+      "image_target": "corvus_culminatus.png",
+      "survey_source": "Assignment 2 Survey (Team Venkatadri)",
+      "contributor_team": "Team Venkatadri"
+    },
+    {
+      "id": "FA-49",
+      "common_name": "Rock Pigeon / Blue Rock Dove",
+      "scientific_name": "Columba livia",
+      "family": "Columbidae",
+      "order": "Columbiformes (Pigeons & Doves)",
+      "category": "Bird (Avifauna / Columbidae)",
+      "taxonomic_guild": "Birds (Avifauna)",
+      "location": "Zone C — Academic Block Corridor",
+      "habitat": "Building ledges, open architectural corridors, stairwell railings",
+      "trophic_level": "Primary Consumer / Granivore & Frugivore (Trophic Level 2)",
+      "ecological_role": "Urban synanthropic granivore gleaning seeds, grains, and weed fruit, serving as prey for urban predators.",
+      "description": "Stout blue-grey pigeon with iridescent neck hackles, twin black wing bars, and pink feet, roosting on building ledges.",
+      "image_src": "../images/columba_livia.png",
+      "image_target": "columba_livia.png",
+      "survey_source": "Assignment 2 Survey (Team Venkatadri)",
+      "contributor_team": "Team Venkatadri"
+    },
+    {
+      "id": "FA-50",
+      "common_name": "Flat-backed Millipede / Paradoxosomatid Millipede",
+      "scientific_name": "Anoplodesmus sp.",
+      "family": "Paradoxosomatidae",
+      "order": "Polydesmida (Flat-backed Millipedes)",
+      "category": "Arthropod (Diplopoda / Polydesmida)",
+      "taxonomic_guild": "Myriapods / Arthropods",
+      "location": "Zone E — Gents Hostel Link Road",
+      "habitat": "Moist shaded soil surface beneath Neem leaf litter",
+      "trophic_level": "Primary Consumer / Primary Detritivore & Decomposer (Trophic Level 2)",
+      "ecological_role": "Indispensable macro-decomposer breaking down tough cellulose and fallen deciduous leaf litter along hostel roads, recycling soil nutrients.",
+      "description": "Polydesmid millipede with distinctive lateral flattened keels (paranota) and dark dorsum, active on moist soil after rain.",
+      "image_src": "../images/anoplodesmus_sp.png",
+      "image_target": "anoplodesmus_sp.png",
+      "survey_source": "Assignment 2 Survey (Team Venkatadri)",
+      "contributor_team": "Team Venkatadri"
     }
   ],
   "contributing_teams": [
@@ -1757,6 +1859,19 @@
         "Mohnish Condoor — 25011103033"
       ],
       "contributions": "Assignment 2 Campus Biodiversity Explorer survey report (5 unique species: FL-51, FL-52, FA-45, FA-46, FA-47; 15 total documented species)"
+    },
+    {
+      "team_name": "Team Venkatadri",
+      "team_leader": "Manchu Venkatadri (25011103029)",
+      "members": [
+        "Manchu Venkatadri — 25011103029 (Team Leader)",
+        "Arvindh PA — 25011103008",
+        "Jaswanth Sai — 25011103015",
+        "Hariharan S N — 25011103018",
+        "Shreeharsh S R — 25011103052",
+        "Leesha Priya — 25011103059"
+      ],
+      "contributions": "Assignment 2 Campus Biodiversity Explorer survey report (6 unique species: FL-53, FL-54, FL-55, FA-48, FA-49, FA-50; 23 total documented species across 6 zones)"
     }
   ]
 }

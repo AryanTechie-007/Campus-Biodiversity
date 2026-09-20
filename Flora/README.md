@@ -12,7 +12,7 @@ The flora of the SNU Chennai campus encompasses a rich diversity of botanical ha
 
 ---
 
-## Master Flora Index (52 Unique Species)
+## Master Flora Index (55 Unique Species)
 
 | ID | Common Name | Scientific Name | Family | Category / Growth Habit | Location & Microhabitat | Contributor Team | Profile Link |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -68,6 +68,9 @@ The flora of the SNU Chennai campus encompasses a rich diversity of botanical ha
 | **FL-50** | Oleander / Kaner | *Nerium oleander* | Apocynaceae | Plant (Evergreen Flowering Shrub) | JP Auditorium | Team Manoj | [View Profile](species/fl-50_nerium_oleander.md) |
 | **FL-51** | Copperpod Tree / Yellow Flame Tree | *Peltophorum pterocarpum* | Fabaceae (Caesalpinioideae) | Plant (Deciduous Flowering Shade Tree) | Near the Main Canteen | Team Yagna Sanjeev | [View Profile](species/fl-51_peltophorum_pterocarpum.md) |
 | **FL-52** | Rain Tree / Monkey Pod | *Samanea saman* | Fabaceae (Mimosoideae) | Plant (Large Canopy Shade Tree) | Justice Prathap Auditorium Premises | Team Yagna Sanjeev | [View Profile](species/fl-52_samanea_saman.md) |
+| **FL-53** | Betel Nut Palm / Areca Palm | *Areca catechu* | Arecaceae | Plant (Slender Solitary Canopy Palm / Tree) | Zone D — Management Block Garden | Team Venkatadri | [View Profile](species/fl-53_areca_catechu.md) |
+| **FL-54** | Golden Cane Palm / Areca Palm | *Dypsis lutescens* | Arecaceae | Plant (Clumping Ornamental Palm / Shrub) | Zone C — Academic Block Foyer | Team Venkatadri | [View Profile](species/fl-54_dypsis_lutescens.md) |
+| **FL-55** | Sessile Joyweed / Ponnanganni | *Alternanthera sessilis* | Amaranthaceae | Plant (Prostrate Wild Herb / Groundcover) | Zone A — Sports Complex Lawns | Team Venkatadri | [View Profile](species/fl-55_alternanthera_sessilis.md) |
 
 ---
 

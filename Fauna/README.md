@@ -12,7 +12,7 @@ The fauna of SNU Chennai ranges across 7 distinct taxonomic guilds: Insects & Ar
 
 ---
 
-## Master Fauna Index (47 Unique Species)
+## Master Fauna Index (50 Unique Species)
 
 | ID | Common Name | Scientific Name | Family | Taxonomic Guild | Trophic Level | Contributor Team | Profile Link |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -63,6 +63,9 @@ The fauna of SNU Chennai ranges across 7 distinct taxonomic guilds: Insects & Ar
 | **FA-45** | Yellow-spotted Assassin Bug / Corsair Bug | *Acanthaspis quinquespinosa* | Reduviidae | Insects / Arthropods | Secondary Consumer / Predatory Insect | Team Yagna Sanjeev | [View Profile](species/fa-45_acanthaspis_quinquespinosa.md) |
 | **FA-46** | American Cockroach | *Periplaneta americana* | Blattidae | Insects / Arthropods | Primary / Secondary Consumer & Detritivore | Team Yagna Sanjeev | [View Profile](species/fa-46_periplaneta_americana.md) |
 | **FA-47** | Common Orb-weaver Spider | *Neoscona sp.* | Araneidae | Spiders (Araneae) | Secondary Consumer / Carnivorous Predator | Team Yagna Sanjeev | [View Profile](species/fa-47_neoscona_sp.md) |
+| **FA-48** | Indian Jungle Crow / Large-billed Crow | *Corvus culminatus* | Corvidae | Birds (Avifauna) | Tertiary Consumer / Scavenger & Top Omnivore | Team Venkatadri | [View Profile](species/fa-48_corvus_culminatus.md) |
+| **FA-49** | Rock Pigeon / Blue Rock Dove | *Columba livia* | Columbidae | Birds (Avifauna) | Primary Consumer / Granivore & Frugivore | Team Venkatadri | [View Profile](species/fa-49_columba_livia.md) |
+| **FA-50** | Flat-backed Millipede / Paradoxosomatid Millipede | *Anoplodesmus sp.* | Paradoxosomatidae | Myriapods / Arthropods | Primary Consumer / Primary Detritivore & Decomposer | Team Venkatadri | [View Profile](species/fa-50_anoplodesmus_sp.md) |
 
 ---
 
