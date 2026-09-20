@@ -1,41 +1,41 @@
-# Red Weaver-ant Mimicking Jumping Spider (`Myrmaplata plataleoides`)
+# Asian Weaver Ant-mimicking Jumping Spider (`Myrmaplata plataleoides`)
 
-| Field Attribute              | Taxonomic / Ecological Specification |
-| ---------------------------- | ------------------------------------ |
-| **Catalog ID**               | `FA-31` |
-| **Common Name**              | Red Weaver-ant Mimicking Jumping Spider |
-| **Scientific Name**          | *Myrmaplata plataleoides* |
-| **Family**                   | `Salticidae` |
-| **Order**                    | `Araneae (Spiders)` |
-| **Taxonomic Guild**          | Arachnids / Arthropods |
-| **Location of Observation**  | **SNU Chennai campus (exact spot to be added)** |
-| **Microhabitat**             | Foliage of shrubs and trees, usually near weaver-ant colonies |
-| **Trophic Level**            | Secondary Consumer / Carnivore (Trophic Level 3) |
-| **Contributing Survey Team** | **Team Juveena** |
-| **Survey Source**            | Assignment 2 Survey (Team Juveena) |
+| Field Attribute | Taxonomic / Ecological Specification |
+| :--- | :--- |
+| **Catalog ID** | `FA-31` |
+| **Common Name** | Asian Weaver Ant-mimicking Jumping Spider |
+| **Scientific Name** | *Myrmaplata plataleoides* |
+| **Family** | `Salticidae` |
+| **Order** | `Araneae (Spiders)` |
+| **Taxonomic Guild** | Arachnids / Arthropods |
+| **Location of Observation** | **Foliage of Mango and Guava Trees** |
+| **Microhabitat** | Leaves and twigs of bushes inhabited by Asian weaver ants |
+| **Trophic Level** | Secondary Consumer / Ambush Predator (Trophic Level 3) |
+| **Contributing Survey Team** | **Team Lokranjan** |
+| **Survey Source** | Assignment 2 Survey (Team Lokranjan) |
 
 ---
 
 ## Field Observation Photograph
 
-[![Red Weaver-ant Mimicking Jumping Spider](https://github.com/AryanTechie-007/Campus-Biodiversity/raw/main/Fauna/images/myrmaplata_plataleoides.png)](/AryanTechie-007/Campus-Biodiversity/blob/main/Fauna/images/myrmaplata_plataleoides.png)
+<p align="center"><img src="../images/myrmaplata_plataleoides.png" alt="Asian Weaver Ant-mimicking Jumping Spider" width="420" style="border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15);"></p>
 
 ---
 
 ## Zoological & Morphological Description
 
-Jumping spider whose body shape, colour and walking style imitate a red weaver ant, which protects it from predators. Has large forward-facing eyes for stalking prey.
+Slender jumping spider with an elongated abdomen and waist-like cephalic constrictions mimicking an ant body. Males possess elongated forward-pointing chelicerae.
 
 ---
 
 ## Ecological Role & Campus Interactions
 
-- **Trophic Level**: Secondary Consumer / Carnivore (Trophic Level 3)
-- **Ecosystem Service**: Predator of small insects on foliage.
+- **Trophic Level**: Secondary Consumer / Ambush Predator (Trophic Level 3)
+- **Ecosystem Service**: Extraordinary Batesian and aggressive mimic that perfectly resembles aggressive weaver ants (*Oecophylla smaragdina*) to deter predators while hunting small insects.
 - **Campus Food Web Dynamics**:
-  * Uses ant mimicry (Batesian mimicry) to avoid being eaten.
-  * Prey for birds and larger spiders.
+  - Participates actively in predator-prey or plant-pollinator networks across campus zones.
+  - Contributes to population regulation, seed dispersal, or detrital soil nutrient cycling.
 
 ---
 
-[⬅ Back to Fauna Index](https://github.com/AryanTechie-007/Campus-Biodiversity/blob/main/Fauna/README.md) | [🏠 Back to Campus Inventory Root](https://github.com/AryanTechie-007/Campus-Biodiversity/blob/main/README.md)
+[⬅ Back to Fauna Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)

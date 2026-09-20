@@ -1,41 +1,41 @@
-# Common Picture Wing Dragonfly (`Rhyothemis variegata`)
+# Common Picture Wing Dragonfly / Variegated Flutterer (`Rhyothemis variegata`)
 
-| Field Attribute              | Taxonomic / Ecological Specification |
-| ---------------------------- | ------------------------------------ |
-| **Catalog ID**               | `FA-30` |
-| **Common Name**              | Common Picture Wing Dragonfly |
-| **Scientific Name**          | *Rhyothemis variegata* |
-| **Family**                   | `Libellulidae` |
-| **Order**                    | `Odonata (Dragonflies & Damselflies)` |
-| **Taxonomic Guild**          | Insects / Arthropods |
-| **Location of Observation**  | **SNU Chennai campus (exact spot to be added)** |
-| **Microhabitat**             | Near ponds, drains and other water bodies; perches on tall twigs |
-| **Trophic Level**            | Secondary Consumer / Carnivore (Trophic Level 3) |
-| **Contributing Survey Team** | **Team Juveena** |
-| **Survey Source**            | Assignment 2 Survey (Team Juveena) |
+| Field Attribute | Taxonomic / Ecological Specification |
+| :--- | :--- |
+| **Catalog ID** | `FA-30` |
+| **Common Name** | Common Picture Wing Dragonfly / Variegated Flutterer |
+| **Scientific Name** | *Rhyothemis variegata* |
+| **Family** | `Libellulidae` |
+| **Order** | `Odonata (Dragonflies & Damselflies)` |
+| **Taxonomic Guild** | Insects / Arthropods |
+| **Location of Observation** | **Campus Wetland Basin & Open Lawns** |
+| **Microhabitat** | Open airspace near ponds, drainage basins, and marshy lawns |
+| **Trophic Level** | Secondary Consumer / Aerial Predator (Trophic Level 3) |
+| **Contributing Survey Team** | **Team Lokranjan** |
+| **Survey Source** | Assignment 2 Survey (Team Lokranjan) |
 
 ---
 
 ## Field Observation Photograph
 
-[![Common Picture Wing Dragonfly](https://github.com/AryanTechie-007/Campus-Biodiversity/raw/main/Fauna/images/rhyothemis_variegata.png)](/AryanTechie-007/Campus-Biodiversity/blob/main/Fauna/images/rhyothemis_variegata.png)
+<p align="center"><img src="../images/rhyothemis_variegata.png" alt="Common Picture Wing Dragonfly / Variegated Flutterer" width="420" style="border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15);"></p>
 
 ---
 
 ## Zoological & Morphological Description
 
-Medium-sized dragonfly with broad wings patterned in yellow and dark brown and a fluttering, butterfly-like flight.
+Striking dragonfly with golden-amber and iridescent dark purplish-brown mottled wings resembling butterfly wings. Flutters gently above water margins.
 
 ---
 
 ## Ecological Role & Campus Interactions
 
-- **Trophic Level**: Secondary Consumer / Carnivore (Trophic Level 3)
-- **Ecosystem Service**: Aerial predator that helps control mosquitoes and other small flying insects.
+- **Trophic Level**: Secondary Consumer / Aerial Predator (Trophic Level 3)
+- **Ecosystem Service**: Distinctive fluttering dragonfly with butterfly-like flapping flight. An agile aerial insectivore preying on gnats, midges, and mosquitoes over campus water bodies.
 - **Campus Food Web Dynamics**:
-  * Hunts flying insects on the wing.
-  * Nymphs live in water as predators; adults are prey for birds and spiders.
+  - Participates actively in predator-prey or plant-pollinator networks across campus zones.
+  - Contributes to population regulation, seed dispersal, or detrital soil nutrient cycling.
 
 ---
 
-[⬅ Back to Fauna Index](https://github.com/AryanTechie-007/Campus-Biodiversity/blob/main/Fauna/README.md) | [🏠 Back to Campus Inventory Root](https://github.com/AryanTechie-007/Campus-Biodiversity/blob/main/README.md)
+[⬅ Back to Fauna Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)

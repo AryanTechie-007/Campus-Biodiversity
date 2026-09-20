@@ -1,41 +1,41 @@
-# Common Mormon (`Papilio polytes`)
+# Common Mormon Butterfly (`Papilio polytes`)
 
-| Field Attribute              | Taxonomic / Ecological Specification |
-| ---------------------------- | ------------------------------------ |
-| **Catalog ID**               | `FA-26` |
-| **Common Name**              | Common Mormon |
-| **Scientific Name**          | *Papilio polytes* |
-| **Family**                   | `Papilionidae` |
-| **Order**                    | `Lepidoptera (Butterflies & Moths)` |
-| **Taxonomic Guild**          | Insects / Arthropods |
-| **Location of Observation**  | **SNU Chennai campus (exact spot to be added)** |
-| **Microhabitat**             | Garden shrubs, forest edges and damp ground patches |
-| **Trophic Level**            | Primary Consumer / Herbivore (Trophic Level 2) |
-| **Contributing Survey Team** | **Team Juveena** |
-| **Survey Source**            | Assignment 2 Survey (Team Juveena) |
+| Field Attribute | Taxonomic / Ecological Specification |
+| :--- | :--- |
+| **Catalog ID** | `FA-26` |
+| **Common Name** | Common Mormon Butterfly |
+| **Scientific Name** | *Papilio polytes* |
+| **Family** | `Papilionidae` |
+| **Order** | `Lepidoptera (Butterflies & Moths)` |
+| **Taxonomic Guild** | Insects / Arthropods |
+| **Location of Observation** | **Central Gardens & Citrus Shrub Borders** |
+| **Microhabitat** | Flowering hedges, open sunny garden beds |
+| **Trophic Level** | Primary Consumer / Pollinator (Trophic Level 2) |
+| **Contributing Survey Team** | **Team Lokranjan** |
+| **Survey Source** | Assignment 2 Survey (Team Lokranjan) |
 
 ---
 
 ## Field Observation Photograph
 
-[![Common Mormon](https://github.com/AryanTechie-007/Campus-Biodiversity/raw/main/Fauna/images/papilio_polytes.png)](/AryanTechie-007/Campus-Biodiversity/blob/main/Fauna/images/papilio_polytes.png)
+<p align="center"><img src="../images/papilio_polytes.png" alt="Common Mormon Butterfly" width="420" style="border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15);"></p>
 
 ---
 
 ## Zoological & Morphological Description
 
-Large black swallowtail with a band of white patches on the hindwings and a row of red spots along the wing margin. Some females mimic the toxic Crimson Rose. Caterpillars feed on citrus-family plants.
+Jet-black swallowtail butterfly; males display a distinct band of white discal spots across the hindwing, while females display polymorphic Batesian mimicry morphs.
 
 ---
 
 ## Ecological Role & Campus Interactions
 
-- **Trophic Level**: Primary Consumer / Herbivore (Trophic Level 2)
-- **Ecosystem Service**: Pollinates flowering shrubs while feeding on nectar.
+- **Trophic Level**: Primary Consumer / Pollinator (Trophic Level 2)
+- **Ecosystem Service**: Classic Batesian mimic butterfly whose females mimic unpalatable species like the Crimson Rose. Larvae graze on Rutaceae plants while adults are active pollinators.
 - **Campus Food Web Dynamics**:
-  * Caterpillars and adults are prey for birds, lizards and spiders.
-  * Links flowering and citrus-family plants to higher predators.
+  - Participates actively in predator-prey or plant-pollinator networks across campus zones.
+  - Contributes to population regulation, seed dispersal, or detrital soil nutrient cycling.
 
 ---
 
-[⬅ Back to Fauna Index](https://github.com/AryanTechie-007/Campus-Biodiversity/blob/main/Fauna/README.md) | [🏠 Back to Campus Inventory Root](https://github.com/AryanTechie-007/Campus-Biodiversity/blob/main/README.md)
+[⬅ Back to Fauna Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)

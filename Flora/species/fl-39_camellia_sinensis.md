@@ -1,40 +1,41 @@
 # Tea Plant (`Camellia sinensis`)
 
-| Field Attribute              | Taxonomic / Ecological Specification |
-| ---------------------------- | ------------------------------------ |
-| **Catalog ID**               | `FL-39` |
-| **Common Name**              | Tea Plant |
-| **Scientific Name**          | *Camellia sinensis* |
-| **Botanical Family**         | `Theaceae` |
-| **Category**                 | Plant (Evergreen Shrub) |
-| **Location of Observation**  | **SNU Chennai campus (exact spot to be added)** |
-| **Microhabitat**             | Ornamental garden beds; moist, well-drained, slightly acidic soil in partial shade |
-| **Trophic Level**            | Primary Producer (Trophic Level 1) |
-| **Contributing Survey Team** | **Team Juveena** |
-| **Survey Source**            | Assignment 2 Survey (Team Juveena) |
+| Field Attribute | Taxonomic / Ecological Specification |
+| :--- | :--- |
+| **Catalog ID** | `FL-39` |
+| **Common Name** | Tea Plant |
+| **Scientific Name** | *Camellia sinensis* |
+| **Botanical Family** | `Theaceae` |
+| **Category** | Plant (Evergreen Shrub / Theaceae) |
+| **Location of Observation** | **Botanical Display Garden & Potted Planters** |
+| **Microhabitat** | Moist, acidic soil under partial canopy shade |
+| **Trophic Level** | Primary Producer (Trophic Level 1) |
+| **Contributing Survey Team** | **Team Lokranjan** |
+| **Survey Source** | Assignment 2 Survey (Team Lokranjan) |
 
 ---
 
 ## Field Observation Photograph
 
-[![Tea Plant](https://github.com/AryanTechie-007/Campus-Biodiversity/raw/main/Flora/images/camellia_sinensis.png)](/AryanTechie-007/Campus-Biodiversity/blob/main/Flora/images/camellia_sinensis.png)
+<p align="center"><img src="../images/camellia_sinensis.png" alt="Tea Plant" width="420" style="border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15);"></p>
 
 ---
 
 ## Botanical & Morphological Description
 
-Bushy evergreen shrub with glossy, dark-green, finely serrated leaves and small white flowers with yellow stamens. Native to East and South Asia and the source of commercial tea.
+Small evergreen shrub or small tree with glossy dark green elliptic serrated leaves and fragrant solitary white flowers with central bunches of golden-yellow stamens.
 
 ---
 
 ## Ecological Role & Campus Interactions
 
 - **Trophic Role**: Primary Producer (Trophic Level 1)
-- **Ecosystem Service**: Forms compact ground-level greenery that protects topsoil and provides pollen and nectar when in flower.
+- **Ecosystem Service**: Evergreen shrub featuring serrated aromatic leaves and white nodding flowers with rich yellow stamens. Supports solitary bees and micro-pollinators.
 - **Inter-species Interactions**:
-  * Flowers supply pollen for bees and other small pollinators.
-  * Dense foliage gives shelter to ground-level insects and small invertebrates.
+  - Provides vital floral rewards (nectar, pollen) or structural microhabitats for campus biodiversity.
+  - Supports pollinators (butterflies, bees, flower-visitors) and detritivore nutrient recycling.
+  - Forms an integral component of the campus green spaces.
 
 ---
 
-[⬅ Back to Flora Index](https://github.com/AryanTechie-007/Campus-Biodiversity/blob/main/Flora/README.md) | [🏠 Back to Campus Inventory Root](https://github.com/AryanTechie-007/Campus-Biodiversity/blob/main/README.md)
+[⬅ Back to Flora Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)

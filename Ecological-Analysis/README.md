@@ -1,13 +1,14 @@
 # 🕸️ Campus Ecosystem Food Chains & Trophic Web Analysis
 
 > **Department of Environmental Science & Engineering (EVS)**  
-> **Shiv Nadar University Chennai (SNU Chennai)**
+> **Shiv Nadar University Chennai (SNU Chennai)**  
+> **Dataset Scale**: **84 Unique Documented Taxa** (42 Flora, 42 Fauna)
 
 ---
 
 ## 1. Ecological Overview
 
-The Shiv Nadar University Chennai campus ecosystem functions through a structured multi-tier flow of energy. Primary producers harvest sunlight to generate biomass, which sustains invertebrate herbivores and detritivores, insectivores, reptilian ambush hunters, predatory raptors, and apex mammals.
+The Shiv Nadar University Chennai campus ecosystem functions through a structured multi-tier flow of energy. Primary producers harvest sunlight to generate biomass, sustaining invertebrate herbivores and detritivores, insectivores, reptilian ambush hunters, predatory raptors, and top scavengers/mammals.
 
 ---
 
@@ -19,32 +20,36 @@ The Shiv Nadar University Chennai campus ecosystem functions through a structure
 
 ---
 
-## 3. Trophic Level Stratification
+## 3. Trophic Level Stratification (84 Species)
 
-### 🌞 Trophic Level 1: Primary Producers (Autotrophs)
-- **Species**: *Plumeria obtusa*, *Plumeria alba*, *Plumeria rubra*, *Hibiscus rosa-sinensis*, *Nekemias arborea*, *Bismarckia nobilis*, *Rhapis excelsa*, *Phoenix sylvestris*, *Allamanda cathartica*, *Turnera ulmifolia*, *Hymenocallis littoralis*.
-- **Role**: Foundational autotrophic solar energy conversion; microhabitat provision; nectar, seed, and foliar forage.
+### 🌞 Trophic Level 1: Primary Producers (42 Autotrophic Taxa)
+- **Key Canopy & Shade Trees**: *Plumeria obtusa*, *Plumeria alba*, *Plumeria rubra*, *Delonix regia*, *Ficus benghalensis*, *Kigelia africana*, *Tabebuia rosea*, *Azadirachta indica*, *Albizia lebbeck*.
+- **Shrubs & Ornamental Flora**: *Hibiscus rosa-sinensis*, *Ixora coccinea*, *Duranta erecta*, *Lantana camara*, *Tabernaemontana divaricata*, *Pentas lanceolata*, *Angelonia salicariifolia*, *Turnera ulmifolia*.
+- **Herbs, Grasses & Groundcovers**: *Elephantopus scaber*, *Kalanchoe pinnata*, *Cynodon dactylon*, *Hymenocallis littoralis*, *Persicaria barbata*, *Chlorophytum comosum*.
 
 ### 🐛 Trophic Level 2: Primary Consumers (Herbivores, Detritivores & Decomposers)
-- **Herbivorous Invertebrates**: *Dysdercus cingulatus* (Red Cotton Stainer), *Spilostethus hospes* (Dolic Bug), *Pachliopta hector* larvae (Crimson Rose Butterfly).
-- **Detritivores & Decomposers**: *Xenobolus carnifex* (Red-Headed Millipede), *Lissachatina fulica* (Giant African Snail), *Oziotelphusa senex* (Indian Field Crab).
-- **Frugivorous Primates**: *Macaca radiata* (Bonnet Macaque - canopy fruits/seeds).
+- **Herbivorous Invertebrates**: *Dysdercus cingulatus* (Red Cotton Bug), *Spilostethus hospes* (Dolic Bug), *Pachliopta hector* (Crimson Rose), *Acraea terpsicore* (Tawny Coster), *Papilio demoleus* (Lime Butterfly), *Papilio polytes* (Common Mormon).
+- **Detritivores & Soil Decomposers**: *Xenobolus carnifex* (Red-Headed Millipede), *Lissachatina fulica* (Giant African Snail), *Oziotelphusa senex* (Indian Field Crab), *Trigoniulus corallinus* (Rusty Millipede).
+- **Frugivorous & Granivorous Mammals**: *Funambulus palmarum* (Indian Palm Squirrel), *Macaca radiata* (Bonnet Macaque).
 
-### 🦎 Trophic Level 3: Secondary Consumers (Carnivores, Insectivores & Small Omnivores)
-- **Predators & Insectivores**: *Calotes versicolor* (Oriental Garden Lizard), *Ropalidia marginata* (Indian Paper Wasp), *Dicrurus macrocercus* (Black Drongo), *Argya affinis* (Yellow-billed Babbler), *Pavo cristatus* (Indian Peafowl).
+### 🦎 Trophic Level 3: Secondary Consumers (Carnivores, Insectivores & Small Predators)
+- **Avian Insectivores & Frugivores**: *Acridotheres tristis* (Common Myna), *Eudynamys scolopaceus* (Asian Koel), *Dicrurus macrocercus* (Black Drongo), *Argya affinis* (Yellow-billed Babbler), *Argya striata* (Jungle Babbler), *Passer domesticus* (House Sparrow).
+- **Reptiles & Spiders**: *Calotes versicolor* (Oriental Garden Lizard), *Psammophilus dorsalis* (Rock Agama), *Telamonia dimidiata* (Two-striped Jumper), *Myrmaplata plataleoides* (Ant-mimic Spider).
+- **Predatory Insects**: *Ropalidia marginata* (Paper Wasp), *Anthia sexguttata* (Domino Beetle), *Trithemis pallidinervis* (Long-legged Marsh Glider), *Rhyothemis variegata* (Picture Wing Dragonfly).
 
 ### 🦅 Trophic Level 4: Tertiary Consumers, Apex Predators & Scavengers
-- **Top Scavengers & Carnivores**: *Felis catus* (Domestic Cat), *Canis lupus familiaris* (Indian Pariah Dog), *Corvus splendens* (House Crow), *Pavo cristatus* (Apex predator of small reptiles/snakes).
+- **Serpentine & Avian Predators**: *Daboia russelii* (Russell's Viper), *Centropus sinensis* (Greater Coucal), *Fowlea piscator* (Checkered Keelback), *Bubulcus ibis* (Cattle Egret).
+- **Top Scavengers & Mammals**: *Canis lupus familiaris* (Indian Pariah Dog), *Felis catus* (Domestic Cat), *Corvus splendens* (House Crow), *Pavo cristatus* (Indian Peafowl).
 
 ---
 
-## 4. Documented Food Chains (Energy Transfer Pathways)
+## 4. Representative Energy Flow Pathways
 
 ```mermaid
 graph LR
-    A["Hibiscus rosa-sinensis<br/>(Red Hibiscus)"] --> B["Dysdercus cingulatus<br/>(Cotton Stainer)"]
-    B --> C["Calotes versicolor<br/>(Garden Lizard)"]
-    C --> D["Pavo cristatus<br/>(Indian Peafowl)"]
+    A["Hibiscus rosa-sinensis"] --> B["Dysdercus cingulatus"]
+    B --> C["Acridotheres tristis"]
+    C --> D["Canis lupus familiaris"]
     
     style A fill:#d1fae5,stroke:#059669,stroke-width:2px;
     style B fill:#fef3c7,stroke:#d97706,stroke-width:2px;
@@ -52,34 +57,14 @@ graph LR
     style D fill:#fee2e2,stroke:#dc2626,stroke-width:2px;
 ```
 
-### Chain 1: Terrestrial Grazing & Predator Pathway
-$$	ext{Hibiscus rosa-sinensis} \longrightarrow 	ext{Dysdercus cingulatus} \longrightarrow 	ext{Calotes versicolor} \longrightarrow 	ext{Pavo cristatus}$$
+- **Chain 1 (Campus Lawn & Urban Avian Pathway)**:  
+  *Ixora coccinea* / *Hibiscus rosa-sinensis* -> *Dysdercus cingulatus* -> *Acridotheres tristis* -> *Corvus splendens* / *Canis lupus familiaris*
 
-### Chain 2: Nectar-Pollinator & Aerial Hawking Pathway
-$$	ext{Plumeria alba / Turnera ulmifolia (Nectar)} \longrightarrow 	ext{Pachliopta hector} \longrightarrow 	ext{Dicrurus macrocercus} \longrightarrow 	ext{Corvus splendens}$$
+- **Chain 2 (Canopy Frugivore & Brood Parasitism Pathway)**:  
+  *Ficus benghalensis* / *Azadirachta indica* -> *Eudynamys scolopaceus* (Asian Koel) -> *Corvus splendens* (Brood Host)
 
-### Chain 3: Detrital & Soil Decomposition Pathway
-$$	ext{Leaf Litter (Bismarckia / Plumeria)} \longrightarrow 	ext{Xenobolus carnifex & Lissachatina fulica} \longrightarrow 	ext{Argya affinis} \longrightarrow 	ext{Felis catus}$$
-
-### Chain 4: Wetland / Moist Margin Pathway
-$$	ext{Hymenocallis littoralis (Detritus)} \longrightarrow 	ext{Oziotelphusa senex (Field Crab)} \longrightarrow 	ext{Pavo cristatus} \longrightarrow 	ext{Canis lupus familiaris}$$
-
-### Chain 5: Frugivore-Primate Canopy Pathway
-$$	ext{Phoenix sylvestris & Nekemias arborea (Berries/Drupes)} \longrightarrow 	ext{Macaca radiata} \longrightarrow 	ext{Corvus splendens & Canis lupus familiaris}$$
-
-### Chain 6: Biological Pest Control Pathway
-$$	ext{Turnera ulmifolia (Weeds/Seeds)} \longrightarrow 	ext{Spilostethus hospes (Bug)} \longrightarrow 	ext{Ropalidia marginata (Paper Wasp)} \longrightarrow 	ext{Dicrurus macrocercus}$$
-
----
-
-## 5. Food Web Synthesis & Ecological Interactions Table
-
-| Species Guild | Trophic Role | Ecological Significance | Key Interactions |
-| :--- | :--- | :--- | :--- |
-| **Flora (11 Species)** | Primary Producers | Foundational energy source; nectar, seeds, shade, microhabitats | Absorbs solar energy, fixes carbon, provides floral nectar |
-| **Invertebrates & Crustaceans** | Primary Consumers / Decomposers | Nutrient cycling, soil aeration, pollination, detritus breakdown | Converts plant biomass; prey base for insectivores |
-| **Reptiles & Insectivorous Birds** | Secondary Consumers | Biological pest control; insect population regulation | Controls caterpillars, bugs, wasps, and beetles |
-| **Mammals, Scavengers & Apex Birds** | Tertiary Consumers / Scavengers | Seed dispersal, organic waste removal, campus ecosystem balance | Regulates rodent numbers, cleans organic detritus |
+- **Chain 3 (Rock Agama & Serpentine Scrub Pathway)**:  
+  *Cynodon dactylon* / *Elephantopus scaber* -> *Tettigoniidae sp.* (Grasshopper) -> *Psammophilus dorsalis* (Rock Agama) -> *Daboia russelii* (Russell's Viper)
 
 ---
 

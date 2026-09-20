@@ -1,40 +1,41 @@
-# Banyan Tree (`Ficus benghalensis`)
+# Banyan Tree / Indian Banyan (`Ficus benghalensis`)
 
-| Field Attribute              | Taxonomic / Ecological Specification |
-| ---------------------------- | ------------------------------------ |
-| **Catalog ID**               | `FL-38` |
-| **Common Name**              | Banyan Tree |
-| **Scientific Name**          | *Ficus benghalensis* |
-| **Botanical Family**         | `Moraceae` |
-| **Category**                 | Plant (Evergreen Fig Tree) |
-| **Location of Observation**  | **SNU Chennai campus (exact spot to be added)** |
-| **Microhabitat**             | Open ground and lawns with room for a wide canopy |
-| **Trophic Level**            | Primary Producer (Trophic Level 1) |
-| **Contributing Survey Team** | **Team Juveena** |
-| **Survey Source**            | Assignment 2 Survey (Team Juveena) |
+| Field Attribute | Taxonomic / Ecological Specification |
+| :--- | :--- |
+| **Catalog ID** | `FL-38` |
+| **Common Name** | Banyan Tree / Indian Banyan |
+| **Scientific Name** | *Ficus benghalensis* |
+| **Botanical Family** | `Moraceae` |
+| **Category** | Plant (Keystone Canopy Tree / Moraceae) |
+| **Location of Observation** | **Campus Boundary & Temple Groves** |
+| **Microhabitat** | Open campus boundary, deep soil with ample canopy space |
+| **Trophic Level** | Primary Producer (Trophic Level 1) |
+| **Contributing Survey Team** | **Team Lokranjan** |
+| **Survey Source** | Assignment 2 Survey (Team Lokranjan) |
 
 ---
 
 ## Field Observation Photograph
 
-[![Banyan Tree](https://github.com/AryanTechie-007/Campus-Biodiversity/raw/main/Flora/images/ficus_benghalensis.png)](/AryanTechie-007/Campus-Biodiversity/blob/main/Flora/images/ficus_benghalensis.png)
+<p align="center"><img src="../images/ficus_benghalensis.png" alt="Banyan Tree / Indian Banyan" width="420" style="border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15);"></p>
 
 ---
 
 ## Botanical & Morphological Description
 
-Massive evergreen fig with broad, leathery leaves and aerial prop roots that descend from the branches and thicken into secondary trunks. Native to the Indian subcontinent and the national tree of India.
+Massive evergreen tree producing copious aerial prop roots that drop to the ground and form secondary woody trunks. Thick leathery ovate leaves with prominent pale veins and paired sessile red figs.
 
 ---
 
 ## Ecological Role & Campus Interactions
 
 - **Trophic Role**: Primary Producer (Trophic Level 1)
-- **Ecosystem Service**: Keystone fruiting tree: its year-round figs feed birds, bats and squirrels, while the huge canopy gives shade, cools the air and stabilises soil.
+- **Ecosystem Service**: National Tree of India and ecological keystone species. Its massive spreading canopy and aerial prop roots support hundreds of birds, fruit bats, squirrels, and insects with year-round fig crops.
 - **Inter-species Interactions**:
-  * Figs are eaten by birds and mammals, which disperse the seeds.
-  * Aerial roots and dense branches shelter insects, lizards, spiders and nesting birds.
+  - Provides vital floral rewards (nectar, pollen) or structural microhabitats for campus biodiversity.
+  - Supports pollinators (butterflies, bees, flower-visitors) and detritivore nutrient recycling.
+  - Forms an integral component of the campus green spaces.
 
 ---
 
-[⬅ Back to Flora Index](https://github.com/AryanTechie-007/Campus-Biodiversity/blob/main/Flora/README.md) | [🏠 Back to Campus Inventory Root](https://github.com/AryanTechie-007/Campus-Biodiversity/blob/main/README.md)
+[⬅ Back to Flora Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)

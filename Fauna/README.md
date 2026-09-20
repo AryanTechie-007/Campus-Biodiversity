@@ -1,64 +1,74 @@
-# 🐾 Campus Fauna Inventory
+# 🐾 Fauna Directory — Zoological Biodiversity Inventory
 
-> **Department of Environmental Science & Engineering (EVS)**  
 > **Shiv Nadar University Chennai (SNU Chennai)**  
-> **Total Documented Faunal Species:** 25 Species across 6 Taxonomic Guilds  
-> **Contributing Survey Teams:** Team Aryan, Team Katyayani, Team Prathin, Team Viswa
+> **Course**: Environmental Science and Engineering (EVS)  
+> **Total Documented Unique Fauna**: **42 Species**
 
 ---
 
-## Overview
+## 📌 Zoological Inventory Overview
 
-The campus zoological diversity comprises 25 distinct species spanning Arthropods (Insects, Myriapods, Arachnids), Molluscs, Crustaceans, Reptiles, Avifauna (Birds), and Mammals. Documented across four student research teams, these fauna occupy Trophic Levels 2 (Primary Consumers / Decomposers), Level 3 (Secondary Consumers / Insectivores & Aerial Predators), and Level 4 (Tertiary Consumers / Apex Scavengers & Predators).
-
----
-
-## Master Fauna Catalog
-
-| # | Catalog ID | Common Name | Scientific Name | Guild / Family | Campus Location | Observation Photo | Contributor Team | Profile Link |
-| :-: | :--- | :--- | :--- | :--- | :--- | :-: | :--- | :-: |
-| 01 | `FA-01` | **Dolic Bug / Ground Bug (Milkweed Bug)** | *Spilostethus hospes* | `Lygaeidae` | Pathway behind Dhanyas | [📷 View](images/spilostethus_hospes.png) | Team Aryan | [📄 Open Profile](species/fa-01_spilostethus_hospes.md) |
-| 02 | `FA-02` | **Crimson Rose Butterfly** | *Pachliopta hector* | `Papilionidae` | Ladies Hostel | [📷 View](images/pachliopta_hector.png) | Team Aryan | [📄 Open Profile](species/fa-02_pachliopta_hector.md) |
-| 03 | `FA-03` | **Indian Paper Wasp / Yellow Paper Wasp** | *Ropalidia marginata* | `Vespidae` | AB3 | [📷 View](images/ropalidia_marginata.png) | Team Aryan | [📄 Open Profile](species/fa-03_ropalidia_marginata.md) |
-| 04 | `FA-04` | **Giant African Snail** | *Lissachatina fulica (syn. Achatina fulica)* | `Achatinidae` | Pathway behind Dhanyas | [📷 View](images/lissachatina_fulica.png) | Team Aryan | [📄 Open Profile](species/fa-04_lissachatina_fulica.md) |
-| 05 | `FA-05` | **Indian Freshwater / Field Crab** | *Oziotelphusa senex* | `Gecarcinucidae` | Pathway behind Dhanyas | [📷 View](images/oziotelphusa_senex.png) | Team Aryan | [📄 Open Profile](species/fa-05_oziotelphusa_senex.md) |
-| 06 | `FA-06` | **Red Cotton Stainer** | *Dysdercus cingulatus* | `Pyrrhocoridae` | Pathway behind Dhanyas | [📷 View](images/dysdercus_cingulatus.png) | Team Aryan | [📄 Open Profile](species/fa-06_dysdercus_cingulatus.md) |
-| 07 | `FA-07` | **Red-Headed / Banded Millipede** | *Xenobolus carnifex* | `Pachybolidae` | Pathway to Rishabhs | [📷 View](images/xenobolus_carnifex.png) | Team Aryan | [📄 Open Profile](species/fa-07_xenobolus_carnifex.md) |
-| 08 | `FA-08` | **Yellow-billed Babbler (Seven Sisters)** | *Argya affinis (syn. Turdoides affinis)* | `Leiothrichidae` | Pathway behind Dhanyas | [📷 View](images/argya_affinis.png) | Team Aryan | [📄 Open Profile](species/fa-08_argya_affinis.md) |
-| 09 | `FA-09` | **Black Drongo (King Crow)** | *Dicrurus macrocercus* | `Dicruridae` | Metro Cafe | [📷 View](images/dicrurus_macrocercus.png) | Team Aryan | [📄 Open Profile](species/fa-09_dicrurus_macrocercus.md) |
-| 10 | `FA-10` | **House Crow** | *Corvus splendens* | `Corvidae` | Campus-wide / Academic & Dining vicinity | [📷 View](images/corvus_splendens.png) | Team Aryan | [📄 Open Profile](species/fa-10_corvus_splendens.md) |
-| 11 | `FA-11` | **Bonnet Macaque** | *Macaca radiata* | `Cercopithecidae` | Gents Hostel | [📷 View](images/macaca_radiata.png) | Team Aryan | [📄 Open Profile](species/fa-11_macaca_radiata.md) |
-| 12 | `FA-12` | **Indian Pariah Dog (Desi Dog / INDog)** | *Canis lupus familiaris* | `Canidae` | Backside of AB3 | [📷 View](images/canis_lupus_familiaris.png) | Team Aryan | [📄 Open Profile](species/fa-12_canis_lupus.md) |
-| 13 | `FA-13` | **Indian Peafowl (Peacock - National Bird of India)** | *Pavo cristatus* | `Phasianidae` | Pathway behind Dhanyas | [📷 View](images/pavo_cristatus.png) | Team Aryan | [📄 Open Profile](species/fa-13_pavo_cristatus.md) |
-| 14 | `FA-14` | **Oriental Garden Lizard (Changeable Lizard)** | *Calotes versicolor* | `Agamidae` | Pathway behind Dhanyas | [📷 View](images/calotes_versicolor.png) | Team Aryan | [📄 Open Profile](species/fa-14_calotes_versicolor.md) |
-| 15 | `FA-15` | **Domestic Cat (Campus Tabby / Feral Cat)** | *Felis catus* | `Felidae` | Gents Hostel | [📷 View](images/felis_catus.png) | Team Aryan | [📄 Open Profile](species/fa-15_felis_catus.md) |
-| 16 | `FA-16` | **Common Lime Butterfly / Lemon Swallowtail** | *Papilio demoleus* | `Papilionidae` | AB1 & Campus Gardens | [📷 View](images/papilio_demoleus.png) | Team Katyayani | [📄 Open Profile](species/fa-16_papilio_demoleus.md) |
-| 17 | `FA-17` | **Checkered Keelback (Asiatic Water Snake)** | *Fowlea piscator* | `Colubridae` | Bio Block & Storm-water drain off Hostel Link Road | [📷 View](images/fowlea_piscator.png) | Team Katyayani | [📄 Open Profile](species/fa-17_fowlea_piscator.md) |
-| 18 | `FA-18` | **Blue Tiger Butterfly** | *Tirumala limniace* | `Nymphalidae` | Perimeter green belt shrubbery | [📷 View](images/tirumala_limniace.png) | Team Prathin | [📄 Open Profile](species/fa-18_tirumala_limniace.md) |
-| 19 | `FA-19` | **Noctuid Owlet Moth** | *Noctuidae sp.* | `Noctuidae` | Service road south of Hostel Link Road | [📷 View](images/noctuidae_sp.png) | Team Prathin | [📄 Open Profile](species/fa-19_noctuidae_sp.md) |
-| 20 | `FA-20` | **Tawny Coster** | *Acraea terpsicore* | `Nymphalidae` | Near Cricket Ground & Main Canteen lawns | [📷 View](images/acraea_terpsicore.png) | Team Viswa | [📄 Open Profile](species/fa-20_acraea_terpsicore.md) |
-| 21 | `FA-21` | **Jungle Babbler** | *Argya striata* | `Leiothrichidae` | AB1 Cafeteria & Garden perimeters | [📷 View](images/argya_striata.png) | Team Viswa | [📄 Open Profile](species/fa-21_argya_striata.md) |
-| 22 | `FA-22` | **Long-legged Marsh Glider** | *Trithemis pallidinervis* | `Libellulidae` | Near Cricket Ground & Wetland margins | [📷 View](images/trithemis_pallidinervis.png) | Team Viswa | [📄 Open Profile](species/fa-22_trithemis_pallidinervis.md) |
-| 23 | `FA-23` | **Indian Red Bug** | *Probergrothius sanguinolens* | `Largidae` | Pathway near main canteen | [📷 View](images/probergrothius_sanguinolens.png) | Team Viswa | [📄 Open Profile](species/fa-23_probergrothius_sanguinolens.md) |
-| 24 | `FA-24` | **Asian Honeybee / Indian Honeybee** | *Apis cerana* | `Apidae` | Near AB3 | [📷 View](images/apis_cerana.png) | Team Viswa | [📄 Open Profile](species/fa-24_apis_cerana.md) |
-| 25 | `FA-25` | **Greater Coucal / Southern Crow Pheasant** | *Centropus sinensis* | `Cuculidae` | Near Football ground | [📷 View](images/centropus_sinensis.png) | Team Viswa | [📄 Open Profile](species/fa-25_centropus_sinensis.md) |
+The fauna of SNU Chennai ranges across 7 distinct taxonomic guilds: Insects & Arthropods, Spiders, Molluscs, Crustaceans, Amphibians & Reptiles, Birds (Avifauna), and Mammals.
 
 ---
 
-## Key Conservation Highlights
-- **Endemic Schedule I Species**: *Pachliopta hector* (Crimson Rose Butterfly) is granted Schedule I legal protection under India's Wildlife (Protection) Act, 1972.
-- **National Bird of India**: *Pavo cristatus* (Indian Peafowl) regularly observed across campus grounds and groves.
-- **Reptilian Wetland Regulator**: *Fowlea piscator* (Checkered Keelback) serves as an essential regulator in campus stormwater channels.
-- **Apex Avian Predators**: *Centropus sinensis* (Greater Coucal) and *Dicrurus macrocercus* (Black Drongo) maintain insect and small vertebrate equilibrium.
+## 📋 Master Fauna Index (42 Unique Species)
+
+| ID | Common Name | Scientific Name | Family | Taxonomic Guild | Trophic Level | Contributor Team | Profile Link |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **FA-01** | Dolic Bug / Ground Bug (Milkweed Bug) | *Spilostethus hospes* | Lygaeidae | Insects / Arthropods | Primary Consumer / Herbivore | Team Aryan | [View Profile](species/fa-01_spilostethus_hospes.md) |
+| **FA-02** | Crimson Rose Butterfly | *Pachliopta hector* | Papilionidae | Insects / Arthropods | Primary Consumer / Herbivore | Team Aryan | [View Profile](species/fa-02_pachliopta_hector.md) |
+| **FA-03** | Indian Paper Wasp / Yellow Paper Wasp | *Ropalidia marginata* | Vespidae | Insects / Arthropods | Secondary Consumer / Insectivore | Team Aryan | [View Profile](species/fa-03_ropalidia_marginata.md) |
+| **FA-04** | Giant African Snail | *Lissachatina fulica (syn. Achatina fulica)* | Achatinidae | Molluscs | Primary Consumer / Detritivore & Decomposer | Team Aryan | [View Profile](species/fa-04_lissachatina_fulica.md) |
+| **FA-05** | Indian Freshwater / Field Crab | *Oziotelphusa senex* | Gecarcinucidae | Crustaceans | Primary/Secondary Consumer & Detritivore | Team Aryan | [View Profile](species/fa-05_oziotelphusa_senex.md) |
+| **FA-06** | Red Cotton Stainer | *Dysdercus cingulatus* | Pyrrhocoridae | Insects / Arthropods | Primary Consumer / Herbivore | Team Aryan | [View Profile](species/fa-06_dysdercus_cingulatus.md) |
+| **FA-07** | Red-Headed / Banded Millipede | *Xenobolus carnifex* | Pachybolidae | Myriapods / Arthropods | Primary Consumer / Primary Detritivore | Team Aryan | [View Profile](species/fa-07_xenobolus_carnifex.md) |
+| **FA-08** | Yellow-billed Babbler (Seven Sisters) | *Argya affinis (syn. Turdoides affinis)* | Leiothrichidae | Birds (Avifauna) | Secondary Consumer / Insectivore-Omnivore | Team Aryan | [View Profile](species/fa-08_argya_affinis.md) |
+| **FA-09** | Black Drongo (King Crow) | *Dicrurus macrocercus* | Dicruridae | Birds (Avifauna) | Secondary Consumer / Aerial Insectivore | Team Aryan | [View Profile](species/fa-09_dicrurus_macrocercus.md) |
+| **FA-10** | House Crow | *Corvus splendens* | Corvidae | Birds (Avifauna) | Tertiary Consumer / Omnivorous Scavenger | Team Aryan | [View Profile](species/fa-10_corvus_splendens.md) |
+| **FA-11** | Bonnet Macaque | *Macaca radiata* | Cercopithecidae | Mammals | Primary/Secondary Consumer & Frugivore | Team Aryan | [View Profile](species/fa-11_macaca_radiata.md) |
+| **FA-12** | Indian Pariah Dog (Desi Dog / INDog) | *Canis lupus familiaris* | Canidae | Mammals | Tertiary Consumer / Apex Predator & Scavenger | Team Aryan | [View Profile](species/fa-12_canis_lupus_familiaris.md) |
+| **FA-13** | Indian Peafowl (Peacock - National Bird of India) | *Pavo cristatus* | Phasianidae | Birds (Avifauna) | Secondary / Tertiary Consumer & Predator | Team Aryan | [View Profile](species/fa-13_pavo_cristatus.md) |
+| **FA-14** | Oriental Garden Lizard (Changeable Lizard) | *Calotes versicolor* | Agamidae | Reptiles | Secondary Consumer / Insectivore | Team Aryan | [View Profile](species/fa-14_calotes_versicolor.md) |
+| **FA-15** | Domestic Cat (Campus Tabby / Feral Cat) | *Felis catus* | Felidae | Mammals | Tertiary Consumer / Small Carnivore & Apex Predator | Team Aryan | [View Profile](species/fa-15_felis_catus.md) |
+| **FA-16** | Common Lime Butterfly / Lemon Swallowtail | *Papilio demoleus* | Papilionidae | Insects / Arthropods | Primary Consumer / Herbivore | Team Katyayani | [View Profile](species/fa-16_papilio_demoleus.md) |
+| **FA-17** | Checkered Keelback (Asiatic Water Snake) | *Fowlea piscator* | Colubridae | Reptiles | Tertiary Consumer / Carnivore | Team Katyayani | [View Profile](species/fa-17_fowlea_piscator.md) |
+| **FA-18** | Blue Tiger Butterfly | *Tirumala limniace* | Nymphalidae | Insects / Arthropods | Primary Consumer / Herbivore | Team Prathin | [View Profile](species/fa-18_tirumala_limniace.md) |
+| **FA-19** | Noctuid Owlet Moth | *Noctuidae sp.* | Noctuidae | Insects / Arthropods | Primary Consumer / Herbivore | Team Prathin | [View Profile](species/fa-19_noctuidae_sp.md) |
+| **FA-20** | Tawny Coster | *Acraea terpsicore* | Nymphalidae | Insects / Arthropods | Primary Consumer / Herbivore | Team Viswa | [View Profile](species/fa-20_acraea_terpsicore.md) |
+| **FA-21** | Jungle Babbler | *Argya striata* | Leiothrichidae | Birds (Avifauna) | Secondary Consumer / Insectivore-Omnivore | Team Viswa | [View Profile](species/fa-21_argya_striata.md) |
+| **FA-22** | Long-legged Marsh Glider | *Trithemis pallidinervis* | Libellulidae | Insects / Arthropods | Secondary Consumer / Aerial Predator | Team Viswa | [View Profile](species/fa-22_trithemis_pallidinervis.md) |
+| **FA-23** | Indian Red Bug | *Probergrothius sanguinolens* | Largidae | Insects / Arthropods | Primary Consumer / Seed Bug | Team Viswa | [View Profile](species/fa-23_probergrothius_sanguinolens.md) |
+| **FA-24** | Asian Honeybee / Indian Honeybee | *Apis cerana* | Apidae | Insects / Arthropods | Primary Consumer / Kept & Wild Pollinator | Team Viswa | [View Profile](species/fa-24_apis_cerana.md) |
+| **FA-25** | Greater Coucal / Southern Crow Pheasant | *Centropus sinensis* | Cuculidae | Birds (Avifauna) | Tertiary / Apex Avian Predator | Team Viswa | [View Profile](species/fa-25_centropus_sinensis.md) |
+| **FA-26** | Common Mormon Butterfly | *Papilio polytes* | Papilionidae | Insects / Arthropods | Primary Consumer / Pollinator | Team Lokranjan | [View Profile](species/fa-26_papilio_polytes.md) |
+| **FA-27** | Domino Beetle / Six-spotted Ground Beetle | *Anthia sexguttata* | Carabidae | Insects / Arthropods | Secondary Consumer / Predator | Team Lokranjan | [View Profile](species/fa-27_anthia_sexguttata.md) |
+| **FA-28** | Bush Cricket / Katydid | *Tettigoniidae sp.* | Tettigoniidae | Insects / Arthropods | Primary Consumer / Herbivore | Team Lokranjan | [View Profile](species/fa-28_tettigoniidae_sp.md) |
+| **FA-29** | House Mosquito / True Mosquito | *Culex sp.* | Culicidae | Insects / Arthropods | Primary / Parasitic Consumer | Team Lokranjan | [View Profile](species/fa-29_culex_sp.md) |
+| **FA-30** | Common Picture Wing Dragonfly / Variegated Flutterer | *Rhyothemis variegata* | Libellulidae | Insects / Arthropods | Secondary Consumer / Aerial Predator | Team Lokranjan | [View Profile](species/fa-30_rhyothemis_variegata.md) |
+| **FA-31** | Asian Weaver Ant-mimicking Jumping Spider | *Myrmaplata plataleoides* | Salticidae | Arachnids / Arthropods | Secondary Consumer / Ambush Predator | Team Lokranjan | [View Profile](species/fa-31_myrmaplata_plataleoides.md) |
+| **FA-32** | Two-striped Jumper Spider | *Telamonia dimidiata* | Salticidae | Arachnids / Arthropods | Secondary Consumer / Visual Predator | Team Lokranjan | [View Profile](species/fa-32_telamonia_dimidiata.md) |
+| **FA-33** | Asian Common Toad / Black-spined Toad | *Duttaphrynus melanostictus* | Bufonidae | Amphibians / Vertebrates | Secondary Consumer / Insectivore | Team Lokranjan | [View Profile](species/fa-33_duttaphrynus_melanostictus.md) |
+| **FA-34** | Indian Cricket Frog / Wetland Paddy Frog | *Fejervarya sp. (syn. Minervarya sp.)* | Dicroglossidae | Amphibians / Vertebrates | Secondary Consumer / Insectivore | Team Lokranjan | [View Profile](species/fa-34_fejervarya_sp.md) |
+| **FA-35** | Peninsular Rock Agama / South Indian Rock Agama | *Psammophilus dorsalis* | Agamidae | Reptiles | Secondary Consumer / Insectivore | Team Lokranjan | [View Profile](species/fa-35_psammophilus_dorsalis.md) |
+| **FA-36** | Russell's Viper / Indian Kukri Snake | *Daboia russelii (cf. Oligodon arnensis)* | Viperidae / Colubridae | Reptiles | Tertiary Consumer / Carnivore | Team Lokranjan | [View Profile](species/fa-36_daboia_russelii.md) |
+| **FA-37** | Western Cattle Egret | *Bubulcus ibis (syn. Ardea ibis)* | Ardeidae | Birds (Avifauna) | Tertiary Consumer / Carnivorous Predator | Team Lokranjan | [View Profile](species/fa-37_bubulcus_ibis.md) |
+| **FA-38** | Indian Palm Squirrel / Three-striped Palm Squirrel | *Funambulus palmarum* | Sciuridae | Mammals | Primary/Secondary Consumer & Granivore-Frugivore | Team Sasthika | [View Profile](species/fa-38_funambulus_palmarum.md) |
+| **FA-39** | House Sparrow | *Passer domesticus* | Passeridae | Birds (Avifauna) | Primary/Secondary Consumer & Granivore-Insectivore | Team Sasthika | [View Profile](species/fa-39_passer_domesticus.md) |
+| **FA-40** | Black Crazy Ant / Longhorn Ant | *Paratrechina longicornis* | Formicidae | Insects / Arthropods | Secondary Consumer / Scavenger & Generalist Predator | Team Sasthika | [View Profile](species/fa-40_paratrechina_longicornis.md) |
+| **FA-41** | Common Myna | *Acridotheres tristis* | Sturnidae | Birds (Avifauna) | Secondary Consumer & Omnivore | Team Asmath | [View Profile](species/fa-41_acridotheres_tristis.md) |
+| **FA-42** | Asian Koel | *Eudynamys scolopaceus* | Cuculidae | Birds (Avifauna) | Secondary Consumer & Frugivore-Insectivore | Team Asmath | [View Profile](species/fa-42_eudynamys_scolopaceus.md) |
 
 ---
 
-## Contributing Survey Teams
-- **Team Aryan**: FA-01 to FA-15
-- **Team Katyayani**: FA-16 (Lime Butterfly), FA-17 (Checkered Keelback)
-- **Team Prathin**: FA-18 (Blue Tiger), FA-19 (Owlet Moth)
-- **Team Viswa**: FA-20 (Tawny Coster), FA-21 (Jungle Babbler), FA-22 (Marsh Glider), FA-23 (Indian Red Bug), FA-24 (Asian Honeybee), FA-25 (Greater Coucal)
+## 🛡️ Special Conservation Status Species
+
+1. **Crimson Rose Butterfly (*Pachliopta hector*) — FA-02**: Protected under **Schedule I of the Wildlife (Protection) Act, 1972**.
+2. **Indian Peafowl (*Pavo cristatus*) — FA-13**: **National Bird of India**, Schedule I protection.
+3. **Russell's Viper (*Daboia russelii*) — FA-36**: Solitary nocturnal viperid predator essential for controlling rodent populations.
+4. **Checkered Keelback (*Fowlea piscator*) — FA-17**: Semi-aquatic predator maintaining campus drain and wetland food web balance.
+5. **Greater Coucal (*Centropus sinensis*) — FA-25**: Apex avian predator regulating snakes, lizards, and ground invertebrates.
 
 ---
 
-[🏠 Back to Root Repository Index](../README.md) | [🌿 Explore Flora Inventory](../Flora/README.md) | [🕸️ Explore Ecological Food Web](../Ecological-Analysis/README.md)
+[🏠 Back to Root Repository Index](../README.md) | [🌿 Explore Flora Directory](../Flora/README.md) | [🌐 Interactive Explorer](../index.html)

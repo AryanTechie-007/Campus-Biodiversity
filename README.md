@@ -14,15 +14,16 @@ This repository serves as the official, systematically organized **Collective Ca
 
 ### Key Inventory Highlights
 - 🏛️ **Institution**: Shiv Nadar University Chennai, Rajiv Gandhi Salai (OMR), Kalavakkam, Tamil Nadu.
-- 🔬 **Total Unique Documented Species**: **60 Species** (Zero duplicate taxa).
-- 🌿 **Flora (Botanical & Mycological Diversity)**: **35 Unique Species** (Trees, Palms, Cycads, Shrubs, Climbing Vines, Wetland Herbs, Aroids, Grasses, and Macrofungi).
-- 🐾 **Fauna (Zoological Diversity)**: **25 Unique Species** across 6 distinct taxonomic guilds (Insects, Myriapods, Molluscs, Crustaceans, Reptiles, Birds, and Mammals).
+- 🔬 **Total Unique Documented Species**: **84 Species** (Zero duplicate taxa).
+- 🌿 **Flora (Botanical & Mycological Diversity)**: **42 Unique Species** (Trees, Palms, Cycads, Shrubs, Climbing Vines, Wetland Herbs, Aroids, Grasses, and Macrofungi).
+- 🐾 **Fauna (Zoological Diversity)**: **42 Unique Species** across 7 distinct taxonomic guilds (Insects & Arthropods, Spiders, Molluscs, Crustaceans, Amphibians & Reptiles, Birds, and Mammals).
 - 🛡️ **Conservation Highlights**:
   - **Crimson Rose Butterfly (*Pachliopta hector*)**: **Schedule I Protected Species** under the Indian Wildlife (Protection) Act, 1972.
   - **Indian Peafowl (*Pavo cristatus*)**: National Bird of India.
-  - **Checkered Keelback (*Fowlea piscator*)**: Key semi-aquatic predator regulating drain and wetland food webs.
-  - **Greater Coucal (*Centropus sinensis*)**: Apex avian predator regulating snakes, lizards, and ground invertebrates.
-- 👥 **Contributing Research Teams**: **4 Collective Survey Teams** integrated with verified taxonomic profiles and data provenance.
+  - **Russell's Viper (*Daboia russelii*)**: Apex serpentine predator regulating small mammal populations.
+  - **Checkered Keelback (*Fowlea piscator*)**: Semi-aquatic predator regulating drain and wetland food webs.
+  - **Greater Coucal (*Centropus sinensis*)**: Avian predator regulating snakes, lizards, and ground invertebrates.
+- 👥 **Contributing Research Teams**: **7 Collective Survey Teams** integrated with verified taxonomic profiles and data provenance.
 - 🔄 **Deduplication Policy**: In strict compliance with guidelines (*"Do not include duplicate/repeated species. Each species should be listed only once"*), all survey reports have been cross-verified and consolidated into unique taxa entries with their respective original field photographic documentation preserved.
 
 ---
@@ -30,7 +31,7 @@ This repository serves as the official, systematically organized **Collective Ca
 ## 👥 Contributing Teams & Research Roster
 
 ### 🌟 Team Aryan
-- **Dataset Contribution**: Initial comprehensive campus biodiversity survey (26 unique taxa: FL-01 to FL-11, FA-01 to FA-15).
+- **Dataset Contribution**: Founding comprehensive campus biodiversity survey (26 unique taxa: FL-01 to FL-11, FA-01 to FA-15).
 - **Team Leader**: **Aryan Sinha** (Roll No: `25011103009`) • [AryanTechie-007](https://github.com/AryanTechie-007)
 - **Team Members**:
   1. **Aryan Sinha** — `25011103009` (Team Leader)
@@ -60,8 +61,8 @@ This repository serves as the official, systematically organized **Collective Ca
   4. **SP Brooklynn** — `25011103046`
   5. **S Swetha** — `25011103047`
 
-### 🌳 Team Viswa
-- **Dataset Contribution**: Comprehensive micro-habitat survey including campus canopy trees, cycads, aroids, climbers, mosses, and avian predators (18 unique taxa: FL-24 to FL-35, FA-20 to FA-25).
+### 🔬 Team Viswa
+- **Dataset Contribution**: Canopy & micro-habitat survey from EVS Assignment2 (18 unique taxa: FL-24 to FL-35, FA-20 to FA-25).
 - **Team Leader**: **Viswa R** (Roll No: `25011103061`)
 - **Team Members**:
   1. **Viswa R** — `25011103061` (Team Leader)
@@ -70,124 +71,139 @@ This repository serves as the official, systematically organized **Collective Ca
   4. **Ritvik R** — `25011103044`
   5. **Yogit SB** — `25011103062`
 
+### 🦎 Team Lokranjan
+- **Dataset Contribution**: Direct repository contributions and campus biodiversity survey (16 unique taxa: FL-36 to FL-39, FA-26 to FA-37).
+- **Team Leader**: **Lokranjan KS** (Roll No: `25011103026`)
+- **Team Members**:
+  1. **Lokranjan KS** — `25011103026` (Team Leader)
+  2. **Shatmika** — `25011103051`
+  3. **Pooranasri** — `25011103027`
+  4. **Raja** — `25011103041`
+  5. **Juveena** — `25011103020`
+
+### 🐿️ Team Sasthika
+- **Dataset Contribution**: Campus temple grounds and biodiversity survey from Team-33 (5 unique taxa: FL-40 to FL-41, FA-38 to FA-40).
+- **Team Leader**: **Sasthika** (Roll No: `25011103049`)
+- **Team Members**:
+  1. **Sasthika** — `25011103049` (Team Leader)
+  2. **Zoya** — `25011103050`
+  3. **Pachaiammal** — `25011103037`
+  4. **Kaviya** — `25011103025`
+  5. **Aiswarya** — `25011103002`
+
+### 🐦 Team Asmath
+- **Dataset Contribution**: Assignment 2 Campus Biodiversity Explorer survey report (3 new unique taxa: FL-42, FA-41, FA-42; 13 total documented species).
+- **Team Leader**: **Asmath S** (Roll No: `25011103010`)
+- **Team Members**:
+  1. **Asmath S** — `25011103010` (Team Leader)
+  2. **Aravindh Karuppasamy** — `25011103007`
+  3. **Darshan Ishvar** — `25011103014`
+  4. **Kavin Amudhan I.A.** — `25011103024`
 
 ---
 
-## 🌿 Master Flora Catalog (35 Unique Species)
+## 🌿 Master Flora Inventory Table (42 Species)
 
-| Catalog ID | Common Name | Scientific Name | Botanical Family | Campus Location | Photo | Contributor Team | Profile |
-| :--- | :--- | :--- | :--- | :--- | :-: | :--- | :-: |
-| `FL-01` | **White Champa / Frangipani** | *Plumeria obtusa* | `Apocynaceae` | Pathway behind Dhanyas | [📷 Photo](Flora/images/plumeria_obtusa.png) | Team Aryan | [📄 Profile](Flora/species/fl-01_plumeria_obtusa.md) |
-| `FL-02` | **Tropical Hibiscus / China Rose & Red Hibiscus / Shoeblack Plant** | *Hibiscus rosa-sinensis* | `Malvaceae` | Pathway behind Dhanyas | [📷 Photo](Flora/images/hibiscus_rosa_sinensis.png) | Team Aryan | [📄 Profile](Flora/species/fl-02_hibiscus_rosa-sinensis.md) |
-| `FL-03` | **Peppervine** | *Nekemias arborea (syn. Ampelopsis arborea)* | `Vitaceae` | Pathway behind Dhanyas | [📷 Photo](Flora/images/nekemias_arborea.png) | Team Aryan | [📄 Profile](Flora/species/fl-03_nekemias_arborea.md) |
-| `FL-04` | **Bismarck Palm** | *Bismarckia nobilis* | `Arecaceae` | Campus entrance | [📷 Photo](Flora/images/bismarckia_nobilis.png) | Team Aryan | [📄 Profile](Flora/species/fl-04_bismarckia_nobilis.md) |
-| `FL-05` | **Bamboo Palm / Lady Palm** | *Rhapis excelsa* | `Arecaceae` | AB3 open space | [📷 Photo](Flora/images/rhapis_excelsa.png) | Team Aryan | [📄 Profile](Flora/species/fl-05_rhapis_excelsa.md) |
-| `FL-06` | **Sugar Date Palm / Wild Date Palm** | *Phoenix sylvestris* | `Arecaceae` | AB3 | [📷 Photo](Flora/images/phoenix_sylvestris.png) | Team Aryan | [📄 Profile](Flora/species/fl-06_phoenix_sylvestris.md) |
-| `FL-07` | **Golden Trumpet / Yellow Allamanda** | *Allamanda cathartica* | `Apocynaceae` | AB2 | [📷 Photo](Flora/images/allamanda_cathartica.png) | Team Aryan | [📄 Profile](Flora/species/fl-07_allamanda_cathartica.md) |
-| `FL-08` | **Yellow Alder / Yellow Buttercup (Ramgovam)** | *Turnera ulmifolia* | `Passifloraceae` | Pathway behind Dhanyas | [📷 Photo](Flora/images/turnera_ulmifolia.png) | Team Aryan | [📄 Profile](Flora/species/fl-08_turnera_ulmifolia.md) |
-| `FL-09` | **White Frangipani / Singapore Graveyard Flower** | *Plumeria alba* | `Apocynaceae` | AB1 | [📷 Photo](Flora/images/plumeria_alba.png) | Team Aryan | [📄 Profile](Flora/species/fl-09_plumeria_alba.md) |
-| `FL-10` | **Red Frangipani / Pink Temple Tree** | *Plumeria rubra* | `Apocynaceae` | AB3 | [📷 Photo](Flora/images/plumeria_rubra.png) | Team Aryan | [📄 Profile](Flora/species/fl-10_plumeria_rubra.md) |
-| `FL-11` | **Beach Spider Lily** | *Hymenocallis littoralis (syn. Hymenocallis speciosa)* | `Amaryllidaceae` | Pathway behind Dhanyas | [📷 Photo](Flora/images/hymenocallis_littoralis.png) | Team Aryan | [📄 Profile](Flora/species/fl-11_hymenocallis_littoralis.md) |
-| `FL-12` | **Paper Flower / Bougainvillea** | *Bougainvillea glabra* | `Nyctaginaceae` | Ornamental garden beside fountain | [📷 Photo](Flora/images/bougainvillea_glabra.png) | Team Katyayani | [📄 Profile](Flora/species/fl-12_bougainvillea_glabra.md) |
-| `FL-13` | **Pink Knotweed / Denseflower Knotweed** | *Persicaria barbata* | `Polygonaceae` | Snowcube | [📷 Photo](Flora/images/persicaria_barbata.png) | Team Katyayani | [📄 Profile](Flora/species/fl-13_persicaria_barbata.md) |
-| `FL-14` | **Scarlet & Pink Ixora / Jungle Geranium** | *Ixora coccinea* | `Rubiaceae` | Central plaza beds, SSN Admin Block Road | [📷 Photo](Flora/images/ixora_coccinea.png) | Team Prathin | [📄 Profile](Flora/species/fl-14_ixora_coccinea.md) |
-| `FL-15` | **Egyptian Starcluster** | *Pentas lanceolata* | `Rubiaceae` | Chemical Engineering block frontage | [📷 Photo](Flora/images/pentas_lanceolata.png) | Team Prathin | [📄 Profile](Flora/species/fl-15_pentas_lanceolata.md) |
-| `FL-16` | **Common Zinnia** | *Zinnia elegans* | `Asteraceae` | Central plaza beds, SSN Admin Block Road | [📷 Photo](Flora/images/zinnia_elegans.png) | Team Prathin | [📄 Profile](Flora/species/fl-16_zinnia_elegans.md) |
-| `FL-17` | **Florist's Chrysanthemum** | *Chrysanthemum morifolium* | `Asteraceae` | Hostel garden pots, Gents Hostel Road | [📷 Photo](Flora/images/chrysanthemum_morifolium.png) | Team Prathin | [📄 Profile](Flora/species/fl-17_chrysanthemum_morifolium.md) |
-| `FL-18` | **Garden Cosmos / Mexican Aster** | *Cosmos bipinnatus* | `Asteraceae` | Central plaza beds, SSN Admin Block Road | [📷 Photo](Flora/images/cosmos_bipinnatus.png) | Team Prathin | [📄 Profile](Flora/species/fl-18_cosmos_bipinnatus.md) |
-| `FL-19` | **Crepe Jasmine / Pinwheel Flower** | *Tabernaemontana divaricata* | `Apocynaceae` | Central plaza beds, SSN Admin Block Road | [📷 Photo](Flora/images/tabernaemontana_divaricata.png) | Team Prathin | [📄 Profile](Flora/species/fl-19_tabernaemontana_divaricata.md) |
-| `FL-20` | **Common Lantana / Wild Sage** | *Lantana camara* | `Verbenaceae` | Rough ground beside Bio-Medical Engineering block | [📷 Photo](Flora/images/lantana_camara.png) | Team Prathin | [📄 Profile](Flora/species/fl-20_lantana_camara.md) |
-| `FL-21` | **Golden Dewdrop / Skyflower** | *Duranta erecta* | `Verbenaceae` | Lawn beside Sports Complex | [📷 Photo](Flora/images/duranta_erecta.png) | Team Prathin | [📄 Profile](Flora/species/fl-21_duranta_erecta.md) |
-| `FL-22` | **Bermuda Grass / Arugampullu** | *Cynodon dactylon* | `Poaceae` | All mown lawns across campus | [📷 Photo](Flora/images/cynodon_dactylon.png) | Team Prathin | [📄 Profile](Flora/species/fl-22_cynodon_dactylon.md) |
-| `FL-23` | **Parasol Mushroom / Lawn Chlorophyllum** | *Chlorophyllum sp.* | `Agaricaceae` | Lawn beside the Sports Complex | [📷 Photo](Flora/images/chlorophyllum_sp.png) | Team Prathin | [📄 Profile](Flora/species/fl-23_chlorophyllum_sp.md) |
-| `FL-24` | **Willowleaf Angelon / Summer Snapdragon** | *Angelonia salicariifolia* | `Plantaginaceae` | Near Clocktower | [📷 Photo](Flora/images/angelonia_salicariifolia.png) | Team Viswa | [📄 Profile](Flora/species/fl-24_angelonia_salicariifolia.md) |
-| `FL-25` | **Sago Palm / King Sago Cycad** | *Cycas revoluta* | `Cycadaceae` | Garden Lawn near AB1 | [📷 Photo](Flora/images/cycas_revoluta.png) | Team Viswa | [📄 Profile](Flora/species/fl-25_cycas_revoluta.md) |
-| `FL-26` | **Ruffled Fan Palm / Vanuatu Fan Palm** | *Licuala grandis* | `Arecaceae` | AB1 Entrance | [📷 Photo](Flora/images/licuala_grandis.png) | Team Viswa | [📄 Profile](Flora/species/fl-26_licuala_grandis.md) |
-| `FL-27` | **Golden Melinonii** | *Philodendron melinonii 'Golden'* | `Araceae` | AB1 Golden Stairs | [📷 Photo](Flora/images/philodendron_melinonii.png) | Team Viswa | [📄 Profile](Flora/species/fl-27_philodendron_melinonii_golden.md) |
-| `FL-28` | **Wild Jasmine / Ban Mallika** | *Jasminum angustifolium* | `Oleaceae` | Near AB3 | [📷 Photo](Flora/images/jasminum_angustifolium.png) | Team Viswa | [📄 Profile](Flora/species/fl-28_jasminum_angustifolium.md) |
-| `FL-29` | **Gulmohar / Royal Poinciana (Flame Tree)** | *Delonix regia* | `Fabaceae` | Clocktower | [📷 Photo](Flora/images/delonix_regia.png) | Team Viswa | [📄 Profile](Flora/species/fl-29_delonix_regia.md) |
-| `FL-30` | **Giant Crinum Lily / Poison Bulb** | *Crinum asiaticum* | `Amaryllidaceae` | Near Old Sports Complex | [📷 Photo](Flora/images/crinum_asiaticum.png) | Team Viswa | [📄 Profile](Flora/species/fl-30_crinum_asiaticum.md) |
-| `FL-31` | **East Indian Walnut / Siris Tree** | *Albizia lebbeck* | `Fabaceae` | Pathway near Old Sports Complex | [📷 Photo](Flora/images/albizia_lebbeck.png) | Team Viswa | [📄 Profile](Flora/species/fl-31_albizia_lebbeck.md) |
-| `FL-32` | **Variegated Spider Plant / Ribbon Plant** | *Chlorophytum comosum 'Variegatum'* | `Asparagaceae` | Near AB1 | [📷 Photo](Flora/images/chlorophytum_comosum.png) | Team Viswa | [📄 Profile](Flora/species/fl-32_chlorophytum_comosum_variegatum.md) |
-| `FL-33` | **Dumb Cane / Leopard Lily** | *Dieffenbachia seguine* | `Araceae` | Outside AB3 block | [📷 Photo](Flora/images/dieffenbachia_seguine.png) | Team Viswa | [📄 Profile](Flora/species/fl-33_dieffenbachia_seguine.md) |
-| `FL-34` | **Bushkiller Vine** | *Cayratia japonica* | `Vitaceae` | Near AB1 | [📷 Photo](Flora/images/cayratia_japonica.png) | Team Viswa | [📄 Profile](Flora/species/fl-34_cayratia_japonica.md) |
-| `FL-35` | **Campus Lithophytic Moss** | *Bryophyta sp.* | `Bryaceae` | Well near cricket ground | [📷 Photo](Flora/images/bryophyta_sp.png) | Team Viswa | [📄 Profile](Flora/species/fl-35_bryophyta_sp.md) |
-
----
-
-## 🐾 Master Fauna Catalog (25 Unique Species)
-
-| Catalog ID | Common Name | Scientific Name | Guild / Family | Campus Location | Photo | Contributor Team | Profile |
-| :--- | :--- | :--- | :--- | :--- | :-: | :--- | :-: |
-| `FA-01` | **Dolic Bug / Ground Bug (Milkweed Bug)** | *Spilostethus hospes* | `Lygaeidae` | Pathway behind Dhanyas | [📷 Photo](Fauna/images/spilostethus_hospes.png) | Team Aryan | [📄 Profile](Fauna/species/fa-01_spilostethus_hospes.md) |
-| `FA-02` | **Crimson Rose Butterfly** | *Pachliopta hector* | `Papilionidae` | Ladies Hostel | [📷 Photo](Fauna/images/pachliopta_hector.png) | Team Aryan | [📄 Profile](Fauna/species/fa-02_pachliopta_hector.md) |
-| `FA-03` | **Indian Paper Wasp / Yellow Paper Wasp** | *Ropalidia marginata* | `Vespidae` | AB3 | [📷 Photo](Fauna/images/ropalidia_marginata.png) | Team Aryan | [📄 Profile](Fauna/species/fa-03_ropalidia_marginata.md) |
-| `FA-04` | **Giant African Snail** | *Lissachatina fulica (syn. Achatina fulica)* | `Achatinidae` | Pathway behind Dhanyas | [📷 Photo](Fauna/images/lissachatina_fulica.png) | Team Aryan | [📄 Profile](Fauna/species/fa-04_lissachatina_fulica.md) |
-| `FA-05` | **Indian Freshwater / Field Crab** | *Oziotelphusa senex* | `Gecarcinucidae` | Pathway behind Dhanyas | [📷 Photo](Fauna/images/oziotelphusa_senex.png) | Team Aryan | [📄 Profile](Fauna/species/fa-05_oziotelphusa_senex.md) |
-| `FA-06` | **Red Cotton Stainer** | *Dysdercus cingulatus* | `Pyrrhocoridae` | Pathway behind Dhanyas | [📷 Photo](Fauna/images/dysdercus_cingulatus.png) | Team Aryan | [📄 Profile](Fauna/species/fa-06_dysdercus_cingulatus.md) |
-| `FA-07` | **Red-Headed / Banded Millipede** | *Xenobolus carnifex* | `Pachybolidae` | Pathway to Rishabhs | [📷 Photo](Fauna/images/xenobolus_carnifex.png) | Team Aryan | [📄 Profile](Fauna/species/fa-07_xenobolus_carnifex.md) |
-| `FA-08` | **Yellow-billed Babbler (Seven Sisters)** | *Argya affinis (syn. Turdoides affinis)* | `Leiothrichidae` | Pathway behind Dhanyas | [📷 Photo](Fauna/images/argya_affinis.png) | Team Aryan | [📄 Profile](Fauna/species/fa-08_argya_affinis.md) |
-| `FA-09` | **Black Drongo (King Crow)** | *Dicrurus macrocercus* | `Dicruridae` | Metro Cafe | [📷 Photo](Fauna/images/dicrurus_macrocercus.png) | Team Aryan | [📄 Profile](Fauna/species/fa-09_dicrurus_macrocercus.md) |
-| `FA-10` | **House Crow** | *Corvus splendens* | `Corvidae` | Campus-wide / Academic & Dining vicinity | [📷 Photo](Fauna/images/corvus_splendens.png) | Team Aryan | [📄 Profile](Fauna/species/fa-10_corvus_splendens.md) |
-| `FA-11` | **Bonnet Macaque** | *Macaca radiata* | `Cercopithecidae` | Gents Hostel | [📷 Photo](Fauna/images/macaca_radiata.png) | Team Aryan | [📄 Profile](Fauna/species/fa-11_macaca_radiata.md) |
-| `FA-12` | **Indian Pariah Dog (Desi Dog / INDog)** | *Canis lupus familiaris* | `Canidae` | Backside of AB3 | [📷 Photo](Fauna/images/canis_lupus_familiaris.png) | Team Aryan | [📄 Profile](Fauna/species/fa-12_canis_lupus.md) |
-| `FA-13` | **Indian Peafowl (Peacock - National Bird of India)** | *Pavo cristatus* | `Phasianidae` | Pathway behind Dhanyas | [📷 Photo](Fauna/images/pavo_cristatus.png) | Team Aryan | [📄 Profile](Fauna/species/fa-13_pavo_cristatus.md) |
-| `FA-14` | **Oriental Garden Lizard (Changeable Lizard)** | *Calotes versicolor* | `Agamidae` | Pathway behind Dhanyas | [📷 Photo](Fauna/images/calotes_versicolor.png) | Team Aryan | [📄 Profile](Fauna/species/fa-14_calotes_versicolor.md) |
-| `FA-15` | **Domestic Cat (Campus Tabby / Feral Cat)** | *Felis catus* | `Felidae` | Gents Hostel | [📷 Photo](Fauna/images/felis_catus.png) | Team Aryan | [📄 Profile](Fauna/species/fa-15_felis_catus.md) |
-| `FA-16` | **Common Lime Butterfly / Lemon Swallowtail** | *Papilio demoleus* | `Papilionidae` | AB1 & Campus Gardens | [📷 Photo](Fauna/images/papilio_demoleus.png) | Team Katyayani | [📄 Profile](Fauna/species/fa-16_papilio_demoleus.md) |
-| `FA-17` | **Checkered Keelback (Asiatic Water Snake)** | *Fowlea piscator* | `Colubridae` | Bio Block & Storm-water drain off Hostel Link Road | [📷 Photo](Fauna/images/fowlea_piscator.png) | Team Katyayani | [📄 Profile](Fauna/species/fa-17_fowlea_piscator.md) |
-| `FA-18` | **Blue Tiger Butterfly** | *Tirumala limniace* | `Nymphalidae` | Perimeter green belt shrubbery | [📷 Photo](Fauna/images/tirumala_limniace.png) | Team Prathin | [📄 Profile](Fauna/species/fa-18_tirumala_limniace.md) |
-| `FA-19` | **Noctuid Owlet Moth** | *Noctuidae sp.* | `Noctuidae` | Service road south of Hostel Link Road | [📷 Photo](Fauna/images/noctuidae_sp.png) | Team Prathin | [📄 Profile](Fauna/species/fa-19_noctuidae_sp.md) |
-| `FA-20` | **Tawny Coster** | *Acraea terpsicore* | `Nymphalidae` | Near Cricket Ground & Main Canteen lawns | [📷 Photo](Fauna/images/acraea_terpsicore.png) | Team Viswa | [📄 Profile](Fauna/species/fa-20_acraea_terpsicore.md) |
-| `FA-21` | **Jungle Babbler** | *Argya striata* | `Leiothrichidae` | AB1 Cafeteria & Garden perimeters | [📷 Photo](Fauna/images/argya_striata.png) | Team Viswa | [📄 Profile](Fauna/species/fa-21_argya_striata.md) |
-| `FA-22` | **Long-legged Marsh Glider** | *Trithemis pallidinervis* | `Libellulidae` | Near Cricket Ground & Wetland margins | [📷 Photo](Fauna/images/trithemis_pallidinervis.png) | Team Viswa | [📄 Profile](Fauna/species/fa-22_trithemis_pallidinervis.md) |
-| `FA-23` | **Indian Red Bug** | *Probergrothius sanguinolens* | `Largidae` | Pathway near main canteen | [📷 Photo](Fauna/images/probergrothius_sanguinolens.png) | Team Viswa | [📄 Profile](Fauna/species/fa-23_probergrothius_sanguinolens.md) |
-| `FA-24` | **Asian Honeybee / Indian Honeybee** | *Apis cerana* | `Apidae` | Near AB3 | [📷 Photo](Fauna/images/apis_cerana.png) | Team Viswa | [📄 Profile](Fauna/species/fa-24_apis_cerana.md) |
-| `FA-25` | **Greater Coucal / Southern Crow Pheasant** | *Centropus sinensis* | `Cuculidae` | Near Football ground | [📷 Photo](Fauna/images/centropus_sinensis.png) | Team Viswa | [📄 Profile](Fauna/species/fa-25_centropus_sinensis.md) |
+| ID | Common Name | Scientific Name | Family | Category / Habit | Survey Provenance | Profile Link |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **FL-01** | White Champa / Frangipani | *Plumeria obtusa* | Apocynaceae | Plant (Evergreen Tree / Shrub) | Team Aryan | [View Profile](Flora/species/fl-01_plumeria_obtusa.md) |
+| **FL-02** | Tropical Hibiscus / China Rose & Red Hibiscus / Shoeblack Plant | *Hibiscus rosa-sinensis* | Malvaceae | Plant (Evergreen Woody Perennial Shrub) | Team Aryan | [View Profile](Flora/species/fl-02_hibiscus_rosa_sinensis.md) |
+| **FL-03** | Peppervine | *Nekemias arborea (syn. Ampelopsis arborea)* | Vitaceae | Plant (Woody Climbing Vine) | Team Aryan | [View Profile](Flora/species/fl-03_nekemias_arborea.md) |
+| **FL-04** | Bismarck Palm | *Bismarckia nobilis* | Arecaceae | Plant (Solitary Fan Palm / Tree) | Team Aryan | [View Profile](Flora/species/fl-04_bismarckia_nobilis.md) |
+| **FL-05** | Bamboo Palm / Lady Palm | *Rhapis excelsa* | Arecaceae | Plant (Clumping Fan Palm / Shrub) | Team Aryan | [View Profile](Flora/species/fl-05_rhapis_excelsa.md) |
+| **FL-06** | Sugar Date Palm / Wild Date Palm | *Phoenix sylvestris* | Arecaceae | Plant (Tree / Arecaceae) | Team Aryan | [View Profile](Flora/species/fl-06_phoenix_sylvestris.md) |
+| **FL-07** | Golden Trumpet / Yellow Allamanda | *Allamanda cathartica* | Apocynaceae | Plant (Woody Climbing Shrub / Apocynaceae) | Team Aryan | [View Profile](Flora/species/fl-07_allamanda_cathartica.md) |
+| **FL-08** | Yellow Alder / Yellow Buttercup (Ramgovam) | *Turnera ulmifolia* | Passifloraceae | Plant (Flowering Herb / Subshrub / Passifloraceae) | Team Aryan | [View Profile](Flora/species/fl-08_turnera_ulmifolia.md) |
+| **FL-09** | White Frangipani / Singapore Graveyard Flower | *Plumeria alba* | Apocynaceae | Plant (Deciduous Flowering Tree / Apocynaceae) | Team Aryan | [View Profile](Flora/species/fl-09_plumeria_alba.md) |
+| **FL-10** | Red Frangipani / Pink Temple Tree | *Plumeria rubra* | Apocynaceae | Plant (Small Flowering Tree / Apocynaceae) | Team Aryan | [View Profile](Flora/species/fl-10_plumeria_rubra.md) |
+| **FL-11** | Beach Spider Lily | *Hymenocallis littoralis (syn. Hymenocallis speciosa)* | Amaryllidaceae | Plant (Bulbous Perennial Herb / Amaryllidaceae) | Team Aryan | [View Profile](Flora/species/fl-11_hymenocallis_littoralis.md) |
+| **FL-12** | Paper Flower / Bougainvillea | *Bougainvillea glabra* | Nyctaginaceae | Plant (Ornamental Woody Climber / Shrub) | Team Katyayani | [View Profile](Flora/species/fl-12_bougainvillea_glabra.md) |
+| **FL-13** | Pink Knotweed / Denseflower Knotweed | *Persicaria barbata* | Polygonaceae | Plant (Erect Herb / Wetland Emergent) | Team Katyayani | [View Profile](Flora/species/fl-13_persicaria_barbata.md) |
+| **FL-14** | Scarlet & Pink Ixora / Jungle Geranium | *Ixora coccinea* | Rubiaceae | Plant (Evergreen Ornamental Shrub) | Team Prathin | [View Profile](Flora/species/fl-14_ixora_coccinea.md) |
+| **FL-15** | Egyptian Starcluster | *Pentas lanceolata* | Rubiaceae | Plant (Perennial Flowering Herb / Subshrub) | Team Prathin | [View Profile](Flora/species/fl-15_pentas_lanceolata.md) |
+| **FL-16** | Common Zinnia | *Zinnia elegans* | Asteraceae | Plant (Annual Flowering Herb) | Team Prathin | [View Profile](Flora/species/fl-16_zinnia_elegans.md) |
+| **FL-17** | Florist's Chrysanthemum | *Chrysanthemum morifolium* | Asteraceae | Plant (Perennial Herb / Asteraceae) | Team Prathin | [View Profile](Flora/species/fl-17_chrysanthemum_morifolium.md) |
+| **FL-18** | Garden Cosmos / Mexican Aster | *Cosmos bipinnatus* | Asteraceae | Plant (Self-seeding Herb / Asteraceae) | Team Prathin | [View Profile](Flora/species/fl-18_cosmos_bipinnatus.md) |
+| **FL-19** | Crepe Jasmine / Pinwheel Flower | *Tabernaemontana divaricata* | Apocynaceae | Plant (Evergreen Shrub / Apocynaceae) | Team Prathin | [View Profile](Flora/species/fl-19_tabernaemontana_divaricata.md) |
+| **FL-20** | Common Lantana / Wild Sage | *Lantana camara* | Verbenaceae | Plant (Sprawling Shrub / Naturalised) | Team Prathin | [View Profile](Flora/species/fl-20_lantana_camara.md) |
+| **FL-21** | Golden Dewdrop / Skyflower | *Duranta erecta* | Verbenaceae | Plant (Ornamental Hedge Shrub) | Team Prathin | [View Profile](Flora/species/fl-21_duranta_erecta.md) |
+| **FL-22** | Bermuda Grass / Arugampullu | *Cynodon dactylon* | Poaceae | Plant (Perennial Turf Grass) | Team Prathin | [View Profile](Flora/species/fl-22_cynodon_dactylon.md) |
+| **FL-23** | Parasol Mushroom / Lawn Chlorophyllum | *Chlorophyllum sp.* | Agaricaceae | Fungi (Saprotrophic Agaric) | Team Prathin | [View Profile](Flora/species/fl-23_chlorophyllum_sp.md) |
+| **FL-24** | Willowleaf Angelon / Summer Snapdragon | *Angelonia salicariifolia* | Plantaginaceae | Plant (Perennial Herb / Plantaginaceae) | Team Viswa | [View Profile](Flora/species/fl-24_angelonia_salicariifolia.md) |
+| **FL-25** | Sago Palm / King Sago Cycad | *Cycas revoluta* | Cycadaceae | Plant (Gymnosperm / Ancient Cycad) | Team Viswa | [View Profile](Flora/species/fl-25_cycas_revoluta.md) |
+| **FL-26** | Ruffled Fan Palm / Vanuatu Fan Palm | *Licuala grandis* | Arecaceae | Plant (Solitary Fan Palm / Arecaceae) | Team Viswa | [View Profile](Flora/species/fl-26_licuala_grandis.md) |
+| **FL-27** | Golden Melinonii | *Philodendron melinonii 'Golden'* | Araceae | Plant (Epiphytic / Potted Aroid) | Team Viswa | [View Profile](Flora/species/fl-27_philodendron_melinonii.md) |
+| **FL-28** | Wild Jasmine / Ban Mallika | *Jasminum angustifolium* | Oleaceae | Plant (Woody Climbing Vine) | Team Viswa | [View Profile](Flora/species/fl-28_jasminum_angustifolium.md) |
+| **FL-29** | Gulmohar / Royal Poinciana (Flame Tree) | *Delonix regia* | Fabaceae | Plant (Large Deciduous Canopy Tree) | Team Viswa | [View Profile](Flora/species/fl-29_delonix_regia.md) |
+| **FL-30** | Giant Crinum Lily / Poison Bulb | *Crinum asiaticum* | Amaryllidaceae | Plant (Robust Bulbous Perennial Herb) | Team Viswa | [View Profile](Flora/species/fl-30_crinum_asiaticum.md) |
+| **FL-31** | East Indian Walnut / Siris Tree | *Albizia lebbeck* | Fabaceae | Plant (Deciduous Timber / Shade Tree) | Team Viswa | [View Profile](Flora/species/fl-31_albizia_lebbeck.md) |
+| **FL-32** | Variegated Spider Plant / Ribbon Plant | *Chlorophytum comosum 'Variegatum'* | Asparagaceae | Plant (Perennial Herb / Groundcover) | Team Viswa | [View Profile](Flora/species/fl-32_chlorophytum_comosum.md) |
+| **FL-33** | Dumb Cane / Leopard Lily | *Dieffenbachia seguine* | Araceae | Plant (Perennial Aroid) | Team Viswa | [View Profile](Flora/species/fl-33_dieffenbachia_seguine.md) |
+| **FL-34** | Bushkiller Vine | *Cayratia japonica* | Vitaceae | Plant (Herbaceous Climbing Vine) | Team Viswa | [View Profile](Flora/species/fl-34_cayratia_japonica.md) |
+| **FL-35** | Campus Lithophytic Moss | *Bryophyta sp.* | Bryaceae | Plant (Non-vascular Bryophyte) | Team Viswa | [View Profile](Flora/species/fl-35_bryophyta_sp.md) |
+| **FL-36** | Pink Trumpet Tree / Rosy Trumpet Tree | *Tabebuia rosea* | Bignoniaceae | Plant (Deciduous Flowering Tree) | Team Lokranjan | [View Profile](Flora/species/fl-36_tabebuia_rosea.md) |
+| **FL-37** | Sausage Tree | *Kigelia africana* | Bignoniaceae | Plant (Deciduous Flowering Tree) | Team Lokranjan | [View Profile](Flora/species/fl-37_kigelia_africana.md) |
+| **FL-38** | Banyan Tree / Indian Banyan | *Ficus benghalensis* | Moraceae | Plant (Keystone Canopy Tree / Moraceae) | Team Lokranjan | [View Profile](Flora/species/fl-38_ficus_benghalensis.md) |
+| **FL-39** | Tea Plant | *Camellia sinensis* | Theaceae | Plant (Evergreen Shrub / Theaceae) | Team Lokranjan | [View Profile](Flora/species/fl-39_camellia_sinensis.md) |
+| **FL-40** | Cathedral Bells / Air Plant / Miracle Leaf | *Kalanchoe pinnata (syn. Bryophyllum pinnatum)* | Crassulaceae | Plant (Succulent Herb / Medicinal Perennial) | Team Sasthika | [View Profile](Flora/species/fl-40_kalanchoe_pinnata.md) |
+| **FL-41** | Neem Tree / Indian Lilac / Margosa Tree | *Azadirachta indica* | Meliaceae | Plant (Evergreen Canopy Tree / Meliaceae) | Team Sasthika | [View Profile](Flora/species/fl-41_azadirachta_indica.md) |
+| **FL-42** | Elephant's Foot / Prickly Chaff Flower | *Elephantopus scaber* | Asteraceae | Herbs & Groundcover | Team Asmath | [View Profile](Flora/species/fl-42_elephantopus_scaber.md) |
 
 ---
 
-## 🗂️ Repository Architecture
+## 🐾 Master Fauna Inventory Table (42 Species)
 
-```
-Campus-Biodiversity/
-│
-├── README.md                          # Master inventory, collective roster, methodology, & trophic web
-├── index.html                         # Interactive Campus Biodiversity Explorer Web App & Multi-Team Atlas
-│
-├── Flora/                             # Botanical Division (35 Species)
-│   ├── README.md                      # Flora master catalog & classification overview
-│   ├── images/                        # Original field survey photographs of all 35 floral species
-│   └── species/                       # Dedicated Markdown profiles for each unique plant species
-│
-├── Fauna/                             # Zoological Division (25 Species)
-│   ├── README.md                      # Fauna master catalog & taxonomic guild breakdown
-│   ├── images/                        # Original field survey photographs of all 25 faunal species
-│   └── species/                       # Dedicated Markdown profiles for each unique animal species
-│
-├── Ecological-Analysis/               # Ecological Syntheses & Trophic Dynamics
-│   ├── README.md                      # Multi-trophic campus food web analysis
-│   └── food_chain_diagrams.md         # Documented campus food chains & energy transfer
-│
-├── data/                              # Machine-readable Open Datasets
-│   ├── biodiversity_inventory.json    # Complete structured JSON dataset with team metadata
-│   └── biodiversity_inventory.csv     # Tabular CSV catalog for research & GIS mapping
-│
-└── assets/                            # Infographics & charts
-```
+| ID | Common Name | Scientific Name | Family | Category / Guild | Trophic Level | Survey Provenance | Profile Link |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **FA-01** | Dolic Bug / Ground Bug (Milkweed Bug) | *Spilostethus hospes* | Lygaeidae | Insects / Arthropods | Primary Consumer / Herbivore | Team Aryan | [View Profile](Fauna/species/fa-01_spilostethus_hospes.md) |
+| **FA-02** | Crimson Rose Butterfly | *Pachliopta hector* | Papilionidae | Insects / Arthropods | Primary Consumer / Herbivore | Team Aryan | [View Profile](Fauna/species/fa-02_pachliopta_hector.md) |
+| **FA-03** | Indian Paper Wasp / Yellow Paper Wasp | *Ropalidia marginata* | Vespidae | Insects / Arthropods | Secondary Consumer / Insectivore | Team Aryan | [View Profile](Fauna/species/fa-03_ropalidia_marginata.md) |
+| **FA-04** | Giant African Snail | *Lissachatina fulica (syn. Achatina fulica)* | Achatinidae | Molluscs | Primary Consumer / Detritivore & Decomposer | Team Aryan | [View Profile](Fauna/species/fa-04_lissachatina_fulica.md) |
+| **FA-05** | Indian Freshwater / Field Crab | *Oziotelphusa senex* | Gecarcinucidae | Crustaceans | Primary/Secondary Consumer & Detritivore | Team Aryan | [View Profile](Fauna/species/fa-05_oziotelphusa_senex.md) |
+| **FA-06** | Red Cotton Stainer | *Dysdercus cingulatus* | Pyrrhocoridae | Insects / Arthropods | Primary Consumer / Herbivore | Team Aryan | [View Profile](Fauna/species/fa-06_dysdercus_cingulatus.md) |
+| **FA-07** | Red-Headed / Banded Millipede | *Xenobolus carnifex* | Pachybolidae | Myriapods / Arthropods | Primary Consumer / Primary Detritivore | Team Aryan | [View Profile](Fauna/species/fa-07_xenobolus_carnifex.md) |
+| **FA-08** | Yellow-billed Babbler (Seven Sisters) | *Argya affinis (syn. Turdoides affinis)* | Leiothrichidae | Birds (Avifauna) | Secondary Consumer / Insectivore-Omnivore | Team Aryan | [View Profile](Fauna/species/fa-08_argya_affinis.md) |
+| **FA-09** | Black Drongo (King Crow) | *Dicrurus macrocercus* | Dicruridae | Birds (Avifauna) | Secondary Consumer / Aerial Insectivore | Team Aryan | [View Profile](Fauna/species/fa-09_dicrurus_macrocercus.md) |
+| **FA-10** | House Crow | *Corvus splendens* | Corvidae | Birds (Avifauna) | Tertiary Consumer / Omnivorous Scavenger | Team Aryan | [View Profile](Fauna/species/fa-10_corvus_splendens.md) |
+| **FA-11** | Bonnet Macaque | *Macaca radiata* | Cercopithecidae | Mammals | Primary/Secondary Consumer & Frugivore | Team Aryan | [View Profile](Fauna/species/fa-11_macaca_radiata.md) |
+| **FA-12** | Indian Pariah Dog (Desi Dog / INDog) | *Canis lupus familiaris* | Canidae | Mammals | Tertiary Consumer / Apex Predator & Scavenger | Team Aryan | [View Profile](Fauna/species/fa-12_canis_lupus_familiaris.md) |
+| **FA-13** | Indian Peafowl (Peacock - National Bird of India) | *Pavo cristatus* | Phasianidae | Birds (Avifauna) | Secondary / Tertiary Consumer & Predator | Team Aryan | [View Profile](Fauna/species/fa-13_pavo_cristatus.md) |
+| **FA-14** | Oriental Garden Lizard (Changeable Lizard) | *Calotes versicolor* | Agamidae | Reptiles | Secondary Consumer / Insectivore | Team Aryan | [View Profile](Fauna/species/fa-14_calotes_versicolor.md) |
+| **FA-15** | Domestic Cat (Campus Tabby / Feral Cat) | *Felis catus* | Felidae | Mammals | Tertiary Consumer / Small Carnivore & Apex Predator | Team Aryan | [View Profile](Fauna/species/fa-15_felis_catus.md) |
+| **FA-16** | Common Lime Butterfly / Lemon Swallowtail | *Papilio demoleus* | Papilionidae | Insects / Arthropods | Primary Consumer / Herbivore | Team Katyayani | [View Profile](Fauna/species/fa-16_papilio_demoleus.md) |
+| **FA-17** | Checkered Keelback (Asiatic Water Snake) | *Fowlea piscator* | Colubridae | Reptiles | Tertiary Consumer / Carnivore | Team Katyayani | [View Profile](Fauna/species/fa-17_fowlea_piscator.md) |
+| **FA-18** | Blue Tiger Butterfly | *Tirumala limniace* | Nymphalidae | Insects / Arthropods | Primary Consumer / Herbivore | Team Prathin | [View Profile](Fauna/species/fa-18_tirumala_limniace.md) |
+| **FA-19** | Noctuid Owlet Moth | *Noctuidae sp.* | Noctuidae | Insects / Arthropods | Primary Consumer / Herbivore | Team Prathin | [View Profile](Fauna/species/fa-19_noctuidae_sp.md) |
+| **FA-20** | Tawny Coster | *Acraea terpsicore* | Nymphalidae | Insects / Arthropods | Primary Consumer / Herbivore | Team Viswa | [View Profile](Fauna/species/fa-20_acraea_terpsicore.md) |
+| **FA-21** | Jungle Babbler | *Argya striata* | Leiothrichidae | Birds (Avifauna) | Secondary Consumer / Insectivore-Omnivore | Team Viswa | [View Profile](Fauna/species/fa-21_argya_striata.md) |
+| **FA-22** | Long-legged Marsh Glider | *Trithemis pallidinervis* | Libellulidae | Insects / Arthropods | Secondary Consumer / Aerial Predator | Team Viswa | [View Profile](Fauna/species/fa-22_trithemis_pallidinervis.md) |
+| **FA-23** | Indian Red Bug | *Probergrothius sanguinolens* | Largidae | Insects / Arthropods | Primary Consumer / Seed Bug | Team Viswa | [View Profile](Fauna/species/fa-23_probergrothius_sanguinolens.md) |
+| **FA-24** | Asian Honeybee / Indian Honeybee | *Apis cerana* | Apidae | Insects / Arthropods | Primary Consumer / Kept & Wild Pollinator | Team Viswa | [View Profile](Fauna/species/fa-24_apis_cerana.md) |
+| **FA-25** | Greater Coucal / Southern Crow Pheasant | *Centropus sinensis* | Cuculidae | Birds (Avifauna) | Tertiary / Apex Avian Predator | Team Viswa | [View Profile](Fauna/species/fa-25_centropus_sinensis.md) |
+| **FA-26** | Common Mormon Butterfly | *Papilio polytes* | Papilionidae | Insects / Arthropods | Primary Consumer / Pollinator | Team Lokranjan | [View Profile](Fauna/species/fa-26_papilio_polytes.md) |
+| **FA-27** | Domino Beetle / Six-spotted Ground Beetle | *Anthia sexguttata* | Carabidae | Insects / Arthropods | Secondary Consumer / Predator | Team Lokranjan | [View Profile](Fauna/species/fa-27_anthia_sexguttata.md) |
+| **FA-28** | Bush Cricket / Katydid | *Tettigoniidae sp.* | Tettigoniidae | Insects / Arthropods | Primary Consumer / Herbivore | Team Lokranjan | [View Profile](Fauna/species/fa-28_tettigoniidae_sp.md) |
+| **FA-29** | House Mosquito / True Mosquito | *Culex sp.* | Culicidae | Insects / Arthropods | Primary / Parasitic Consumer | Team Lokranjan | [View Profile](Fauna/species/fa-29_culex_sp.md) |
+| **FA-30** | Common Picture Wing Dragonfly / Variegated Flutterer | *Rhyothemis variegata* | Libellulidae | Insects / Arthropods | Secondary Consumer / Aerial Predator | Team Lokranjan | [View Profile](Fauna/species/fa-30_rhyothemis_variegata.md) |
+| **FA-31** | Asian Weaver Ant-mimicking Jumping Spider | *Myrmaplata plataleoides* | Salticidae | Arachnids / Arthropods | Secondary Consumer / Ambush Predator | Team Lokranjan | [View Profile](Fauna/species/fa-31_myrmaplata_plataleoides.md) |
+| **FA-32** | Two-striped Jumper Spider | *Telamonia dimidiata* | Salticidae | Arachnids / Arthropods | Secondary Consumer / Visual Predator | Team Lokranjan | [View Profile](Fauna/species/fa-32_telamonia_dimidiata.md) |
+| **FA-33** | Asian Common Toad / Black-spined Toad | *Duttaphrynus melanostictus* | Bufonidae | Amphibians / Vertebrates | Secondary Consumer / Insectivore | Team Lokranjan | [View Profile](Fauna/species/fa-33_duttaphrynus_melanostictus.md) |
+| **FA-34** | Indian Cricket Frog / Wetland Paddy Frog | *Fejervarya sp. (syn. Minervarya sp.)* | Dicroglossidae | Amphibians / Vertebrates | Secondary Consumer / Insectivore | Team Lokranjan | [View Profile](Fauna/species/fa-34_fejervarya_sp.md) |
+| **FA-35** | Peninsular Rock Agama / South Indian Rock Agama | *Psammophilus dorsalis* | Agamidae | Reptiles | Secondary Consumer / Insectivore | Team Lokranjan | [View Profile](Fauna/species/fa-35_psammophilus_dorsalis.md) |
+| **FA-36** | Russell's Viper / Indian Kukri Snake | *Daboia russelii (cf. Oligodon arnensis)* | Viperidae / Colubridae | Reptiles | Tertiary Consumer / Carnivore | Team Lokranjan | [View Profile](Fauna/species/fa-36_daboia_russelii.md) |
+| **FA-37** | Western Cattle Egret | *Bubulcus ibis (syn. Ardea ibis)* | Ardeidae | Birds (Avifauna) | Tertiary Consumer / Carnivorous Predator | Team Lokranjan | [View Profile](Fauna/species/fa-37_bubulcus_ibis.md) |
+| **FA-38** | Indian Palm Squirrel / Three-striped Palm Squirrel | *Funambulus palmarum* | Sciuridae | Mammals | Primary/Secondary Consumer & Granivore-Frugivore | Team Sasthika | [View Profile](Fauna/species/fa-38_funambulus_palmarum.md) |
+| **FA-39** | House Sparrow | *Passer domesticus* | Passeridae | Birds (Avifauna) | Primary/Secondary Consumer & Granivore-Insectivore | Team Sasthika | [View Profile](Fauna/species/fa-39_passer_domesticus.md) |
+| **FA-40** | Black Crazy Ant / Longhorn Ant | *Paratrechina longicornis* | Formicidae | Insects / Arthropods | Secondary Consumer / Scavenger & Generalist Predator | Team Sasthika | [View Profile](Fauna/species/fa-40_paratrechina_longicornis.md) |
+| **FA-41** | Common Myna | *Acridotheres tristis* | Sturnidae | Birds (Avifauna) | Secondary Consumer & Omnivore | Team Asmath | [View Profile](Fauna/species/fa-41_acridotheres_tristis.md) |
+| **FA-42** | Asian Koel | *Eudynamys scolopaceus* | Cuculidae | Birds (Avifauna) | Secondary Consumer & Frugivore-Insectivore | Team Asmath | [View Profile](Fauna/species/fa-42_eudynamys_scolopaceus.md) |
 
 ---
 
-## 👥 Course & Assignment Information
-- **Course**: Environmental Science and Engineering (EVS)
-- **Institution**: Shiv Nadar University Chennai (SNU Chennai)
-- **Coordinator**: Dr. K. Uthradevi
-- **Semester**: Monsoon 2026
-- **Repository Maintainer / Lead**: [AryanTechie-007](https://github.com/AryanTechie-007)
+## 🕸️ Ecological Web & Analysis Summary
+
+For complete trophic structure diagrams, energy flow pathways, and micro-habitat breakdown, see [Ecological-Analysis/README.md](Ecological-Analysis/README.md).
 
 ---
 
-<p align="center">
-  <b>Shiv Nadar University Chennai — Campus Biodiversity Inventory Repository</b><br>
-  <i>Conserving and documenting our living campus heritage across student research teams.</i>
-</p>
+[🏠 Return to Top](#-campus-biodiversity-inventory-repository) | [🌿 Explore Flora Directory](Flora/README.md) | [🐾 Explore Fauna Directory](Fauna/README.md) | [🌐 Interactive Explorer](index.html)

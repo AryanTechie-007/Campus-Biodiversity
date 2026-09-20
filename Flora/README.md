@@ -1,69 +1,64 @@
-# 🌿 Campus Flora Inventory
+# 🌿 Flora Directory — Botanical & Mycological Biodiversity Inventory
 
-> **Department of Environmental Science & Engineering (EVS)**  
 > **Shiv Nadar University Chennai (SNU Chennai)**  
-> **Total Documented Unique Floral Species:** 35 Species  
-> **Contributing Survey Teams:** Team Aryan, Team Katyayani, Team Prathin, Team Viswa
+> **Course**: Environmental Science and Engineering (EVS)  
+> **Total Documented Unique Flora**: **42 Species**
 
 ---
 
-## Overview
+## 📌 Botanical Inventory Overview
 
-The botanical flora of Shiv Nadar University Chennai represents a carefully balanced blend of native tropical trees, architectural palms, and ornamental flowering shrubs across four collective student survey teams. Functioning as **Trophic Level 1 (Primary Producers / Autotrophs)**, these plant species harvest solar radiation, regulate the microclimate, stabilize soils, and provide food and shelter to campus wildlife.
-
-### Deduplication Policy & Systematic Organization
-In accordance with assignment guidelines (*"Do not include duplicate/repeated species. Each species should be listed only once"*), every botanical taxon is cataloged with verified scientific nomenclature and original on-site field photographic evidence. Redundant sightings are synthesized under their primary taxon entry.
+The flora of the SNU Chennai campus encompasses a rich diversity of botanical habits, including evergreen canopy trees, ornamental flowering shrubs, ancient cycads, shade-tolerant groundcovers, climbing vines, wetland marginal herbs, and micro-fungi.
 
 ---
 
-## Master Flora Catalog
+## 📋 Master Flora Index (42 Unique Species)
 
-| # | Catalog ID | Common Name | Scientific Name | Botanical Family | Campus Location | Observation Photo | Contributor Team | Profile Link |
-| :-: | :--- | :--- | :--- | :--- | :--- | :-: | :--- | :-: |
-| 01 | `FL-01` | **White Champa / Frangipani** | *Plumeria obtusa* | `Apocynaceae` | Pathway behind Dhanyas | [📷 View](images/plumeria_obtusa.png) | Team Aryan | [📄 Open Profile](species/fl-01_plumeria_obtusa.md) |
-| 02 | `FL-02` | **Tropical Hibiscus / China Rose & Red Hibiscus / Shoeblack Plant** | *Hibiscus rosa-sinensis* | `Malvaceae` | Pathway behind Dhanyas | [📷 View](images/hibiscus_rosa_sinensis.png) | Team Aryan | [📄 Open Profile](species/fl-02_hibiscus_rosa-sinensis.md) |
-| 03 | `FL-03` | **Peppervine** | *Nekemias arborea (syn. Ampelopsis arborea)* | `Vitaceae` | Pathway behind Dhanyas | [📷 View](images/nekemias_arborea.png) | Team Aryan | [📄 Open Profile](species/fl-03_nekemias_arborea.md) |
-| 04 | `FL-04` | **Bismarck Palm** | *Bismarckia nobilis* | `Arecaceae` | Campus entrance | [📷 View](images/bismarckia_nobilis.png) | Team Aryan | [📄 Open Profile](species/fl-04_bismarckia_nobilis.md) |
-| 05 | `FL-05` | **Bamboo Palm / Lady Palm** | *Rhapis excelsa* | `Arecaceae` | AB3 open space | [📷 View](images/rhapis_excelsa.png) | Team Aryan | [📄 Open Profile](species/fl-05_rhapis_excelsa.md) |
-| 06 | `FL-06` | **Sugar Date Palm / Wild Date Palm** | *Phoenix sylvestris* | `Arecaceae` | AB3 | [📷 View](images/phoenix_sylvestris.png) | Team Aryan | [📄 Open Profile](species/fl-06_phoenix_sylvestris.md) |
-| 07 | `FL-07` | **Golden Trumpet / Yellow Allamanda** | *Allamanda cathartica* | `Apocynaceae` | AB2 | [📷 View](images/allamanda_cathartica.png) | Team Aryan | [📄 Open Profile](species/fl-07_allamanda_cathartica.md) |
-| 08 | `FL-08` | **Yellow Alder / Yellow Buttercup (Ramgovam)** | *Turnera ulmifolia* | `Passifloraceae` | Pathway behind Dhanyas | [📷 View](images/turnera_ulmifolia.png) | Team Aryan | [📄 Open Profile](species/fl-08_turnera_ulmifolia.md) |
-| 09 | `FL-09` | **White Frangipani / Singapore Graveyard Flower** | *Plumeria alba* | `Apocynaceae` | AB1 | [📷 View](images/plumeria_alba.png) | Team Aryan | [📄 Open Profile](species/fl-09_plumeria_alba.md) |
-| 10 | `FL-10` | **Red Frangipani / Pink Temple Tree** | *Plumeria rubra* | `Apocynaceae` | AB3 | [📷 View](images/plumeria_rubra.png) | Team Aryan | [📄 Open Profile](species/fl-10_plumeria_rubra.md) |
-| 11 | `FL-11` | **Beach Spider Lily** | *Hymenocallis littoralis (syn. Hymenocallis speciosa)* | `Amaryllidaceae` | Pathway behind Dhanyas | [📷 View](images/hymenocallis_littoralis.png) | Team Aryan | [📄 Open Profile](species/fl-11_hymenocallis_littoralis.md) |
-| 12 | `FL-12` | **Paper Flower / Bougainvillea** | *Bougainvillea glabra* | `Nyctaginaceae` | Ornamental garden beside fountain | [📷 View](images/bougainvillea_glabra.png) | Team Katyayani | [📄 Open Profile](species/fl-12_bougainvillea_glabra.md) |
-| 13 | `FL-13` | **Pink Knotweed / Denseflower Knotweed** | *Persicaria barbata* | `Polygonaceae` | Snowcube | [📷 View](images/persicaria_barbata.png) | Team Katyayani | [📄 Open Profile](species/fl-13_persicaria_barbata.md) |
-| 14 | `FL-14` | **Scarlet & Pink Ixora / Jungle Geranium** | *Ixora coccinea* | `Rubiaceae` | Central plaza beds, SSN Admin Block Road | [📷 View](images/ixora_coccinea.png) | Team Prathin | [📄 Open Profile](species/fl-14_ixora_coccinea.md) |
-| 15 | `FL-15` | **Egyptian Starcluster** | *Pentas lanceolata* | `Rubiaceae` | Chemical Engineering block frontage | [📷 View](images/pentas_lanceolata.png) | Team Prathin | [📄 Open Profile](species/fl-15_pentas_lanceolata.md) |
-| 16 | `FL-16` | **Common Zinnia** | *Zinnia elegans* | `Asteraceae` | Central plaza beds, SSN Admin Block Road | [📷 View](images/zinnia_elegans.png) | Team Prathin | [📄 Open Profile](species/fl-16_zinnia_elegans.md) |
-| 17 | `FL-17` | **Florist's Chrysanthemum** | *Chrysanthemum morifolium* | `Asteraceae` | Hostel garden pots, Gents Hostel Road | [📷 View](images/chrysanthemum_morifolium.png) | Team Prathin | [📄 Open Profile](species/fl-17_chrysanthemum_morifolium.md) |
-| 18 | `FL-18` | **Garden Cosmos / Mexican Aster** | *Cosmos bipinnatus* | `Asteraceae` | Central plaza beds, SSN Admin Block Road | [📷 View](images/cosmos_bipinnatus.png) | Team Prathin | [📄 Open Profile](species/fl-18_cosmos_bipinnatus.md) |
-| 19 | `FL-19` | **Crepe Jasmine / Pinwheel Flower** | *Tabernaemontana divaricata* | `Apocynaceae` | Central plaza beds, SSN Admin Block Road | [📷 View](images/tabernaemontana_divaricata.png) | Team Prathin | [📄 Open Profile](species/fl-19_tabernaemontana_divaricata.md) |
-| 20 | `FL-20` | **Common Lantana / Wild Sage** | *Lantana camara* | `Verbenaceae` | Rough ground beside Bio-Medical Engineering block | [📷 View](images/lantana_camara.png) | Team Prathin | [📄 Open Profile](species/fl-20_lantana_camara.md) |
-| 21 | `FL-21` | **Golden Dewdrop / Skyflower** | *Duranta erecta* | `Verbenaceae` | Lawn beside Sports Complex | [📷 View](images/duranta_erecta.png) | Team Prathin | [📄 Open Profile](species/fl-21_duranta_erecta.md) |
-| 22 | `FL-22` | **Bermuda Grass / Arugampullu** | *Cynodon dactylon* | `Poaceae` | All mown lawns across campus | [📷 View](images/cynodon_dactylon.png) | Team Prathin | [📄 Open Profile](species/fl-22_cynodon_dactylon.md) |
-| 23 | `FL-23` | **Parasol Mushroom / Lawn Chlorophyllum** | *Chlorophyllum sp.* | `Agaricaceae` | Lawn beside the Sports Complex | [📷 View](images/chlorophyllum_sp.png) | Team Prathin | [📄 Open Profile](species/fl-23_chlorophyllum_sp.md) |
-| 24 | `FL-24` | **Willowleaf Angelon / Summer Snapdragon** | *Angelonia salicariifolia* | `Plantaginaceae` | Near Clocktower | [📷 View](images/angelonia_salicariifolia.png) | Team Viswa | [📄 Open Profile](species/fl-24_angelonia_salicariifolia.md) |
-| 25 | `FL-25` | **Sago Palm / King Sago Cycad** | *Cycas revoluta* | `Cycadaceae` | Garden Lawn near AB1 | [📷 View](images/cycas_revoluta.png) | Team Viswa | [📄 Open Profile](species/fl-25_cycas_revoluta.md) |
-| 26 | `FL-26` | **Ruffled Fan Palm / Vanuatu Fan Palm** | *Licuala grandis* | `Arecaceae` | AB1 Entrance | [📷 View](images/licuala_grandis.png) | Team Viswa | [📄 Open Profile](species/fl-26_licuala_grandis.md) |
-| 27 | `FL-27` | **Golden Melinonii** | *Philodendron melinonii 'Golden'* | `Araceae` | AB1 Golden Stairs | [📷 View](images/philodendron_melinonii.png) | Team Viswa | [📄 Open Profile](species/fl-27_philodendron_melinonii_golden.md) |
-| 28 | `FL-28` | **Wild Jasmine / Ban Mallika** | *Jasminum angustifolium* | `Oleaceae` | Near AB3 | [📷 View](images/jasminum_angustifolium.png) | Team Viswa | [📄 Open Profile](species/fl-28_jasminum_angustifolium.md) |
-| 29 | `FL-29` | **Gulmohar / Royal Poinciana (Flame Tree)** | *Delonix regia* | `Fabaceae` | Clocktower | [📷 View](images/delonix_regia.png) | Team Viswa | [📄 Open Profile](species/fl-29_delonix_regia.md) |
-| 30 | `FL-30` | **Giant Crinum Lily / Poison Bulb** | *Crinum asiaticum* | `Amaryllidaceae` | Near Old Sports Complex | [📷 View](images/crinum_asiaticum.png) | Team Viswa | [📄 Open Profile](species/fl-30_crinum_asiaticum.md) |
-| 31 | `FL-31` | **East Indian Walnut / Siris Tree** | *Albizia lebbeck* | `Fabaceae` | Pathway near Old Sports Complex | [📷 View](images/albizia_lebbeck.png) | Team Viswa | [📄 Open Profile](species/fl-31_albizia_lebbeck.md) |
-| 32 | `FL-32` | **Variegated Spider Plant / Ribbon Plant** | *Chlorophytum comosum 'Variegatum'* | `Asparagaceae` | Near AB1 | [📷 View](images/chlorophytum_comosum.png) | Team Viswa | [📄 Open Profile](species/fl-32_chlorophytum_comosum_variegatum.md) |
-| 33 | `FL-33` | **Dumb Cane / Leopard Lily** | *Dieffenbachia seguine* | `Araceae` | Outside AB3 block | [📷 View](images/dieffenbachia_seguine.png) | Team Viswa | [📄 Open Profile](species/fl-33_dieffenbachia_seguine.md) |
-| 34 | `FL-34` | **Bushkiller Vine** | *Cayratia japonica* | `Vitaceae` | Near AB1 | [📷 View](images/cayratia_japonica.png) | Team Viswa | [📄 Open Profile](species/fl-34_cayratia_japonica.md) |
-| 35 | `FL-35` | **Campus Lithophytic Moss** | *Bryophyta sp.* | `Bryaceae` | Well near cricket ground | [📷 View](images/bryophyta_sp.png) | Team Viswa | [📄 Open Profile](species/fl-35_bryophyta_sp.md) |
+| ID | Common Name | Scientific Name | Family | Category / Growth Habit | Location & Microhabitat | Contributor Team | Profile Link |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **FL-01** | White Champa / Frangipani | *Plumeria obtusa* | Apocynaceae | Plant (Evergreen Tree / Shrub) | Pathway behind Dhanyas | Team Aryan | [View Profile](species/fl-01_plumeria_obtusa.md) |
+| **FL-02** | Tropical Hibiscus / China Rose & Red Hibiscus / Shoeblack Plant | *Hibiscus rosa-sinensis* | Malvaceae | Plant (Evergreen Woody Perennial Shrub) | Pathway behind Dhanyas | Team Aryan | [View Profile](species/fl-02_hibiscus_rosa_sinensis.md) |
+| **FL-03** | Peppervine | *Nekemias arborea (syn. Ampelopsis arborea)* | Vitaceae | Plant (Woody Climbing Vine) | Pathway behind Dhanyas | Team Aryan | [View Profile](species/fl-03_nekemias_arborea.md) |
+| **FL-04** | Bismarck Palm | *Bismarckia nobilis* | Arecaceae | Plant (Solitary Fan Palm / Tree) | Campus entrance | Team Aryan | [View Profile](species/fl-04_bismarckia_nobilis.md) |
+| **FL-05** | Bamboo Palm / Lady Palm | *Rhapis excelsa* | Arecaceae | Plant (Clumping Fan Palm / Shrub) | AB3 open space | Team Aryan | [View Profile](species/fl-05_rhapis_excelsa.md) |
+| **FL-06** | Sugar Date Palm / Wild Date Palm | *Phoenix sylvestris* | Arecaceae | Plant (Tree / Arecaceae) | AB3 | Team Aryan | [View Profile](species/fl-06_phoenix_sylvestris.md) |
+| **FL-07** | Golden Trumpet / Yellow Allamanda | *Allamanda cathartica* | Apocynaceae | Plant (Woody Climbing Shrub / Apocynaceae) | AB2 | Team Aryan | [View Profile](species/fl-07_allamanda_cathartica.md) |
+| **FL-08** | Yellow Alder / Yellow Buttercup (Ramgovam) | *Turnera ulmifolia* | Passifloraceae | Plant (Flowering Herb / Subshrub / Passifloraceae) | Pathway behind Dhanyas | Team Aryan | [View Profile](species/fl-08_turnera_ulmifolia.md) |
+| **FL-09** | White Frangipani / Singapore Graveyard Flower | *Plumeria alba* | Apocynaceae | Plant (Deciduous Flowering Tree / Apocynaceae) | AB1 | Team Aryan | [View Profile](species/fl-09_plumeria_alba.md) |
+| **FL-10** | Red Frangipani / Pink Temple Tree | *Plumeria rubra* | Apocynaceae | Plant (Small Flowering Tree / Apocynaceae) | AB3 | Team Aryan | [View Profile](species/fl-10_plumeria_rubra.md) |
+| **FL-11** | Beach Spider Lily | *Hymenocallis littoralis (syn. Hymenocallis speciosa)* | Amaryllidaceae | Plant (Bulbous Perennial Herb / Amaryllidaceae) | Pathway behind Dhanyas | Team Aryan | [View Profile](species/fl-11_hymenocallis_littoralis.md) |
+| **FL-12** | Paper Flower / Bougainvillea | *Bougainvillea glabra* | Nyctaginaceae | Plant (Ornamental Woody Climber / Shrub) | Ornamental garden beside fountain | Team Katyayani | [View Profile](species/fl-12_bougainvillea_glabra.md) |
+| **FL-13** | Pink Knotweed / Denseflower Knotweed | *Persicaria barbata* | Polygonaceae | Plant (Erect Herb / Wetland Emergent) | Snowcube | Team Katyayani | [View Profile](species/fl-13_persicaria_barbata.md) |
+| **FL-14** | Scarlet & Pink Ixora / Jungle Geranium | *Ixora coccinea* | Rubiaceae | Plant (Evergreen Ornamental Shrub) | Central plaza beds, SSN Admin Block Road | Team Prathin | [View Profile](species/fl-14_ixora_coccinea.md) |
+| **FL-15** | Egyptian Starcluster | *Pentas lanceolata* | Rubiaceae | Plant (Perennial Flowering Herb / Subshrub) | Chemical Engineering block frontage | Team Prathin | [View Profile](species/fl-15_pentas_lanceolata.md) |
+| **FL-16** | Common Zinnia | *Zinnia elegans* | Asteraceae | Plant (Annual Flowering Herb) | Central plaza beds, SSN Admin Block Road | Team Prathin | [View Profile](species/fl-16_zinnia_elegans.md) |
+| **FL-17** | Florist's Chrysanthemum | *Chrysanthemum morifolium* | Asteraceae | Plant (Perennial Herb / Asteraceae) | Hostel garden pots, Gents Hostel Road | Team Prathin | [View Profile](species/fl-17_chrysanthemum_morifolium.md) |
+| **FL-18** | Garden Cosmos / Mexican Aster | *Cosmos bipinnatus* | Asteraceae | Plant (Self-seeding Herb / Asteraceae) | Central plaza beds, SSN Admin Block Road | Team Prathin | [View Profile](species/fl-18_cosmos_bipinnatus.md) |
+| **FL-19** | Crepe Jasmine / Pinwheel Flower | *Tabernaemontana divaricata* | Apocynaceae | Plant (Evergreen Shrub / Apocynaceae) | Central plaza beds, SSN Admin Block Road | Team Prathin | [View Profile](species/fl-19_tabernaemontana_divaricata.md) |
+| **FL-20** | Common Lantana / Wild Sage | *Lantana camara* | Verbenaceae | Plant (Sprawling Shrub / Naturalised) | Rough ground beside Bio-Medical Engineering block | Team Prathin | [View Profile](species/fl-20_lantana_camara.md) |
+| **FL-21** | Golden Dewdrop / Skyflower | *Duranta erecta* | Verbenaceae | Plant (Ornamental Hedge Shrub) | Lawn beside Sports Complex | Team Prathin | [View Profile](species/fl-21_duranta_erecta.md) |
+| **FL-22** | Bermuda Grass / Arugampullu | *Cynodon dactylon* | Poaceae | Plant (Perennial Turf Grass) | All mown lawns across campus | Team Prathin | [View Profile](species/fl-22_cynodon_dactylon.md) |
+| **FL-23** | Parasol Mushroom / Lawn Chlorophyllum | *Chlorophyllum sp.* | Agaricaceae | Fungi (Saprotrophic Agaric) | Lawn beside the Sports Complex | Team Prathin | [View Profile](species/fl-23_chlorophyllum_sp.md) |
+| **FL-24** | Willowleaf Angelon / Summer Snapdragon | *Angelonia salicariifolia* | Plantaginaceae | Plant (Perennial Herb / Plantaginaceae) | Near Clocktower | Team Viswa | [View Profile](species/fl-24_angelonia_salicariifolia.md) |
+| **FL-25** | Sago Palm / King Sago Cycad | *Cycas revoluta* | Cycadaceae | Plant (Gymnosperm / Ancient Cycad) | Garden Lawn near AB1 | Team Viswa | [View Profile](species/fl-25_cycas_revoluta.md) |
+| **FL-26** | Ruffled Fan Palm / Vanuatu Fan Palm | *Licuala grandis* | Arecaceae | Plant (Solitary Fan Palm / Arecaceae) | AB1 Entrance | Team Viswa | [View Profile](species/fl-26_licuala_grandis.md) |
+| **FL-27** | Golden Melinonii | *Philodendron melinonii 'Golden'* | Araceae | Plant (Epiphytic / Potted Aroid) | AB1 Golden Stairs | Team Viswa | [View Profile](species/fl-27_philodendron_melinonii.md) |
+| **FL-28** | Wild Jasmine / Ban Mallika | *Jasminum angustifolium* | Oleaceae | Plant (Woody Climbing Vine) | Near AB3 | Team Viswa | [View Profile](species/fl-28_jasminum_angustifolium.md) |
+| **FL-29** | Gulmohar / Royal Poinciana (Flame Tree) | *Delonix regia* | Fabaceae | Plant (Large Deciduous Canopy Tree) | Clocktower | Team Viswa | [View Profile](species/fl-29_delonix_regia.md) |
+| **FL-30** | Giant Crinum Lily / Poison Bulb | *Crinum asiaticum* | Amaryllidaceae | Plant (Robust Bulbous Perennial Herb) | Near Old Sports Complex | Team Viswa | [View Profile](species/fl-30_crinum_asiaticum.md) |
+| **FL-31** | East Indian Walnut / Siris Tree | *Albizia lebbeck* | Fabaceae | Plant (Deciduous Timber / Shade Tree) | Pathway near Old Sports Complex | Team Viswa | [View Profile](species/fl-31_albizia_lebbeck.md) |
+| **FL-32** | Variegated Spider Plant / Ribbon Plant | *Chlorophytum comosum 'Variegatum'* | Asparagaceae | Plant (Perennial Herb / Groundcover) | Near AB1 | Team Viswa | [View Profile](species/fl-32_chlorophytum_comosum.md) |
+| **FL-33** | Dumb Cane / Leopard Lily | *Dieffenbachia seguine* | Araceae | Plant (Perennial Aroid) | Outside AB3 block | Team Viswa | [View Profile](species/fl-33_dieffenbachia_seguine.md) |
+| **FL-34** | Bushkiller Vine | *Cayratia japonica* | Vitaceae | Plant (Herbaceous Climbing Vine) | Near AB1 | Team Viswa | [View Profile](species/fl-34_cayratia_japonica.md) |
+| **FL-35** | Campus Lithophytic Moss | *Bryophyta sp.* | Bryaceae | Plant (Non-vascular Bryophyte) | Well near cricket ground | Team Viswa | [View Profile](species/fl-35_bryophyta_sp.md) |
+| **FL-36** | Pink Trumpet Tree / Rosy Trumpet Tree | *Tabebuia rosea* | Bignoniaceae | Plant (Deciduous Flowering Tree) | Central Avenue & Quadrangle Borders | Team Lokranjan | [View Profile](species/fl-36_tabebuia_rosea.md) |
+| **FL-37** | Sausage Tree | *Kigelia africana* | Bignoniaceae | Plant (Deciduous Flowering Tree) | Campus Perimeter Gardens & Lawn Borders | Team Lokranjan | [View Profile](species/fl-37_kigelia_africana.md) |
+| **FL-38** | Banyan Tree / Indian Banyan | *Ficus benghalensis* | Moraceae | Plant (Keystone Canopy Tree / Moraceae) | Campus Boundary & Temple Groves | Team Lokranjan | [View Profile](species/fl-38_ficus_benghalensis.md) |
+| **FL-39** | Tea Plant | *Camellia sinensis* | Theaceae | Plant (Evergreen Shrub / Theaceae) | Botanical Display Garden & Potted Planters | Team Lokranjan | [View Profile](species/fl-39_camellia_sinensis.md) |
+| **FL-40** | Cathedral Bells / Air Plant / Miracle Leaf | *Kalanchoe pinnata (syn. Bryophyllum pinnatum)* | Crassulaceae | Plant (Succulent Herb / Medicinal Perennial) | Campus Temple & Rock Garden | Team Sasthika | [View Profile](species/fl-40_kalanchoe_pinnata.md) |
+| **FL-41** | Neem Tree / Indian Lilac / Margosa Tree | *Azadirachta indica* | Meliaceae | Plant (Evergreen Canopy Tree / Meliaceae) | Campus Temple & Green Belts | Team Sasthika | [View Profile](species/fl-41_azadirachta_indica.md) |
+| **FL-42** | Elephant's Foot / Prickly Chaff Flower | *Elephantopus scaber* | Asteraceae | Herbs & Groundcover | Central Campus Manicured Lawns | Team Asmath | [View Profile](species/fl-42_elephantopus_scaber.md) |
 
 ---
 
-## Contributing Survey Teams
-- **Team Aryan**: Campus biodiversity survey (FL-01 to FL-11)
-- **Team Katyayani**: Wetland and ornamental taxa (FL-12, FL-13)
-- **Team Prathin**: Plaza beds, lawns, and student residence ornamental flora (FL-14 to FL-23)
-- **Team Viswa**: Campus canopy, cycads, aroids, climbing vines, and lithophytes (FL-24 to FL-35)
-
----
-
-[🏠 Back to Root Repository Index](../README.md) | [🐾 Explore Fauna Inventory](../Fauna/README.md) | [🕸️ Explore Ecological Food Web](../Ecological-Analysis/README.md)
+[🏠 Back to Root Repository Index](../README.md) | [🐾 Explore Fauna Directory](../Fauna/README.md) | [🌐 Interactive Explorer](../index.html)

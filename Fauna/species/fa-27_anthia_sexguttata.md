@@ -1,41 +1,41 @@
-# Domino Beetle (`Anthia sexguttata`)
+# Domino Beetle / Six-spotted Ground Beetle (`Anthia sexguttata`)
 
-| Field Attribute              | Taxonomic / Ecological Specification |
-| ---------------------------- | ------------------------------------ |
-| **Catalog ID**               | `FA-27` |
-| **Common Name**              | Domino Beetle |
-| **Scientific Name**          | *Anthia sexguttata* |
-| **Family**                   | `Carabidae` |
-| **Order**                    | `Coleoptera (Beetles)` |
-| **Taxonomic Guild**          | Insects / Arthropods |
-| **Location of Observation**  | **SNU Chennai campus (exact spot to be added)** |
-| **Microhabitat**             | Open ground, paved paths, and under stones and debris |
-| **Trophic Level**            | Secondary Consumer / Carnivore (Trophic Level 3) |
-| **Contributing Survey Team** | **Team Juveena** |
-| **Survey Source**            | Assignment 2 Survey (Team Juveena) |
+| Field Attribute | Taxonomic / Ecological Specification |
+| :--- | :--- |
+| **Catalog ID** | `FA-27` |
+| **Common Name** | Domino Beetle / Six-spotted Ground Beetle |
+| **Scientific Name** | *Anthia sexguttata* |
+| **Family** | `Carabidae` |
+| **Order** | `Coleoptera (Beetles)` |
+| **Taxonomic Guild** | Insects / Arthropods |
+| **Location of Observation** | **Vama Sundari Park & Dry Scrub Paths** |
+| **Microhabitat** | Ground surface, sandy soil, and dry leaf litter |
+| **Trophic Level** | Secondary Consumer / Predator (Trophic Level 3) |
+| **Contributing Survey Team** | **Team Lokranjan** |
+| **Survey Source** | Assignment 2 Survey (Team Lokranjan) |
 
 ---
 
 ## Field Observation Photograph
 
-[![Domino Beetle](https://github.com/AryanTechie-007/Campus-Biodiversity/raw/main/Fauna/images/anthia_sexguttata.png)](/AryanTechie-007/Campus-Biodiversity/blob/main/Fauna/images/anthia_sexguttata.png)
+<p align="center"><img src="../images/anthia_sexguttata.png" alt="Domino Beetle / Six-spotted Ground Beetle" width="420" style="border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15);"></p>
 
 ---
 
 ## Zoological & Morphological Description
 
-Large, fast-running black ground beetle with six white spots on its wing cases, giving a domino-like look. Can release an irritant defensive secretion when threatened.
+Large, flightless ground beetle with a velvety black body ornamented with six conspicuous creamy-white dorsal spots (four on elytra, two on thorax).
 
 ---
 
 ## Ecological Role & Campus Interactions
 
-- **Trophic Level**: Secondary Consumer / Carnivore (Trophic Level 3)
-- **Ecosystem Service**: Predator that helps regulate insects and other small invertebrates at the soil surface.
+- **Trophic Level**: Secondary Consumer / Predator (Trophic Level 3)
+- **Ecosystem Service**: Fierce cursorial ground predator hunting ants, caterpillars, and soft-bodied insects. Defends itself by spraying irritating formic acid when threatened.
 - **Campus Food Web Dynamics**:
-  * Preys on small insects and other invertebrates.
-  * Is itself eaten by birds, lizards and other ground predators.
+  - Participates actively in predator-prey or plant-pollinator networks across campus zones.
+  - Contributes to population regulation, seed dispersal, or detrital soil nutrient cycling.
 
 ---
 
-[⬅ Back to Fauna Index](https://github.com/AryanTechie-007/Campus-Biodiversity/blob/main/Fauna/README.md) | [🏠 Back to Campus Inventory Root](https://github.com/AryanTechie-007/Campus-Biodiversity/blob/main/README.md)
+[⬅ Back to Fauna Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)

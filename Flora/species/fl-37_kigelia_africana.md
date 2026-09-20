@@ -1,40 +1,41 @@
 # Sausage Tree (`Kigelia africana`)
 
-| Field Attribute              | Taxonomic / Ecological Specification |
-| ---------------------------- | ------------------------------------ |
-| **Catalog ID**               | `FL-37` |
-| **Common Name**              | Sausage Tree |
-| **Scientific Name**          | *Kigelia africana* |
-| **Botanical Family**         | `Bignoniaceae` |
-| **Category**                 | Plant (Semi-deciduous Tree) |
-| **Location of Observation**  | **SNU Chennai campus (exact spot to be added)** |
-| **Microhabitat**             | Tree-lined avenues and open spaces |
-| **Trophic Level**            | Primary Producer (Trophic Level 1) |
-| **Contributing Survey Team** | **Team Juveena** |
-| **Survey Source**            | Assignment 2 Survey (Team Juveena) |
+| Field Attribute | Taxonomic / Ecological Specification |
+| :--- | :--- |
+| **Catalog ID** | `FL-37` |
+| **Common Name** | Sausage Tree |
+| **Scientific Name** | *Kigelia africana* |
+| **Botanical Family** | `Bignoniaceae` |
+| **Category** | Plant (Deciduous Flowering Tree) |
+| **Location of Observation** | **Campus Perimeter Gardens & Lawn Borders** |
+| **Microhabitat** | Open landscaped lawns and moist soil edges |
+| **Trophic Level** | Primary Producer (Trophic Level 1) |
+| **Contributing Survey Team** | **Team Lokranjan** |
+| **Survey Source** | Assignment 2 Survey (Team Lokranjan) |
 
 ---
 
 ## Field Observation Photograph
 
-[![Sausage Tree](https://github.com/AryanTechie-007/Campus-Biodiversity/raw/main/Flora/images/kigelia_africana.png)](/AryanTechie-007/Campus-Biodiversity/blob/main/Flora/images/kigelia_africana.png)
+<p align="center"><img src="../images/kigelia_africana.png" alt="Sausage Tree" width="420" style="border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15);"></p>
 
 ---
 
 ## Botanical & Morphological Description
 
-Large spreading tree with pinnate leaves, dark maroon night-opening flowers, and very long, heavy, sausage-shaped fruits that hang on cord-like stalks. Native to tropical Africa and grown as an ornamental shade tree in India.
+Stout tree with rough grey bark, pinnate leaves, and nocturnal maroon cup-shaped flowers hanging on long rope-like peduncles. The heavy, gourd-like fibrous fruits hang suspended beneath the spreading canopy.
 
 ---
 
 ## Ecological Role & Campus Interactions
 
 - **Trophic Role**: Primary Producer (Trophic Level 1)
-- **Ecosystem Service**: Provides dense shade and canopy habitat, and its night-blooming flowers supply nectar after dark.
+- **Ecosystem Service**: Distinctive spreading tree bearing nocturnal maroon-red cup-shaped flowers pollinated primarily by fruit bats, followed by massive woody pendulum-suspended sausage-like fruits.
 - **Inter-species Interactions**:
-  * Night-opening flowers attract bats, moths and other nocturnal pollinators.
-  * The dense canopy and hanging fruits provide cover and perching sites for birds and insects.
+  - Provides vital floral rewards (nectar, pollen) or structural microhabitats for campus biodiversity.
+  - Supports pollinators (butterflies, bees, flower-visitors) and detritivore nutrient recycling.
+  - Forms an integral component of the campus green spaces.
 
 ---
 
-[⬅ Back to Flora Index](https://github.com/AryanTechie-007/Campus-Biodiversity/blob/main/Flora/README.md) | [🏠 Back to Campus Inventory Root](https://github.com/AryanTechie-007/Campus-Biodiversity/blob/main/README.md)
+[⬅ Back to Flora Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
