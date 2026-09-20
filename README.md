@@ -282,20 +282,20 @@ With Team Yagna Sanjeev (Himesh - 17, Mohit - 22, Rohith - 28, Mohnish - 33, San
 - **Missing Roll Suffixes**:  
   `005`, `008`, `011`, `012`, `015`, `018`, `019`, `029`, `052`, `054`, `058`, `059`
 
-| S.No | Roll No. | Standard Department No. (`25011103XXX`) | Alternate Department No. (`25011102XXX`) | Status |
-| :---: | :---: | :---: | :---: | :---: |
-| 1 | 005 | `25011103005` | `25011102005` | Missing / Unassigned |
-| 2 | 008 | `25011103008` | `25011102008` | Missing / Unassigned |
-| 3 | 011 | `25011103011` | `25011102011` | Missing / Unassigned |
-| 4 | 012 | `25011103012` | `25011102012` | Missing / Unassigned |
-| 5 | 015 | `25011103015` | `25011102015` | Missing / Unassigned |
-| 6 | 018 | `25011103018` | `25011102018` | Missing / Unassigned |
-| 7 | 019 | `25011103019` | `25011102019` | Missing / Unassigned |
-| 8 | 029 | `25011103029` | `25011102029` | Missing / Unassigned |
-| 9 | 052 | `25011103052` | `25011102052` | Missing / Unassigned |
-| 10 | 054 | `25011103054` | `25011102054` | Missing / Unassigned |
-| 11 | 058 | `25011103058` | `25011102058` | Missing / Unassigned |
-| 12 | 059 | `25011103059` | `25011102059` | Missing / Unassigned |
+| S.No | Roll No. | Registration Number (`25011103XXX`) | Status |
+| :---: | :---: | :---: | :---: |
+| 1 | 005 | `25011103005` | Missing / Unassigned |
+| 2 | 008 | `25011103008` | Missing / Unassigned |
+| 3 | 011 | `25011103011` | Missing / Unassigned |
+| 4 | 012 | `25011103012` | Missing / Unassigned |
+| 5 | 015 | `25011103015` | Missing / Unassigned |
+| 6 | 018 | `25011103018` | Missing / Unassigned |
+| 7 | 019 | `25011103019` | Missing / Unassigned |
+| 8 | 029 | `25011103029` | Missing / Unassigned |
+| 9 | 052 | `25011103052` | Missing / Unassigned |
+| 10 | 054 | `25011103054` | Missing / Unassigned |
+| 11 | 058 | `25011103058` | Missing / Unassigned |
+| 12 | 059 | `25011103059` | Missing / Unassigned |
 
 ---
 
