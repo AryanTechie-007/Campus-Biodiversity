@@ -2,9 +2,9 @@
   "institution": "Shiv Nadar University Chennai (SNU Chennai)",
   "course": "Environmental Science and Engineering (EVS)",
   "assignment": "Assignment 3: Collective Biodiversity Repository",
-  "total_unique_species": 81,
+  "total_unique_species": 86,
   "flora_species_count": 41,
-  "fauna_species_count": 40,
+  "fauna_species_count": 44,
   "deduplication_policy": "Specimens 02 and 12 from survey represent Hibiscus rosa-sinensis with two distinct phenotypic cultivars (Tropical China Rose & Red Shoeblack). Consolidated into 1 unique species profile documenting both varieties.",
   "flora": [
     {
@@ -1395,6 +1395,40 @@
       "image_target": "eudynamys_scolopaceus.png",
       "survey_source": "Assignment 2 Survey (Team Asmath)",
       "contributor_team": "Team Asmath"
+    },
+    {
+      "id": "FA-43",
+      "common_name": "Wandering Glider Dragonfly",
+      "scientific_name": "Pantala flavescens",
+      "family": "Libellulidae",
+      "order": "Odonata (Dragonflies & Damselflies)",
+      "category": "Insect (Dragonfly / Libellulidae)",
+      "sub_category": "Insects / Arthropods",
+      "location": "CSE block",
+      "habitat": "Open airspace near flower beds and building corridors",
+      "trophic_level": "Secondary Consumer / Aerial Predator (Trophic Level 3)",
+      "ecological_role": "Active aerial predator that feeds continuously on mosquitoes, gnats, midges, and small flying agricultural pests, providing vital biocontrol around campus buildings.",
+      "description": "Cosmopolitan migratory dragonfly with a yellowish-amber body and clear wings with pale pterostigmata, capable of sustained gliding and swift aerial hawking.",
+      "image_target": "pantala_flavescens.png",
+      "survey_source": "Assignment 2 Survey (Team Saravanan)",
+      "contributor_team": "Team Saravanan"
+    },
+    {
+      "id": "FA-44",
+      "common_name": "Rusty Millipede",
+      "scientific_name": "Trigoniulus corallinus",
+      "family": "Trigoniulidae",
+      "order": "Spirobolida (Round-backed Millipedes)",
+      "category": "Arthropod (Diplopoda / Spirobolida)",
+      "sub_category": "Myriapods / Arthropods",
+      "location": "Rishabhs",
+      "habitat": "Damp leaf litter, shaded ground, moist concrete margins, soil humus",
+      "trophic_level": "Primary Consumer / Primary Detritivore (Trophic Level 2)",
+      "ecological_role": "Indispensable macro-decomposer in campus leaf-litter ecosystems. Consumes decaying fallen leaves, accelerates humification, and recycles nutrients back to soil.",
+      "description": "Medium-sized millipede characterized by a distinctive brick-red to rusty exoskeleton with dark rings and numerous walking legs, coiling defensively when disturbed.",
+      "image_target": "trigoniulus_corallinus.png",
+      "survey_source": "Assignment 2 Survey (Team Saravanan)",
+      "contributor_team": "Team Saravanan"
     }
   ],
   "contributing_teams": [
@@ -1493,6 +1527,18 @@
         "Neha Senthil - 25011103034"
       ],
       "contributions": "Campus biodiversity survey report"
+    },
+    {
+      "team_name": "Team Saravanan",
+      "team_leader": "Saravanan K",
+      "members": [
+        "Saravanan K (Team Leader)",
+        "Aakash N",
+        "Akhil L A",
+        "Maria Griffin Raj I",
+        "Sudhanthiran S"
+      ],
+      "contributions": "Assignment 2 Campus Biodiversity Survey report (14 documented species: Crimson Rose Butterfly, Red & Pink Ixora, Yellow Allamanda, Frangipani, Red Plant Bug, Oriental Garden Lizard breeding/non-breeding, Indian Peafowl, Checkered Keelback, Wandering Glider Dragonfly, Bougainvillea, Rusty Millipede, Garden Snail; 2 new unique taxa: FA-43, FA-44)"
     }
   ]
 }

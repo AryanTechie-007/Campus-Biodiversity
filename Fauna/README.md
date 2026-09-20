@@ -2,7 +2,7 @@
 
 > **Shiv Nadar University Chennai (SNU Chennai)**  
 > **Course**: Environmental Science and Engineering (EVS)  
-> **Total Documented Unique Fauna**: **42 Species**
+> **Total Documented Unique Fauna**: **44 Species**
 
 ---
 
@@ -58,6 +58,8 @@ The fauna of SNU Chennai ranges across 7 distinct taxonomic guilds: Insects & Ar
 | **FA-40** | Black Crazy Ant / Longhorn Ant | *Paratrechina longicornis* | Formicidae | Insects / Arthropods | Secondary Consumer / Scavenger & Generalist Predator | Team Sasthika | [View Profile](species/fa-40_paratrechina_longicornis.md) |
 | **FA-41** | Common Myna | *Acridotheres tristis* | Sturnidae | Birds (Avifauna) | Secondary Consumer & Omnivore | Team Asmath | [View Profile](species/fa-41_acridotheres_tristis.md) |
 | **FA-42** | Asian Koel | *Eudynamys scolopaceus* | Cuculidae | Birds (Avifauna) | Secondary Consumer & Frugivore-Insectivore | Team Asmath | [View Profile](species/fa-42_eudynamys_scolopaceus.md) |
+| **FA-43** | Wandering Glider Dragonfly | *Pantala flavescens* | Libellulidae | Insects / Arthropods | Secondary Consumer / Aerial Predator | Team Saravanan | [View Profile](species/fa-43_pantala_flavescens.md) |
+| **FA-44** | Rusty Millipede | *Trigoniulus corallinus* | Trigoniulidae | Myriapods / Arthropods | Primary Consumer / Primary Detritivore | Team Saravanan | [View Profile](species/fa-44_trigoniulus_corallinus.md) |
 
 ---
 

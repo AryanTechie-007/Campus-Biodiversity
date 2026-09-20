@@ -20,7 +20,7 @@ The Shiv Nadar University Chennai campus ecosystem functions through a structure
 
 ---
 
-## 3. Trophic Level Stratification (84 Species)
+## 3. Trophic Level Stratification (86 Species)
 
 ### 🌞 Trophic Level 1: Primary Producers (42 Autotrophic Taxa)
 - **Key Canopy & Shade Trees**: *Plumeria obtusa*, *Plumeria alba*, *Plumeria rubra*, *Delonix regia*, *Ficus benghalensis*, *Kigelia africana*, *Tabebuia rosea*, *Azadirachta indica*, *Albizia lebbeck*.
@@ -35,7 +35,7 @@ The Shiv Nadar University Chennai campus ecosystem functions through a structure
 ### 🦎 Trophic Level 3: Secondary Consumers (Carnivores, Insectivores & Small Predators)
 - **Avian Insectivores & Frugivores**: *Acridotheres tristis* (Common Myna), *Eudynamys scolopaceus* (Asian Koel), *Dicrurus macrocercus* (Black Drongo), *Argya affinis* (Yellow-billed Babbler), *Argya striata* (Jungle Babbler), *Passer domesticus* (House Sparrow).
 - **Reptiles & Spiders**: *Calotes versicolor* (Oriental Garden Lizard), *Psammophilus dorsalis* (Rock Agama), *Telamonia dimidiata* (Two-striped Jumper), *Myrmaplata plataleoides* (Ant-mimic Spider).
-- **Predatory Insects**: *Ropalidia marginata* (Paper Wasp), *Anthia sexguttata* (Domino Beetle), *Trithemis pallidinervis* (Long-legged Marsh Glider), *Rhyothemis variegata* (Picture Wing Dragonfly).
+- **Predatory Insects**: *Ropalidia marginata* (Paper Wasp), *Anthia sexguttata* (Domino Beetle), *Trithemis pallidinervis* (Long-legged Marsh Glider), *Rhyothemis variegata* (Picture Wing Dragonfly), *Pantala flavescens* (Wandering Glider Dragonfly).
 
 ### 🦅 Trophic Level 4: Tertiary Consumers, Apex Predators & Scavengers
 - **Serpentine & Avian Predators**: *Daboia russelii* (Russell's Viper), *Centropus sinensis* (Greater Coucal), *Fowlea piscator* (Checkered Keelback), *Bubulcus ibis* (Cattle Egret).
@@ -65,6 +65,10 @@ graph LR
 
 - **Chain 3 (Rock Agama & Serpentine Scrub Pathway)**:  
   *Cynodon dactylon* / *Elephantopus scaber* -> *Tettigoniidae sp.* (Grasshopper) -> *Psammophilus dorsalis* (Rock Agama) -> *Daboia russelii* (Russell's Viper)
+
+- **Chain 4 (Aquatic-Terrestrial Ecotone & Top Predator Pathway - Team Saravanan)**:  
+  *Ixora coccinea* (Producer) -> *Hemiptera sp.* (Red Plant Bug - Primary Consumer) -> *Calotes versicolor* (Oriental Garden Lizard - Secondary Consumer) -> *Fowlea piscator* (Checkered Keelback - Tertiary Consumer) -> *Pavo cristatus* (Indian Peafowl - Apex Predator / Top Carnivore)
+
 
 ---
 

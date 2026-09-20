@@ -14,16 +14,16 @@ This repository serves as the official, systematically organized **Collective Ca
 
 ### Key Inventory Highlights
 - 🏛️ **Institution**: Shiv Nadar University Chennai, Rajiv Gandhi Salai (OMR), Kalavakkam, Tamil Nadu.
-- 🔬 **Total Unique Documented Species**: **84 Species** (Zero duplicate taxa).
+- 🔬 **Total Unique Documented Species**: **86 Species** (Zero duplicate taxa).
 - 🌿 **Flora (Botanical & Mycological Diversity)**: **42 Unique Species** (Trees, Palms, Cycads, Shrubs, Climbing Vines, Wetland Herbs, Aroids, Grasses, and Macrofungi).
-- 🐾 **Fauna (Zoological Diversity)**: **42 Unique Species** across 7 distinct taxonomic guilds (Insects & Arthropods, Spiders, Molluscs, Crustaceans, Amphibians & Reptiles, Birds, and Mammals).
+- 🐾 **Fauna (Zoological Diversity)**: **44 Unique Species** across 7 distinct taxonomic guilds (Insects & Arthropods, Spiders, Molluscs, Crustaceans, Amphibians & Reptiles, Birds, and Mammals).
 - 🛡️ **Conservation Highlights**:
   - **Crimson Rose Butterfly (*Pachliopta hector*)**: **Schedule I Protected Species** under the Indian Wildlife (Protection) Act, 1972.
   - **Indian Peafowl (*Pavo cristatus*)**: National Bird of India.
   - **Russell's Viper (*Daboia russelii*)**: Apex serpentine predator regulating small mammal populations.
   - **Checkered Keelback (*Fowlea piscator*)**: Semi-aquatic predator regulating drain and wetland food webs.
   - **Greater Coucal (*Centropus sinensis*)**: Avian predator regulating snakes, lizards, and ground invertebrates.
-- 👥 **Contributing Research Teams**: **8 Collective Survey Teams** integrated with verified taxonomic profiles and data provenance.
+- 👥 **Contributing Research Teams**: **9 Collective Survey Teams** integrated with verified taxonomic profiles and data provenance.
 - 🔄 **Deduplication Policy**: In strict compliance with guidelines (*"Do not include duplicate/repeated species. Each species should be listed only once"*), all survey reports have been cross-verified and consolidated into unique taxa entries with their respective original field photographic documentation preserved.
 
 ---
@@ -110,6 +110,16 @@ This repository serves as the official, systematically organized **Collective Ca
   4. **Srimathi G** — `25011103016`
   5. **Neha Senthil** — `25011103034`
 
+### 🦗 Team Saravanan
+- **Dataset Contribution**: Assignment 2 Campus Biodiversity Survey report (2 new unique taxa: FA-43, FA-44; 14 total documented species).
+- **Team Leader**: **Saravanan K**
+- **Team Members**:
+  1. **Saravanan K** (Team Leader)
+  2. **Aakash N**
+  3. **Akhil L A**
+  4. **Maria Griffin Raj I**
+  5. **Sudhanthiran S**
+
 ---
 
 ## 🌿 Master Flora Inventory Table (42 Species)
@@ -161,7 +171,7 @@ This repository serves as the official, systematically organized **Collective Ca
 
 ---
 
-## 🐾 Master Fauna Inventory Table (42 Species)
+## 🐾 Master Fauna Inventory Table (44 Species)
 
 | ID | Common Name | Scientific Name | Family | Category / Guild | Trophic Level | Survey Provenance | Profile Link |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -207,6 +217,8 @@ This repository serves as the official, systematically organized **Collective Ca
 | **FA-40** | Black Crazy Ant / Longhorn Ant | *Paratrechina longicornis* | Formicidae | Insects / Arthropods | Secondary Consumer / Scavenger & Generalist Predator | Team Sasthika | [View Profile](Fauna/species/fa-40_paratrechina_longicornis.md) |
 | **FA-41** | Common Myna | *Acridotheres tristis* | Sturnidae | Birds (Avifauna) | Secondary Consumer & Omnivore | Team Asmath | [View Profile](Fauna/species/fa-41_acridotheres_tristis.md) |
 | **FA-42** | Asian Koel | *Eudynamys scolopaceus* | Cuculidae | Birds (Avifauna) | Secondary Consumer & Frugivore-Insectivore | Team Asmath | [View Profile](Fauna/species/fa-42_eudynamys_scolopaceus.md) |
+| **FA-43** | Wandering Glider Dragonfly | *Pantala flavescens* | Libellulidae | Insects / Arthropods | Secondary Consumer / Aerial Predator | Team Saravanan | [View Profile](Fauna/species/fa-43_pantala_flavescens.md) |
+| **FA-44** | Rusty Millipede | *Trigoniulus corallinus* | Trigoniulidae | Myriapods / Arthropods | Primary Consumer / Primary Detritivore | Team Saravanan | [View Profile](Fauna/species/fa-44_trigoniulus_corallinus.md) |
 
 ---
 
