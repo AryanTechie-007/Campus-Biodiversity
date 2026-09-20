@@ -4,7 +4,6 @@
 **Assignment 3:** Collective Biodiversity Repository (Weightage: 30%)  
 **Faculty / Evaluator:** Dr. K. Uthradevi  
 **Repository Link:** [https://github.com/AryanTechie-007/Campus-Biodiversity](https://github.com/AryanTechie-007/Campus-Biodiversity)  
-**Interactive Web Explorer:** [Open Campus Biodiversity Explorer](index.html)
 
 ---
 
@@ -236,4 +235,4 @@ For complete trophic structure diagrams, energy flow pathways, and micro-habitat
 
 ---
 
-[🏠 Return to Top](#-campus-biodiversity-inventory-repository) | [🌿 Explore Flora Directory](Flora/README.md) | [🐾 Explore Fauna Directory](Fauna/README.md) | [🌐 Interactive Explorer](index.html)
+[🏠 Return to Top](#-campus-biodiversity-inventory-repository) | [🌿 Explore Flora Directory](Flora/README.md) | [🐾 Explore Fauna Directory](Fauna/README.md)

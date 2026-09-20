@@ -73,4 +73,4 @@ The fauna of SNU Chennai ranges across 7 distinct taxonomic guilds: Insects & Ar
 
 ---
 
-[🏠 Back to Root Repository Index](../README.md) | [🌿 Explore Flora Directory](../Flora/README.md) | [🌐 Interactive Explorer](../index.html)
+[🏠 Back to Root Repository Index](../README.md) | [🌿 Explore Flora Directory](../Flora/README.md)

@@ -69,4 +69,4 @@ The flora of the SNU Chennai campus encompasses a rich diversity of botanical ha
 
 ---
 
-[🏠 Back to Root Repository Index](../README.md) | [🐾 Explore Fauna Directory](../Fauna/README.md) | [🌐 Interactive Explorer](../index.html)
+[🏠 Back to Root Repository Index](../README.md) | [🐾 Explore Fauna Directory](../Fauna/README.md)
