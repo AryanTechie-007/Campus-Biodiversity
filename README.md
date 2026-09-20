@@ -23,7 +23,7 @@ This repository serves as the official, systematically organized **Collective Ca
   - **Russell's Viper (*Daboia russelii*)**: Apex serpentine predator regulating small mammal populations.
   - **Checkered Keelback (*Fowlea piscator*)**: Semi-aquatic predator regulating drain and wetland food webs.
   - **Greater Coucal (*Centropus sinensis*)**: Avian predator regulating snakes, lizards, and ground invertebrates.
-- 👥 **Contributing Research Teams**: **7 Collective Survey Teams** integrated with verified taxonomic profiles and data provenance.
+- 👥 **Contributing Research Teams**: **8 Collective Survey Teams** integrated with verified taxonomic profiles and data provenance.
 - 🔄 **Deduplication Policy**: In strict compliance with guidelines (*"Do not include duplicate/repeated species. Each species should be listed only once"*), all survey reports have been cross-verified and consolidated into unique taxa entries with their respective original field photographic documentation preserved.
 
 ---
@@ -99,6 +99,16 @@ This repository serves as the official, systematically organized **Collective Ca
   2. **Aravindh Karuppasamy** — `25011103007`
   3. **Darshan Ishvar** — `25011103014`
   4. **Kavin Amudhan I.A.** — `25011103024`
+
+### 🌳 Team Manoj
+- **Dataset Contribution**: Campus biodiversity survey report.
+- **Team Leader**: **Manoj Kumar K** (Roll No: `25011103030`)
+- **Team Members**:
+  1. **Manoj Kumar K** — `25011103030` (Team Leader)
+  2. **Anbarasu A** — `25011103004`
+  3. **Arasu Kumaresan** — `25011103006`
+  4. **Srimathi G** — `25011103016`
+  5. **Neha Senthil** — `25011103034`
 
 ---
 
