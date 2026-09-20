@@ -111,15 +111,13 @@ This repository serves as the official, systematically organized **Collective Ca
 
 ### Team Saravanan
 - **Dataset Contribution**: Assignment 2 Campus Biodiversity Survey report (5 unique taxa: FL-10, FA-13, FA-14, FA-43, FA-44; 14 total documented species).
-- **Team Leader**: **Saravanan K** (Roll No: `25011103048`*)
+- **Team Leader**: **Saravanan K** (Roll No: `25011103048`)
 - **Team Members**:
-  1. **Saravanan K** — `25011103048`* (Team Leader)
-  2. **Aakash N** — `25011103001`*
-  3. **Akhil L A** — `25011103003`*
-  4. **Maria Griffin Raj I** — `25011103032`*
-  5. **Sudhanthiran S** — `25011103057`*
-
-*\*Note: Assigned based on the official cohort alphabetical sequence across the 1 to 62 class registry.*
+  1. **Saravanan K** — `25011103048` (Team Leader)
+  2. **Aakash N** — `25011103001`
+  3. **Akhil L A** — `25011103003`
+  4. **Maria Griffin Raj I** — `25011103032`
+  5. **Sudhanthiran S** — `25011103057`
 
 ---
 
@@ -293,24 +291,11 @@ For complete trophic structure diagrams, energy flow pathways, and micro-habitat
 ### Cohort Distribution Summary
 - **Class Registry Range**: 1 to 62 (Total capacity: 62 students)
 - **Documented Participating Students**: **61 Students** across **12 Collective Survey Teams**
-  - Teams with explicit report registration numbers: 56 students (11 teams)
-  - Team Saravanan (5 members mapped via alphabetical registry sequence): 5 students
 - **Remaining Unassigned / Missing Registration Numbers**: **1 Student**
-
-### Team Saravanan Assigned Registration Numbers
-Based on the batch's alphabetical roll allocation structure, the 5 members of Team Saravanan map to the following registry positions:
-
-| S.No | Team Member | Designated Role | Inferred Registration No. | Cohort Alphabetical Position |
-| :---: | :--- | :--- | :---: | :--- |
-| 1 | **Aakash N** | Team Member | `25011103001` | Suffix `001` (Precedes Aiswarya `002`) |
-| 2 | **Akhil L A** | Team Member | `25011103003` | Suffix `003` (Between Aiswarya `002` and Anbarasu A `004`) |
-| 3 | **Maria Griffin Raj I** | Team Member | `25011103032` | Suffix `032` (Between Manushri V `031` and Mohnish Condoor `033`) |
-| 4 | **Saravanan K** | Team Leader | `25011103048` | Suffix `048` (Between S Swetha `047` and Sasthika `049`) |
-| 5 | **Sudhanthiran S** | Team Member | `25011103057` | Suffix `057` (Between Srijan Karmakar `056` and Gunashekar `060`) |
 
 ### Remaining Missing Registration Number
 
-With Team Thuliyan (Anirudh Sridhar - 005, Athin Jai Desikan - 011, Harshit Rao G - 019, Sreram R - 054, Thuyilan VJ - 058) registered, exactly 1 registration number remains unassigned across the 1 to 62 class range:
+Across the 1 to 62 class range, exactly 1 registration number remains unassigned:
 
 - **Missing Roll Suffix**:  
   `012`
