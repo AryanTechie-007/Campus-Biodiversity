@@ -14,8 +14,8 @@ This repository serves as the official, systematically organized **Collective Ca
 
 ### Key Inventory Highlights
 - 🏛️ **Institution**: Shiv Nadar University Chennai, Rajiv Gandhi Salai (OMR), Kalavakkam, Tamil Nadu.
-- 🔬 **Total Unique Documented Species**: **86 Species** (Zero duplicate taxa).
-- 🌿 **Flora (Botanical & Mycological Diversity)**: **42 Unique Species** (Trees, Palms, Cycads, Shrubs, Climbing Vines, Wetland Herbs, Aroids, Grasses, and Macrofungi).
+- 🔬 **Total Unique Documented Species**: **94 Species** (Zero duplicate taxa).
+- 🌿 **Flora (Botanical & Mycological Diversity)**: **50 Unique Species** (Trees, Palms, Cycads, Shrubs, Climbing Vines, Wetland Herbs, Aroids, Grasses, and Macrofungi).
 - 🐾 **Fauna (Zoological Diversity)**: **44 Unique Species** across 7 distinct taxonomic guilds (Insects & Arthropods, Spiders, Molluscs, Crustaceans, Amphibians & Reptiles, Birds, and Mammals).
 - 🛡️ **Conservation Highlights**:
   - **Crimson Rose Butterfly (*Pachliopta hector*)**: **Schedule I Protected Species** under the Indian Wildlife (Protection) Act, 1972.
@@ -101,7 +101,7 @@ This repository serves as the official, systematically organized **Collective Ca
   4. **Kavin Amudhan I.A.** — `25011103024`
 
 ### 🌳 Team Manoj
-- **Dataset Contribution**: Campus biodiversity survey report.
+- **Dataset Contribution**: Assignment 2 Campus Biodiversity Explorer survey report (8 new unique taxa: FL-43 to FL-50; 18 total documented species).
 - **Team Leader**: **Manoj Kumar K** (Roll No: `25011103030`)
 - **Team Members**:
   1. **Manoj Kumar K** — `25011103030` (Team Leader)
@@ -122,7 +122,7 @@ This repository serves as the official, systematically organized **Collective Ca
 
 ---
 
-## 🌿 Master Flora Inventory Table (42 Species)
+## 🌿 Master Flora Inventory Table (50 Species)
 
 | ID | Common Name | Scientific Name | Family | Category / Habit | Survey Provenance | Profile Link |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -168,6 +168,14 @@ This repository serves as the official, systematically organized **Collective Ca
 | **FL-40** | Cathedral Bells / Air Plant / Miracle Leaf | *Kalanchoe pinnata (syn. Bryophyllum pinnatum)* | Crassulaceae | Plant (Succulent Herb / Medicinal Perennial) | Team Sasthika | [View Profile](Flora/species/fl-40_kalanchoe_pinnata.md) |
 | **FL-41** | Neem Tree / Indian Lilac / Margosa Tree | *Azadirachta indica* | Meliaceae | Plant (Evergreen Canopy Tree / Meliaceae) | Team Sasthika | [View Profile](Flora/species/fl-41_azadirachta_indica.md) |
 | **FL-42** | Elephant's Foot / Prickly Chaff Flower | *Elephantopus scaber* | Asteraceae | Herbs & Groundcover | Team Asmath | [View Profile](Flora/species/fl-42_elephantopus_scaber.md) |
+| **FL-43** | Variegated Screw Pine | *Pandanus sanderi* | Pandanaceae | Plant (Ornamental Evergreen Foliage Shrub / Herb) | Team Manoj | [View Profile](Flora/species/fl-43_pandanus_sanderi.md) |
+| **FL-44** | Crown of Thorns / Christ Plant | *Euphorbia milii* | Euphorbiaceae | Plant (Spiny Succulent Shrub) | Team Manoj | [View Profile](Flora/species/fl-44_euphorbia_milii.md) |
+| **FL-45** | California Fan Palm / Desert Fan Palm | *Washingtonia filifera* | Arecaceae | Plant (Solitary Fan Palm / Tree) | Team Manoj | [View Profile](Flora/species/fl-45_washingtonia_filifera.md) |
+| **FL-46** | Golden Thryallis / Rain of Gold | *Galphimia gracilis* | Malpighiaceae | Plant (Flowering Shrub) | Team Manoj | [View Profile](Flora/species/fl-46_galphimia_gracilis.md) |
+| **FL-47** | Copperleaf Plant / Jacob's Coat | *Acalypha wilkesiana* | Euphorbiaceae | Plant (Ornamental Evergreen Shrub) | Team Manoj | [View Profile](Flora/species/fl-47_acalypha_wilkesiana.md) |
+| **FL-48** | Spicy Jatropha / Peregrina | *Jatropha integerrima* | Euphorbiaceae | Plant (Flowering Shrub) | Team Manoj | [View Profile](Flora/species/fl-48_jatropha_integerrima.md) |
+| **FL-49** | Desert Rose | *Adenium obesum* | Apocynaceae | Plant (Pachycaul Succulent Shrub) | Team Manoj | [View Profile](Flora/species/fl-49_adenium_obesum.md) |
+| **FL-50** | Oleander / Kaner | *Nerium oleander* | Apocynaceae | Plant (Evergreen Flowering Shrub) | Team Manoj | [View Profile](Flora/species/fl-50_nerium_oleander.md) |
 
 ---
 

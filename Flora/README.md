@@ -2,7 +2,7 @@
 
 > **Shiv Nadar University Chennai (SNU Chennai)**  
 > **Course**: Environmental Science and Engineering (EVS)  
-> **Total Documented Unique Flora**: **42 Species**
+> **Total Documented Unique Flora**: **50 Species**
 
 ---
 
@@ -12,7 +12,7 @@ The flora of the SNU Chennai campus encompasses a rich diversity of botanical ha
 
 ---
 
-## 📋 Master Flora Index (42 Unique Species)
+## 📋 Master Flora Index (50 Unique Species)
 
 | ID | Common Name | Scientific Name | Family | Category / Growth Habit | Location & Microhabitat | Contributor Team | Profile Link |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -58,6 +58,14 @@ The flora of the SNU Chennai campus encompasses a rich diversity of botanical ha
 | **FL-40** | Cathedral Bells / Air Plant / Miracle Leaf | *Kalanchoe pinnata (syn. Bryophyllum pinnatum)* | Crassulaceae | Plant (Succulent Herb / Medicinal Perennial) | Campus Temple & Rock Garden | Team Sasthika | [View Profile](species/fl-40_kalanchoe_pinnata.md) |
 | **FL-41** | Neem Tree / Indian Lilac / Margosa Tree | *Azadirachta indica* | Meliaceae | Plant (Evergreen Canopy Tree / Meliaceae) | Campus Temple & Green Belts | Team Sasthika | [View Profile](species/fl-41_azadirachta_indica.md) |
 | **FL-42** | Elephant's Foot / Prickly Chaff Flower | *Elephantopus scaber* | Asteraceae | Herbs & Groundcover | Central Campus Manicured Lawns | Team Asmath | [View Profile](species/fl-42_elephantopus_scaber.md) |
+| **FL-43** | Variegated Screw Pine | *Pandanus sanderi* | Pandanaceae | Plant (Ornamental Evergreen Foliage Shrub / Herb) | Clock Tower | Team Manoj | [View Profile](species/fl-43_pandanus_sanderi.md) |
+| **FL-44** | Crown of Thorns / Christ Plant | *Euphorbia milii* | Euphorbiaceae | Plant (Spiny Succulent Shrub) | Clock Tower | Team Manoj | [View Profile](species/fl-44_euphorbia_milii.md) |
+| **FL-45** | California Fan Palm / Desert Fan Palm | *Washingtonia filifera* | Arecaceae | Plant (Solitary Fan Palm / Tree) | Clock Tower | Team Manoj | [View Profile](species/fl-45_washingtonia_filifera.md) |
+| **FL-46** | Golden Thryallis / Rain of Gold | *Galphimia gracilis* | Malpighiaceae | Plant (Flowering Shrub) | Water Fountain | Team Manoj | [View Profile](species/fl-46_galphimia_gracilis.md) |
+| **FL-47** | Copperleaf Plant / Jacob's Coat | *Acalypha wilkesiana* | Euphorbiaceae | Plant (Ornamental Evergreen Shrub) | JP Auditorium | Team Manoj | [View Profile](species/fl-47_acalypha_wilkesiana.md) |
+| **FL-48** | Spicy Jatropha / Peregrina | *Jatropha integerrima* | Euphorbiaceae | Plant (Flowering Shrub) | JP Auditorium | Team Manoj | [View Profile](species/fl-48_jatropha_integerrima.md) |
+| **FL-49** | Desert Rose | *Adenium obesum* | Apocynaceae | Plant (Pachycaul Succulent Shrub) | JP Auditorium | Team Manoj | [View Profile](species/fl-49_adenium_obesum.md) |
+| **FL-50** | Oleander / Kaner | *Nerium oleander* | Apocynaceae | Plant (Evergreen Flowering Shrub) | JP Auditorium | Team Manoj | [View Profile](species/fl-50_nerium_oleander.md) |
 
 ---
 

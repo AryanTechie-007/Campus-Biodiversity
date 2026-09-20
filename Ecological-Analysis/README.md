@@ -20,11 +20,11 @@ The Shiv Nadar University Chennai campus ecosystem functions through a structure
 
 ---
 
-## 3. Trophic Level Stratification (86 Species)
+## 3. Trophic Level Stratification (94 Species)
 
-### 🌞 Trophic Level 1: Primary Producers (42 Autotrophic Taxa)
-- **Key Canopy & Shade Trees**: *Plumeria obtusa*, *Plumeria alba*, *Plumeria rubra*, *Delonix regia*, *Ficus benghalensis*, *Kigelia africana*, *Tabebuia rosea*, *Azadirachta indica*, *Albizia lebbeck*.
-- **Shrubs & Ornamental Flora**: *Hibiscus rosa-sinensis*, *Ixora coccinea*, *Duranta erecta*, *Lantana camara*, *Tabernaemontana divaricata*, *Pentas lanceolata*, *Angelonia salicariifolia*, *Turnera ulmifolia*.
+### 🌞 Trophic Level 1: Primary Producers (50 Autotrophic Taxa)
+- **Key Canopy, Shade Trees & Palms**: *Plumeria obtusa*, *Plumeria alba*, *Plumeria rubra*, *Delonix regia*, *Ficus benghalensis*, *Kigelia africana*, *Tabebuia rosea*, *Azadirachta indica*, *Albizia lebbeck*, *Washingtonia filifera* (California Fan Palm), *Bismarckia nobilis*, *Phoenix sylvestris*.
+- **Shrubs & Ornamental Flora**: *Hibiscus rosa-sinensis*, *Ixora coccinea*, *Duranta erecta*, *Lantana camara*, *Tabernaemontana divaricata*, *Pentas lanceolata*, *Angelonia salicariifolia*, *Turnera ulmifolia*, *Galphimia gracilis* (Golden Thryallis), *Acalypha wilkesiana* (Copperleaf), *Jatropha integerrima* (Spicy Jatropha), *Nerium oleander* (Oleander), *Euphorbia milii* (Crown of Thorns), *Adenium obesum* (Desert Rose), *Pandanus sanderi* (Variegated Screw Pine).
 - **Herbs, Grasses & Groundcovers**: *Elephantopus scaber*, *Kalanchoe pinnata*, *Cynodon dactylon*, *Hymenocallis littoralis*, *Persicaria barbata*, *Chlorophytum comosum*.
 
 ### 🐛 Trophic Level 2: Primary Consumers (Herbivores, Detritivores & Decomposers)
@@ -68,6 +68,10 @@ graph LR
 
 - **Chain 4 (Aquatic-Terrestrial Ecotone & Top Predator Pathway - Team Saravanan)**:  
   *Ixora coccinea* (Producer) -> *Hemiptera sp.* (Red Plant Bug - Primary Consumer) -> *Calotes versicolor* (Oriental Garden Lizard - Secondary Consumer) -> *Fowlea piscator* (Checkered Keelback - Tertiary Consumer) -> *Pavo cristatus* (Indian Peafowl - Apex Predator / Top Carnivore)
+
+- **Chain 5 (Urban Garden & Omnivore Avian Pathway - Team Manoj)**:  
+  *Hibiscus rosa-sinensis* (Producer) -> *Dysdercus cingulatus* (Red Cotton Stainer - Primary Consumer) -> *Calotes versicolor* (Oriental Garden Lizard - Secondary Consumer) -> *Acridotheres tristis* (Common Myna - Tertiary Consumer) -> *Canis lupus familiaris* (Indian Pariah Dog - Top Predator)
+
 
 
 ---
