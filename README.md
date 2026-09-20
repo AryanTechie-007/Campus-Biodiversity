@@ -235,4 +235,42 @@ For complete trophic structure diagrams, energy flow pathways, and micro-habitat
 
 ---
 
+## Missing Registration Numbers (1 to 62)
+
+The following 22 registration numbers (from the class range of 1 to 62) are currently missing / unassigned across the documented research teams:
+
+- **Missing Roll Numbers (Suffix 001 to 062)**:  
+  `001`, `003`, `005`, `008`, `011`, `012`, `015`, `017`, `018`, `019`, `022`, `028`, `029`, `032`, `033`, `036`, `048`, `052`, `054`, `057`, `058`, `059`
+
+### Complete Inventory of Missing Registration Numbers
+
+| S.No | Roll No. | Standard Department No. (`25011103XXX`) | Alternate Department No. (`25011102XXX`) | Status |
+| :---: | :---: | :---: | :---: | :---: |
+| 1 | 001 | `25011103001` | `25011102001` | Missing / Unassigned |
+| 2 | 003 | `25011103003` | `25011102003` | Missing / Unassigned |
+| 3 | 005 | `25011103005` | `25011102005` | Missing / Unassigned |
+| 4 | 008 | `25011103008` | `25011102008` | Missing / Unassigned |
+| 5 | 011 | `25011103011` | `25011102011` | Missing / Unassigned |
+| 6 | 012 | `25011103012` | `25011102012` | Missing / Unassigned |
+| 7 | 015 | `25011103015` | `25011102015` | Missing / Unassigned |
+| 8 | 017 | `25011103017` | `25011102017` | Missing / Unassigned |
+| 9 | 018 | `25011103018` | `25011102018` | Missing / Unassigned |
+| 10 | 019 | `25011103019` | `25011102019` | Missing / Unassigned |
+| 11 | 022 | `25011103022` | `25011102022` | Missing / Unassigned |
+| 12 | 028 | `25011103028` | `25011102028` | Missing / Unassigned |
+| 13 | 029 | `25011103029` | `25011102029` | Missing / Unassigned |
+| 14 | 032 | `25011103032` | `25011102032` | Missing / Unassigned |
+| 15 | 033 | `25011103033` | `25011102033` | Missing / Unassigned |
+| 16 | 036 | `25011103036` | `25011102036` | Missing / Unassigned |
+| 17 | 048 | `25011103048` | `25011102048` | Missing / Unassigned |
+| 18 | 052 | `25011103052` | `25011102052` | Missing / Unassigned |
+| 19 | 054 | `25011103054` | `25011102054` | Missing / Unassigned |
+| 20 | 057 | `25011103057` | `25011102057` | Missing / Unassigned |
+| 21 | 058 | `25011103058` | `25011102058` | Missing / Unassigned |
+| 22 | 059 | `25011103059` | `25011102059` | Missing / Unassigned |
+
+> **Note**: Team Saravanan submitted 5 members (Saravanan K, Aakash N, Akhil L A, Maria Griffin Raj I, and Sudhanthiran S) without registration numbers in their report, which likely account for 5 of the 22 unassigned slots above.
+
+---
+
 [Return to Top](#campus-biodiversity-inventory-repository) | [Explore Flora Directory](Flora/README.md) | [Explore Fauna Directory](Fauna/README.md)
