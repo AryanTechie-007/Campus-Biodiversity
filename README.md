@@ -119,8 +119,6 @@ This repository serves as the official, systematically organized **Collective Ca
   4. **Maria Griffin Raj I** — `25011103032`
   5. **Sudhanthiran S** — `25011103057`
 
----
-
 ### Team Yagna Sanjeev
 - **Dataset Contribution**: Assignment 2 Campus Biodiversity Explorer survey report (5 unique taxa: FL-51, FL-52, FA-45, FA-46, FA-47; 15 total documented species).
 - **Team Leader**: **P Yagna Sanjeev** (Roll No: `25011103036`)
@@ -130,8 +128,6 @@ This repository serves as the official, systematically organized **Collective Ca
   3. **K Mohit Arav** — `25011103022`
   4. **Rohith M** — `25011103028`
   5. **Mohnish Condoor** — `25011103033`
-
----
 
 ### Team Venkatadri
 - **Dataset Contribution**: Assignment 2 Campus Biodiversity Explorer survey report (6 unique taxa: FL-53, FL-54, FL-55, FA-48, FA-49, FA-50; 23 total documented species across 6 zones).
@@ -144,8 +140,6 @@ This repository serves as the official, systematically organized **Collective Ca
   5. **Shreeharsh S R** — `25011103052`
   6. **Leesha Priya** — `25011103059`
 
----
-
 ### Team Thuliyan
 - **Dataset Contribution**: Assignment 2 Campus Biodiversity Explorer survey report (5 unique taxa: FL-02, FL-56, FA-06, FA-12, FA-51; 18 total documented species across campus corridors and lawns).
 - **Team Leader**: **Thuyilan VJ** (Roll No: `25011103058`)
@@ -156,10 +150,7 @@ This repository serves as the official, systematically organized **Collective Ca
   4. **Harshit Rao G** — `25011103019`
   5. **Sreram R** — `25011103054`
 
-
 ---
-
-
 
 ## Master Flora Inventory Table (56 Species)
 
