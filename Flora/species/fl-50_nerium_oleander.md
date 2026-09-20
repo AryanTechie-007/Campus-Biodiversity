@@ -38,4 +38,4 @@ Hardy erect evergreen shrub with whorled, leathery narrow lanceolate leaves with
 
 ---
 
-[⬅ Back to Flora Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Flora Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

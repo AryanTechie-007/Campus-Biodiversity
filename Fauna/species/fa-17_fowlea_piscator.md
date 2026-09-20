@@ -38,4 +38,4 @@ Robust medium-sized freshwater snake with keeled dorsal scales and characteristi
 
 ---
 
-[⬅ Back to Fauna Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Fauna Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

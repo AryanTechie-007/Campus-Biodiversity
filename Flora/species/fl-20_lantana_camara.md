@@ -38,4 +38,4 @@ Perennial woody shrub with ovate scabrous leaves with toothed margins and compac
 
 ---
 
-[⬅ Back to Flora Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Flora Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

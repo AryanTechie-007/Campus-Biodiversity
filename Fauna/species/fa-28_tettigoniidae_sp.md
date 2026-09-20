@@ -38,4 +38,4 @@ Bright green cricket with exceptionally long, hair-like antennae exceeding body 
 
 ---
 
-[⬅ Back to Fauna Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Fauna Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

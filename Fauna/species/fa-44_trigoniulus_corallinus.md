@@ -41,4 +41,4 @@ A cylindrical, reddish-brown to brick-red banded millipede with dark segmental r
 
 ---
 
-[⬅ Back to Fauna Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Fauna Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

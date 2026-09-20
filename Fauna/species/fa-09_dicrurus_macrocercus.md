@@ -39,4 +39,4 @@ All-black passerine with an unmistakable deeply forked tail. Renowned for its ae
 
 ---
 
-[⬅ Back to Fauna Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Fauna Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

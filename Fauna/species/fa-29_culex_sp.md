@@ -38,4 +38,4 @@ Slender, long-legged insect with piercing-sucking proboscis and scaled wing vein
 
 ---
 
-[⬅ Back to Fauna Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Fauna Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

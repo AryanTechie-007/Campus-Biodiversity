@@ -39,4 +39,4 @@ Semi-terrestrial freshwater burrowing crab with dark brownish carapace and adapt
 
 ---
 
-[⬅ Back to Fauna Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Fauna Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

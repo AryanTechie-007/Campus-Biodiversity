@@ -38,4 +38,4 @@ Slender climbing or scrambling shrub with small opposite ovate-lanceolate glossy
 
 ---
 
-[⬅ Back to Flora Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Flora Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

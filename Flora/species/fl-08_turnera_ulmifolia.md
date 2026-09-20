@@ -39,4 +39,4 @@ Erect perennial subshrub with deeply veined, dark green serrated leaves. Exhibit
 
 ---
 
-[⬅ Back to Flora Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Flora Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

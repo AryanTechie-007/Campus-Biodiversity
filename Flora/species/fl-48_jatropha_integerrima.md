@@ -38,4 +38,4 @@ Multi-stemmed evergreen shrub with polymorphic fiddle-shaped dark green leaves a
 
 ---
 
-[⬅ Back to Flora Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Flora Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

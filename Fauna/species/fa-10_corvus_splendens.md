@@ -40,4 +40,4 @@ Slender crow recognized by its pale grey nape, neck, and breast contrasted with 
 
 ---
 
-[⬅ Back to Fauna Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Fauna Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

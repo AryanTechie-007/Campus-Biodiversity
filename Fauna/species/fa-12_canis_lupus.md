@@ -39,4 +39,4 @@ Indigenous primitive landrace dog characterized by erect ears, wedge-shaped head
 
 ---
 
-[⬅ Back to Fauna Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Fauna Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

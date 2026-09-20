@@ -38,4 +38,4 @@ Prominent swallowtail butterfly displaying black wings densely patterned with su
 
 ---
 
-[⬅ Back to Fauna Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Fauna Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

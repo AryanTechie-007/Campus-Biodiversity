@@ -40,4 +40,4 @@ Large, breathtaking swallowtail butterfly with velvety-black forewings crossed b
 
 ---
 
-[⬅ Back to Fauna Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Fauna Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

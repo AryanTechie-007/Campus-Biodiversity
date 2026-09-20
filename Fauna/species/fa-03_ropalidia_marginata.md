@@ -39,4 +39,4 @@ Slender brownish-yellow social wasp renowned as a model organism in sociobiology
 
 ---
 
-[⬅ Back to Fauna Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Fauna Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

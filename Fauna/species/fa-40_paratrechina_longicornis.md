@@ -38,4 +38,4 @@ Slender dark brown to black ant with extraordinarily long 12-segmented antennae 
 
 ---
 
-[⬅ Back to Fauna Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Fauna Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

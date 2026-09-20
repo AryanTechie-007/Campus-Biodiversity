@@ -38,4 +38,4 @@ Semi-succulent sprawling shrub bearing stout spines along its stems, obovate bri
 
 ---
 
-[⬅ Back to Flora Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Flora Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

@@ -38,4 +38,4 @@ Slender to stout-bodied serpent featuring distinct geometric chevron occipital m
 
 ---
 
-[⬅ Back to Fauna Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Fauna Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

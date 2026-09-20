@@ -39,4 +39,4 @@ Evergreen tree/shrub known for glossy dark green obovate leaves with blunt tips 
 
 ---
 
-[⬅ Back to Flora Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Flora Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

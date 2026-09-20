@@ -38,4 +38,4 @@ Small-to-medium butterfly with translucent tawny-orange wings bordered by a blac
 
 ---
 
-[⬅ Back to Fauna Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Fauna Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

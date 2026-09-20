@@ -38,4 +38,4 @@ Slender jumping spider with an elongated abdomen and waist-like cephalic constri
 
 ---
 
-[⬅ Back to Fauna Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Fauna Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

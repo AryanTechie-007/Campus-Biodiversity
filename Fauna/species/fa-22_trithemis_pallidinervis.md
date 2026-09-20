@@ -38,4 +38,4 @@ Medium dragonfly with yellowish-brown thorax, black-and-yellow patterned abdomen
 
 ---
 
-[⬅ Back to Fauna Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Fauna Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

@@ -38,4 +38,4 @@ Perennial climbing herb in the grape family with pentafoliolate palmate leaves, 
 
 ---
 
-[⬅ Back to Flora Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Flora Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

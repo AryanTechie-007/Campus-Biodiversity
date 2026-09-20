@@ -38,4 +38,4 @@ Small cryptic frog with longitudinal glandular ridges along its greyish-brown do
 
 ---
 
-[⬅ Back to Fauna Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Fauna Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

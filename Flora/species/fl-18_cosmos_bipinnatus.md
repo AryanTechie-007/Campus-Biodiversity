@@ -38,4 +38,4 @@ Slender herbaceous annual with deeply divided pinnatisect leaves and terminal fl
 
 ---
 
-[⬅ Back to Flora Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Flora Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

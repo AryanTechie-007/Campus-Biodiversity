@@ -38,4 +38,4 @@ Slender, colorful salticid spider; females exhibit a yellowish-green body with t
 
 ---
 
-[⬅ Back to Fauna Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Fauna Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

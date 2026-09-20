@@ -38,4 +38,4 @@ Small evergreen shrub or small tree with glossy dark green elliptic serrated lea
 
 ---
 
-[⬅ Back to Flora Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Flora Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

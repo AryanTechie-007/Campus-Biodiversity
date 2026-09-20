@@ -38,4 +38,4 @@ Striking large glossy-black bird with contrasting deep chestnut-rufous wings and
 
 ---
 
-[⬅ Back to Fauna Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Fauna Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

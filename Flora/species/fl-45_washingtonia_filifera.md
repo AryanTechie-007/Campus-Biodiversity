@@ -38,4 +38,4 @@ Massive solitary palm with a stout columnar trunk and an open spherical crown of
 
 ---
 
-[⬅ Back to Flora Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Flora Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

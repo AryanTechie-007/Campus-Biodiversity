@@ -38,4 +38,4 @@ Fruiting mushroom with a tall stalk and a broad convex cap covered in concentric
 
 ---
 
-[⬅ Back to Flora Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Flora Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

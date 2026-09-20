@@ -38,4 +38,4 @@ Glabrous succulent perennial herb noted for thick, scalloped fleshy leaves capab
 
 ---
 
-[⬅ Back to Flora Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Flora Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

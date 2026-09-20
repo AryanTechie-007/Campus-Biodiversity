@@ -39,4 +39,4 @@ Agile carnivorous feline adapted to semi-feral campus life. Serves as a vital bi
 
 ---
 
-[⬅ Back to Fauna Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Fauna Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

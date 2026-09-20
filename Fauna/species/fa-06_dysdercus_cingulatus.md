@@ -39,4 +39,4 @@ Vibrantly colored hemipteran bug with bright red body, white transverse abdomina
 
 ---
 
-[⬅ Back to Fauna Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Fauna Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

@@ -38,4 +38,4 @@ Erect perennial with thick succulent canes and large ovate-elliptic dark green l
 
 ---
 
-[⬅ Back to Flora Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Flora Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

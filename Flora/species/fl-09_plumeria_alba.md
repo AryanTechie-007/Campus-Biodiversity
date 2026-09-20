@@ -39,4 +39,4 @@ Small deciduous tree with narrow elongated lanceolate leaves having distinct dow
 
 ---
 
-[⬅ Back to Flora Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Flora Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

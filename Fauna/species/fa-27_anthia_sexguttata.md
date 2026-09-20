@@ -38,4 +38,4 @@ Large, flightless ground beetle with a velvety black body ornamented with six co
 
 ---
 
-[⬅ Back to Fauna Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Fauna Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

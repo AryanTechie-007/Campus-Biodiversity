@@ -38,4 +38,4 @@ Stout shield-shaped bug with vivid orange-red thorax and hemelytra marked with d
 
 ---
 
-[⬅ Back to Fauna Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Fauna Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

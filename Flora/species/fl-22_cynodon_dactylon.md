@@ -38,4 +38,4 @@ Hardy prostrate grass with extensive rhizomes and stolons, greyish-green blades,
 
 ---
 
-[⬅ Back to Flora Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Flora Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

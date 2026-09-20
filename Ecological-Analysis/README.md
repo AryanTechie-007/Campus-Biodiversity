@@ -1,4 +1,4 @@
-# 🕸️ Campus Ecosystem Food Chains & Trophic Web Analysis
+# Campus Ecosystem Food Chains & Trophic Web Analysis
 
 > **Department of Environmental Science & Engineering (EVS)**  
 > **Shiv Nadar University Chennai (SNU Chennai)**  
@@ -22,22 +22,22 @@ The Shiv Nadar University Chennai campus ecosystem functions through a structure
 
 ## 3. Trophic Level Stratification (94 Species)
 
-### 🌞 Trophic Level 1: Primary Producers (50 Autotrophic Taxa)
+### Trophic Level 1: Primary Producers (50 Autotrophic Taxa)
 - **Key Canopy, Shade Trees & Palms**: *Plumeria obtusa*, *Plumeria alba*, *Plumeria rubra*, *Delonix regia*, *Ficus benghalensis*, *Kigelia africana*, *Tabebuia rosea*, *Azadirachta indica*, *Albizia lebbeck*, *Washingtonia filifera* (California Fan Palm), *Bismarckia nobilis*, *Phoenix sylvestris*.
 - **Shrubs & Ornamental Flora**: *Hibiscus rosa-sinensis*, *Ixora coccinea*, *Duranta erecta*, *Lantana camara*, *Tabernaemontana divaricata*, *Pentas lanceolata*, *Angelonia salicariifolia*, *Turnera ulmifolia*, *Galphimia gracilis* (Golden Thryallis), *Acalypha wilkesiana* (Copperleaf), *Jatropha integerrima* (Spicy Jatropha), *Nerium oleander* (Oleander), *Euphorbia milii* (Crown of Thorns), *Adenium obesum* (Desert Rose), *Pandanus sanderi* (Variegated Screw Pine).
 - **Herbs, Grasses & Groundcovers**: *Elephantopus scaber*, *Kalanchoe pinnata*, *Cynodon dactylon*, *Hymenocallis littoralis*, *Persicaria barbata*, *Chlorophytum comosum*.
 
-### 🐛 Trophic Level 2: Primary Consumers (Herbivores, Detritivores & Decomposers)
+### Trophic Level 2: Primary Consumers (Herbivores, Detritivores & Decomposers)
 - **Herbivorous Invertebrates**: *Dysdercus cingulatus* (Red Cotton Bug), *Spilostethus hospes* (Dolic Bug), *Pachliopta hector* (Crimson Rose), *Acraea terpsicore* (Tawny Coster), *Papilio demoleus* (Lime Butterfly), *Papilio polytes* (Common Mormon).
 - **Detritivores & Soil Decomposers**: *Xenobolus carnifex* (Red-Headed Millipede), *Lissachatina fulica* (Giant African Snail), *Oziotelphusa senex* (Indian Field Crab), *Trigoniulus corallinus* (Rusty Millipede).
 - **Frugivorous & Granivorous Mammals**: *Funambulus palmarum* (Indian Palm Squirrel), *Macaca radiata* (Bonnet Macaque).
 
-### 🦎 Trophic Level 3: Secondary Consumers (Carnivores, Insectivores & Small Predators)
+### Trophic Level 3: Secondary Consumers (Carnivores, Insectivores & Small Predators)
 - **Avian Insectivores & Frugivores**: *Acridotheres tristis* (Common Myna), *Eudynamys scolopaceus* (Asian Koel), *Dicrurus macrocercus* (Black Drongo), *Argya affinis* (Yellow-billed Babbler), *Argya striata* (Jungle Babbler), *Passer domesticus* (House Sparrow).
 - **Reptiles & Spiders**: *Calotes versicolor* (Oriental Garden Lizard), *Psammophilus dorsalis* (Rock Agama), *Telamonia dimidiata* (Two-striped Jumper), *Myrmaplata plataleoides* (Ant-mimic Spider).
 - **Predatory Insects**: *Ropalidia marginata* (Paper Wasp), *Anthia sexguttata* (Domino Beetle), *Trithemis pallidinervis* (Long-legged Marsh Glider), *Rhyothemis variegata* (Picture Wing Dragonfly), *Pantala flavescens* (Wandering Glider Dragonfly).
 
-### 🦅 Trophic Level 4: Tertiary Consumers, Apex Predators & Scavengers
+### Trophic Level 4: Tertiary Consumers, Apex Predators & Scavengers
 - **Serpentine & Avian Predators**: *Daboia russelii* (Russell's Viper), *Centropus sinensis* (Greater Coucal), *Fowlea piscator* (Checkered Keelback), *Bubulcus ibis* (Cattle Egret).
 - **Top Scavengers & Mammals**: *Canis lupus familiaris* (Indian Pariah Dog), *Felis catus* (Domestic Cat), *Corvus splendens* (House Crow), *Pavo cristatus* (Indian Peafowl).
 
@@ -76,4 +76,4 @@ graph LR
 
 ---
 
-[🏠 Back to Root Repository Index](../README.md) | [🌿 Explore Flora](../Flora/README.md) | [🐾 Explore Fauna](../Fauna/README.md)
+[Back to Root Repository Index](../README.md) | [Explore Flora](../Flora/README.md) | [Explore Fauna](../Fauna/README.md)

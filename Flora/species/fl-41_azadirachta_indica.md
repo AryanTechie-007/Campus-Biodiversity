@@ -38,4 +38,4 @@ Large, spreading, fast-growing evergreen tree with pinnate leaves consisting of 
 
 ---
 
-[⬅ Back to Flora Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Flora Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

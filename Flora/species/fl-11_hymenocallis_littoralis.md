@@ -40,4 +40,4 @@ Bulbous perennial herb with strap-like linear leaves and umbels of pure white sp
 
 ---
 
-[⬅ Back to Flora Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Flora Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

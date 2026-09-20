@@ -40,4 +40,4 @@ Vigorous sprawling evergreen shrub with whorled glossy leathery leaves and trump
 
 ---
 
-[⬅ Back to Flora Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Flora Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

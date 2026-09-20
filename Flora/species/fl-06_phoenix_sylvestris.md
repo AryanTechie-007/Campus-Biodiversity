@@ -39,4 +39,4 @@ Robust native palm reaching up to 15m in height, characterized by diamond-shaped
 
 ---
 
-[⬅ Back to Flora Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Flora Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

@@ -39,4 +39,4 @@ Endemic southern Indian songbird renowned for foraging in tight communal flocks 
 
 ---
 
-[⬅ Back to Fauna Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Fauna Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

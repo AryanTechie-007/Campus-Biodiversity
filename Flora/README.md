@@ -1,4 +1,4 @@
-# 🌿 Flora Directory — Botanical & Mycological Biodiversity Inventory
+# Flora Directory — Botanical & Mycological Biodiversity Inventory
 
 > **Shiv Nadar University Chennai (SNU Chennai)**  
 > **Course**: Environmental Science and Engineering (EVS)  
@@ -6,13 +6,13 @@
 
 ---
 
-## 📌 Botanical Inventory Overview
+## Botanical Inventory Overview
 
 The flora of the SNU Chennai campus encompasses a rich diversity of botanical habits, including evergreen canopy trees, ornamental flowering shrubs, ancient cycads, shade-tolerant groundcovers, climbing vines, wetland marginal herbs, and micro-fungi.
 
 ---
 
-## 📋 Master Flora Index (50 Unique Species)
+## Master Flora Index (50 Unique Species)
 
 | ID | Common Name | Scientific Name | Family | Category / Growth Habit | Location & Microhabitat | Contributor Team | Profile Link |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -69,4 +69,4 @@ The flora of the SNU Chennai campus encompasses a rich diversity of botanical ha
 
 ---
 
-[🏠 Back to Root Repository Index](../README.md) | [🐾 Explore Fauna Directory](../Fauna/README.md)
+[Back to Root Repository Index](../README.md) | [Explore Fauna Directory](../Fauna/README.md)

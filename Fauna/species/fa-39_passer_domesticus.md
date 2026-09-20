@@ -38,4 +38,4 @@ Compact, stout seed-eating passerine. Males feature a bold grey crown, chestnut 
 
 ---
 
-[⬅ Back to Fauna Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Fauna Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

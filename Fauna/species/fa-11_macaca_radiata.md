@@ -39,4 +39,4 @@ Arboreal cercopithecine monkey endemic to peninsular India, noted for its radiat
 
 ---
 
-[⬅ Back to Fauna Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Fauna Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

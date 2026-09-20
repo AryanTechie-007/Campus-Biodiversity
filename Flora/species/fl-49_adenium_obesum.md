@@ -38,4 +38,4 @@ Pachycaul succulent shrub with a swollen basal caudex, smooth grayish-green bark
 
 ---
 
-[⬅ Back to Flora Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Flora Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

@@ -38,4 +38,4 @@ Stunning small solitary palm with erect slender trunk and large, undivided orbic
 
 ---
 
-[⬅ Back to Flora Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Flora Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

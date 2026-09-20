@@ -38,4 +38,4 @@ Arching perennial herb with linear variegated striped leaves that sends out stol
 
 ---
 
-[⬅ Back to Flora Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Flora Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

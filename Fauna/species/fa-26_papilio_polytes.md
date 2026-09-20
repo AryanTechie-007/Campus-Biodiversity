@@ -38,4 +38,4 @@ Jet-black swallowtail butterfly; males display a distinct band of white discal s
 
 ---
 
-[⬅ Back to Fauna Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Fauna Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

@@ -38,4 +38,4 @@ Small bushy-tailed squirrel with three distinctive creamy-white longitudinal str
 
 ---
 
-[⬅ Back to Fauna Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Fauna Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

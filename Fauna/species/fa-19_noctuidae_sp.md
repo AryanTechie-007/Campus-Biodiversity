@@ -38,4 +38,4 @@ Cryptically camouflaged stout-bodied moth with drab greyish-brown forewings held
 
 ---
 
-[⬅ Back to Fauna Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Fauna Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

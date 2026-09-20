@@ -38,4 +38,4 @@ Striking dragonfly with golden-amber and iridescent dark purplish-brown mottled 
 
 ---
 
-[⬅ Back to Fauna Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Fauna Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

@@ -1,4 +1,4 @@
-# 🌿🐾 Campus Biodiversity Inventory Repository
+# Campus Biodiversity Inventory Repository
 ### Shiv Nadar University Chennai (SNU Chennai)
 **Course:** Environmental Science and Engineering (EVS)  
 **Assignment 3:** Collective Biodiversity Repository (Weightage: 30%)  
@@ -7,29 +7,29 @@
 
 ---
 
-## 📌 Executive Summary
+## Executive Summary
 
 This repository serves as the official, systematically organized **Collective Campus Biodiversity Inventory** for **Shiv Nadar University Chennai**. It compiles, categorizes, deduplicates, and analyzes the species documented during the field surveys and submitted assignments across the university campus ecosystem.
 
 ### Key Inventory Highlights
-- 🏛️ **Institution**: Shiv Nadar University Chennai, Rajiv Gandhi Salai (OMR), Kalavakkam, Tamil Nadu.
-- 🔬 **Total Unique Documented Species**: **94 Species** (Zero duplicate taxa).
-- 🌿 **Flora (Botanical & Mycological Diversity)**: **50 Unique Species** (Trees, Palms, Cycads, Shrubs, Climbing Vines, Wetland Herbs, Aroids, Grasses, and Macrofungi).
-- 🐾 **Fauna (Zoological Diversity)**: **44 Unique Species** across 7 distinct taxonomic guilds (Insects & Arthropods, Spiders, Molluscs, Crustaceans, Amphibians & Reptiles, Birds, and Mammals).
-- 🛡️ **Conservation Highlights**:
+- **Institution**: Shiv Nadar University Chennai, Rajiv Gandhi Salai (OMR), Kalavakkam, Tamil Nadu.
+- **Total Unique Documented Species**: **94 Species** (Zero duplicate taxa).
+- **Flora (Botanical & Mycological Diversity)**: **50 Unique Species** (Trees, Palms, Cycads, Shrubs, Climbing Vines, Wetland Herbs, Aroids, Grasses, and Macrofungi).
+- **Fauna (Zoological Diversity)**: **44 Unique Species** across 7 distinct taxonomic guilds (Insects & Arthropods, Spiders, Molluscs, Crustaceans, Amphibians & Reptiles, Birds, and Mammals).
+- **Conservation Highlights**:
   - **Crimson Rose Butterfly (*Pachliopta hector*)**: **Schedule I Protected Species** under the Indian Wildlife (Protection) Act, 1972.
   - **Indian Peafowl (*Pavo cristatus*)**: National Bird of India.
   - **Russell's Viper (*Daboia russelii*)**: Apex serpentine predator regulating small mammal populations.
   - **Checkered Keelback (*Fowlea piscator*)**: Semi-aquatic predator regulating drain and wetland food webs.
   - **Greater Coucal (*Centropus sinensis*)**: Avian predator regulating snakes, lizards, and ground invertebrates.
-- 👥 **Contributing Research Teams**: **9 Collective Survey Teams** integrated with verified taxonomic profiles and data provenance.
-- 🔄 **Deduplication Policy**: In strict compliance with guidelines (*"Do not include duplicate/repeated species. Each species should be listed only once"*), all survey reports have been cross-verified and consolidated into unique taxa entries with their respective original field photographic documentation preserved.
+- **Contributing Research Teams**: **9 Collective Survey Teams** integrated with verified taxonomic profiles and data provenance.
+- **Deduplication Policy**: In strict compliance with guidelines (*"Do not include duplicate/repeated species. Each species should be listed only once"*), all survey reports have been cross-verified and consolidated into unique taxa entries with their respective original field photographic documentation preserved.
 
 ---
 
-## 👥 Contributing Teams & Research Roster
+## Contributing Teams & Research Roster
 
-### 🌟 Team Aryan
+### Team Aryan
 - **Dataset Contribution**: Founding comprehensive campus biodiversity survey (20 unique taxa: FL-01 to FL-06, FL-08, FL-09, FA-01 to FA-05, FA-07 to FA-09, FA-11, FA-12, FA-15).
 - **Team Leader**: **Aryan Sinha** (Roll No: `25011103009`) • [AryanTechie-007](https://github.com/AryanTechie-007)
 - **Team Members**:
@@ -40,7 +40,7 @@ This repository serves as the official, systematically organized **Collective Ca
   5. **Sri Dharshini** — `25011103055`
   6. **Shrimathi Lakshmi** — `25011103053`
 
-### 🌸 Team Katyayani
+### Team Katyayani
 - **Dataset Contribution**: Campus survey within 500m radius (5 unique taxa: FL-07, FL-12, FL-13, FA-16, FA-17).
 - **Team Leader**: **Katyayani Tiwari** (Roll No: `25011102023`)
 - **Team Members**:
@@ -50,7 +50,7 @@ This repository serves as the official, systematically organized **Collective Ca
   4. **Abhishek S** — `25011103045`
   5. **Gunashekar** — `25011103060`
 
-### 🌿 Team Prathin
+### Team Prathin
 - **Dataset Contribution**: 5-Zone structured survey across central plaza, admin blocks, hostel grounds, and sports complex (12 unique taxa: FL-14 to FL-23, FA-18, FA-19).
 - **Team Leader**: **Prathin Balaji** (Roll No: `25011103013`)
 - **Team Members**:
@@ -60,7 +60,7 @@ This repository serves as the official, systematically organized **Collective Ca
   4. **SP Brooklynn** — `25011103046`
   5. **S Swetha** — `25011103047`
 
-### 🔬 Team Viswa
+### Team Viswa
 - **Dataset Contribution**: Canopy & micro-habitat survey from EVS Assignment2 (18 unique taxa: FL-24 to FL-35, FA-20 to FA-25).
 - **Team Leader**: **Viswa R** (Roll No: `25011103061`)
 - **Team Members**:
@@ -70,7 +70,7 @@ This repository serves as the official, systematically organized **Collective Ca
   4. **Ritvik R** — `25011103044`
   5. **Yogit SB** — `25011103062`
 
-### 🦎 Team Shatmika
+### Team Shatmika
 - **Dataset Contribution**: Direct repository contributions and campus biodiversity survey (16 unique taxa: FL-36 to FL-39, FA-26 to FA-37).
 - **Team Leader**: **Shatmika** (Roll No: `25011103051`)
 - **Team Members**:
@@ -80,7 +80,7 @@ This repository serves as the official, systematically organized **Collective Ca
   4. **Raja** — `25011103041`
   5. **Juveena** — `25011103020`
 
-### 🐿️ Team Sasthika
+### Team Sasthika
 - **Dataset Contribution**: Campus temple grounds and biodiversity survey from Team-33 (5 unique taxa: FL-40 to FL-41, FA-38 to FA-40).
 - **Team Leader**: **Sasthika** (Roll No: `25011103049`)
 - **Team Members**:
@@ -90,7 +90,7 @@ This repository serves as the official, systematically organized **Collective Ca
   4. **Kaviya** — `25011103025`
   5. **Aiswarya** — `25011103002`
 
-### 🐦 Team Asmath
+### Team Asmath
 - **Dataset Contribution**: Assignment 2 Campus Biodiversity Explorer survey report (5 unique taxa: FL-11, FL-42, FA-10, FA-41, FA-42; 13 total documented species).
 - **Team Leader**: **Asmath S** (Roll No: `25011103010`)
 - **Team Members**:
@@ -99,7 +99,7 @@ This repository serves as the official, systematically organized **Collective Ca
   3. **Darshan Ishvar** — `25011103014`
   4. **Kavin Amudhan I.A.** — `25011103024`
 
-### 🌳 Team Manoj
+### Team Manoj
 - **Dataset Contribution**: Assignment 2 Campus Biodiversity Explorer survey report (8 new unique taxa: FL-43 to FL-50; 18 total documented species).
 - **Team Leader**: **Manoj Kumar K** (Roll No: `25011103030`)
 - **Team Members**:
@@ -109,7 +109,7 @@ This repository serves as the official, systematically organized **Collective Ca
   4. **Srimathi G** — `25011103016`
   5. **Neha Senthil** — `25011103034`
 
-### 🦗 Team Saravanan
+### Team Saravanan
 - **Dataset Contribution**: Assignment 2 Campus Biodiversity Survey report (5 unique taxa: FL-10, FA-13, FA-14, FA-43, FA-44; 14 total documented species).
 - **Team Leader**: **Saravanan K**
 - **Team Members**:
@@ -121,7 +121,7 @@ This repository serves as the official, systematically organized **Collective Ca
 
 ---
 
-## 🌿 Master Flora Inventory Table (50 Species)
+## Master Flora Inventory Table (50 Species)
 
 | ID | Common Name | Scientific Name | Family | Category / Habit | Survey Provenance | Profile Link |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -178,7 +178,7 @@ This repository serves as the official, systematically organized **Collective Ca
 
 ---
 
-## 🐾 Master Fauna Inventory Table (44 Species)
+## Master Fauna Inventory Table (44 Species)
 
 | ID | Common Name | Scientific Name | Family | Category / Guild | Trophic Level | Survey Provenance | Profile Link |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -229,10 +229,10 @@ This repository serves as the official, systematically organized **Collective Ca
 
 ---
 
-## 🕸️ Ecological Web & Analysis Summary
+## Ecological Web & Analysis Summary
 
 For complete trophic structure diagrams, energy flow pathways, and micro-habitat breakdown, see [Ecological-Analysis/README.md](Ecological-Analysis/README.md).
 
 ---
 
-[🏠 Return to Top](#-campus-biodiversity-inventory-repository) | [🌿 Explore Flora Directory](Flora/README.md) | [🐾 Explore Fauna Directory](Fauna/README.md)
+[Return to Top](#campus-biodiversity-inventory-repository) | [Explore Flora Directory](Flora/README.md) | [Explore Fauna Directory](Fauna/README.md)

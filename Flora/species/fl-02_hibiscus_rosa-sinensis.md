@@ -51,4 +51,4 @@ Evergreen flowering shrub with ovate serrated leaves and large solitary 5-petale
 
 ---
 
-[⬅ Back to Flora Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Flora Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

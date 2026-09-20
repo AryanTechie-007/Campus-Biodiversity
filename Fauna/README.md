@@ -1,4 +1,4 @@
-# 🐾 Fauna Directory — Zoological Biodiversity Inventory
+# Fauna Directory — Zoological Biodiversity Inventory
 
 > **Shiv Nadar University Chennai (SNU Chennai)**  
 > **Course**: Environmental Science and Engineering (EVS)  
@@ -6,13 +6,13 @@
 
 ---
 
-## 📌 Zoological Inventory Overview
+## Zoological Inventory Overview
 
 The fauna of SNU Chennai ranges across 7 distinct taxonomic guilds: Insects & Arthropods, Spiders, Molluscs, Crustaceans, Amphibians & Reptiles, Birds (Avifauna), and Mammals.
 
 ---
 
-## 📋 Master Fauna Index (42 Unique Species)
+## Master Fauna Index (44 Unique Species)
 
 | ID | Common Name | Scientific Name | Family | Taxonomic Guild | Trophic Level | Contributor Team | Profile Link |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -63,7 +63,7 @@ The fauna of SNU Chennai ranges across 7 distinct taxonomic guilds: Insects & Ar
 
 ---
 
-## 🛡️ Special Conservation Status Species
+## Special Conservation Status Species
 
 1. **Crimson Rose Butterfly (*Pachliopta hector*) — FA-02**: Protected under **Schedule I of the Wildlife (Protection) Act, 1972**.
 2. **Indian Peafowl (*Pavo cristatus*) — FA-13**: **National Bird of India**, Schedule I protection.
@@ -73,4 +73,4 @@ The fauna of SNU Chennai ranges across 7 distinct taxonomic guilds: Insects & Ar
 
 ---
 
-[🏠 Back to Root Repository Index](../README.md) | [🌿 Explore Flora Directory](../Flora/README.md)
+[Back to Root Repository Index](../README.md) | [Explore Flora Directory](../Flora/README.md)

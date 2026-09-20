@@ -38,4 +38,4 @@ Compact white heron with a stout yellow bill, dark legs, and during breeding sea
 
 ---
 
-[⬅ Back to Fauna Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Fauna Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

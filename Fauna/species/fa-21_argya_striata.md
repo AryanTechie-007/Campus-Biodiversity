@@ -38,4 +38,4 @@ Medium-sized brownish-grey songbird with pale creamy eyes, heavy yellow bill, an
 
 ---
 
-[⬅ Back to Fauna Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Fauna Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

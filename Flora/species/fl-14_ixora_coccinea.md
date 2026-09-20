@@ -38,4 +38,4 @@ Dense flowering shrub with opposite, glossy leathery oblong leaves and terminal 
 
 ---
 
-[⬅ Back to Flora Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Flora Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

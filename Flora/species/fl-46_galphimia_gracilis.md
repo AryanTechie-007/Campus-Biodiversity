@@ -38,4 +38,4 @@ Fast-growing evergreen shrub with slender reddish-brown stems, opposite ovate bl
 
 ---
 
-[⬅ Back to Flora Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Flora Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

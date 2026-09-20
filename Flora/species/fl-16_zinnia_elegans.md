@@ -38,4 +38,4 @@ Stiff, erect annual herb with opposite sessile leaves and solitary composite flo
 
 ---
 
-[⬅ Back to Flora Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Flora Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

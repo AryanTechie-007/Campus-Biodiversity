@@ -39,4 +39,4 @@ Densely clustering fan palm with slender bamboo-like stems covered in coarse bro
 
 ---
 
-[⬅ Back to Flora Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Flora Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

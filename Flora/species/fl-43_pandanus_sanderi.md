@@ -38,4 +38,4 @@ Perennial evergreen suckering shrub with spirally arranged, arching strap-like l
 
 ---
 
-[⬅ Back to Flora Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Flora Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

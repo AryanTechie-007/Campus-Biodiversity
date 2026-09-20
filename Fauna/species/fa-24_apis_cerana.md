@@ -38,4 +38,4 @@ Medium-sized honeybee with golden-yellow and dark brown abdominal stripes, hairy
 
 ---
 
-[⬅ Back to Fauna Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Fauna Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

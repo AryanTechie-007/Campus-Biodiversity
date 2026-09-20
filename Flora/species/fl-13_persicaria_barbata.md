@@ -38,4 +38,4 @@ Herbaceous plant characterized by lanceolate leaves with ciliate ocreae and dens
 
 ---
 
-[⬅ Back to Flora Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Flora Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

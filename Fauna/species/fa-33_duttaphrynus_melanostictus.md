@@ -38,4 +38,4 @@ Medium to large stout-bodied toad with rough, warty skin accented by black-tippe
 
 ---
 
-[⬅ Back to Fauna Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Fauna Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

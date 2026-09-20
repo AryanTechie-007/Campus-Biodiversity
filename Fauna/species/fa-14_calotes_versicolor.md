@@ -40,4 +40,4 @@ Diurnal arboreal agamid lizard capable of physiological color shifts. Males deve
 
 ---
 
-[⬅ Back to Fauna Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Fauna Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

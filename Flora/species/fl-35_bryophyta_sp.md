@@ -38,4 +38,4 @@ Dense cushions of miniature green gametophytes with microphyll leaves lacking va
 
 ---
 
-[⬅ Back to Flora Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Flora Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

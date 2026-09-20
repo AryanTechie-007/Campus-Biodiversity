@@ -38,4 +38,4 @@ Vigorous thorny evergreen shrub or woody climber featuring showy, paper-thin mag
 
 ---
 
-[⬅ Back to Flora Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Flora Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

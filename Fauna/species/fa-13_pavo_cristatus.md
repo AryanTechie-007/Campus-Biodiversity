@@ -40,4 +40,4 @@ The National Bird of India, possessing iridescent cobalt blue neck plumage, fan-
 
 ---
 
-[⬅ Back to Fauna Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Fauna Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

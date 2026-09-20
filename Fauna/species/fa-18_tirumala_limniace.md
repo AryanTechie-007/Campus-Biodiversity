@@ -38,4 +38,4 @@ Large, elegant danaid butterfly featuring blackish-brown wings with distinct blu
 
 ---
 
-[⬅ Back to Fauna Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Fauna Index](../README.md) | [Back to Campus Inventory Root](../../README.md)

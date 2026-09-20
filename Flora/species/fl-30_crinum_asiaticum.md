@@ -38,4 +38,4 @@ Massive perennial herb with thick false stems, broad strap-like fleshy leaves, a
 
 ---
 
-[⬅ Back to Flora Index](../README.md) | [🏠 Back to Campus Inventory Root](../../README.md)
+[Back to Flora Index](../README.md) | [Back to Campus Inventory Root](../../README.md)
