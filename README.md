@@ -61,7 +61,7 @@ This repository serves as the official, systematically organized **Collective Ca
   5. **S Swetha** — `25011103047`
 
 ### Team Viswa
-- **Dataset Contribution**: Canopy & micro-habitat survey from EVS Assignment2 (18 unique taxa: FL-24 to FL-35, FA-20 to FA-25).
+- **Dataset Contribution**: Canopy & micro-habitat survey from EVS Assignment2 (17 unique taxa: FL-24 to FL-31, FL-33 to FL-35, FA-20 to FA-25).
 - **Team Leader**: **Viswa R** (Roll No: `25011103061`)
 - **Team Members**:
   1. **Viswa R** — `25011103061` (Team Leader)
@@ -141,7 +141,7 @@ This repository serves as the official, systematically organized **Collective Ca
   6. **Leesha Priya** — `25011103059`
 
 ### Team Thuliyan
-- **Dataset Contribution**: Assignment 2 Campus Biodiversity Explorer survey report (5 unique taxa: FL-02, FL-56, FA-06, FA-12, FA-51; 18 total documented species across campus corridors and lawns).
+- **Dataset Contribution**: Assignment 2 Campus Biodiversity Explorer survey report (6 unique taxa: FL-02, FL-32, FL-56, FA-06, FA-12, FA-51; 18 total documented species across campus corridors and lawns).
 - **Team Leader**: **Thuyilan VJ** (Roll No: `25011103058`)
 - **Team Members**:
   1. **Thuyilan VJ** — `25011103058` (Team Leader)
@@ -187,7 +187,7 @@ This repository serves as the official, systematically organized **Collective Ca
 | **FL-29** | Gulmohar / Royal Poinciana (Flame Tree) | *Delonix regia* | Fabaceae | Plant (Large Deciduous Canopy Tree) | Team Viswa | [View Profile](Flora/species/fl-29_delonix_regia.md) |
 | **FL-30** | Giant Crinum Lily / Poison Bulb | *Crinum asiaticum* | Amaryllidaceae | Plant (Robust Bulbous Perennial Herb) | Team Viswa | [View Profile](Flora/species/fl-30_crinum_asiaticum.md) |
 | **FL-31** | East Indian Walnut / Siris Tree | *Albizia lebbeck* | Fabaceae | Plant (Deciduous Timber / Shade Tree) | Team Viswa | [View Profile](Flora/species/fl-31_albizia_lebbeck.md) |
-| **FL-32** | Variegated Spider Plant / Ribbon Plant | *Chlorophytum comosum 'Variegatum'* | Asparagaceae | Plant (Perennial Herb / Groundcover) | Team Viswa | [View Profile](Flora/species/fl-32_chlorophytum_comosum.md) |
+| **FL-32** | Variegated Spider Plant / Ribbon Plant | *Chlorophytum comosum 'Variegatum'* | Asparagaceae | Plant (Perennial Herb / Groundcover) | Team Thuliyan | [View Profile](Flora/species/fl-32_chlorophytum_comosum_variegatum.md) |
 | **FL-33** | Dumb Cane / Leopard Lily | *Dieffenbachia seguine* | Araceae | Plant (Perennial Aroid) | Team Viswa | [View Profile](Flora/species/fl-33_dieffenbachia_seguine.md) |
 | **FL-34** | Bushkiller Vine | *Cayratia japonica* | Vitaceae | Plant (Herbaceous Climbing Vine) | Team Viswa | [View Profile](Flora/species/fl-34_cayratia_japonica.md) |
 | **FL-35** | Campus Lithophytic Moss | *Bryophyta sp.* | Bryaceae | Plant (Non-vascular Bryophyte) | Team Viswa | [View Profile](Flora/species/fl-35_bryophyta_sp.md) |
@@ -268,6 +268,7 @@ This repository serves as the official, systematically organized **Collective Ca
 | **FA-48** | Indian Jungle Crow / Large-billed Crow | *Corvus culminatus* | Corvidae | Birds (Avifauna) | Tertiary Consumer / Scavenger & Top Omnivore | Team Venkatadri | [View Profile](Fauna/species/fa-48_corvus_culminatus.md) |
 | **FA-49** | Rock Pigeon / Blue Rock Dove | *Columba livia* | Columbidae | Birds (Avifauna) | Primary Consumer / Granivore & Frugivore | Team Venkatadri | [View Profile](Fauna/species/fa-49_columba_livia.md) |
 | **FA-50** | Flat-backed Millipede / Paradoxosomatid Millipede | *Anoplodesmus sp.* | Paradoxosomatidae | Myriapods / Arthropods | Primary Consumer / Primary Detritivore & Decomposer | Team Venkatadri | [View Profile](Fauna/species/fa-50_anoplodesmus_sp.md) |
+| **FA-51** | Domestic Cattle / Cow | *Bos taurus* | Bovidae | Mammals | Primary Consumer / Herbivore | Team Thuliyan | [View Profile](Fauna/species/fa-51_bos_taurus.md) |
 
 ---
 
@@ -280,18 +281,9 @@ For complete trophic structure diagrams, energy flow pathways, and micro-habitat
 ## Cohort Registration Number Reconciliation (1 to 62)
 
 ### Cohort Distribution Summary
-- **Class Registry Range**: 1 to 62 (Total allocated capacity: 62 registration numbers)
-- **Active Enrolled Students**: **61 Students**
+- **Class Registry Range**: 1 to 62
 - **Documented Participating Students**: **61 Students (100% active cohort accounted for)** across **12 Collective Survey Teams**
-- **Unaccounted Active Students**: **0**
-
-### Inactive / Transferred Registration Number
-
-Across the entire 1 to 62 sequence, all 61 active students are documented in the survey teams. The only non-participating registration number corresponds to Roll No. 12, who discontinued / took a Transfer Certificate (TC):
-
-| S.No | Roll No. | Registration Number (`25011103XXX`) | Status / Remarks |
-| :---: | :---: | :---: | :---: |
-| 1 | 012 | `25011103012` | Took Transfer Certificate (TC) / Discontinued |
+- **Unaccounted Active Students**: **0** (All active students across the cohort are fully accounted for)
 
 ---
 

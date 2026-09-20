@@ -47,7 +47,7 @@ The flora of the SNU Chennai campus encompasses a rich diversity of botanical ha
 | **FL-29** | Gulmohar / Royal Poinciana (Flame Tree) | *Delonix regia* | Fabaceae | Plant (Large Deciduous Canopy Tree) | Clocktower | Team Viswa | [View Profile](species/fl-29_delonix_regia.md) |
 | **FL-30** | Giant Crinum Lily / Poison Bulb | *Crinum asiaticum* | Amaryllidaceae | Plant (Robust Bulbous Perennial Herb) | Near Old Sports Complex | Team Viswa | [View Profile](species/fl-30_crinum_asiaticum.md) |
 | **FL-31** | East Indian Walnut / Siris Tree | *Albizia lebbeck* | Fabaceae | Plant (Deciduous Timber / Shade Tree) | Pathway near Old Sports Complex | Team Viswa | [View Profile](species/fl-31_albizia_lebbeck.md) |
-| **FL-32** | Variegated Spider Plant / Ribbon Plant | *Chlorophytum comosum 'Variegatum'* | Asparagaceae | Plant (Perennial Herb / Groundcover) | Near AB1 | Team Viswa | [View Profile](species/fl-32_chlorophytum_comosum.md) |
+| **FL-32** | Variegated Spider Plant / Ribbon Plant | *Chlorophytum comosum 'Variegatum'* | Asparagaceae | Plant (Perennial Herb / Groundcover) | Near AB1 / Clock Tower | Team Thuliyan | [View Profile](species/fl-32_chlorophytum_comosum_variegatum.md) |
 | **FL-33** | Dumb Cane / Leopard Lily | *Dieffenbachia seguine* | Araceae | Plant (Perennial Aroid) | Outside AB3 block | Team Viswa | [View Profile](species/fl-33_dieffenbachia_seguine.md) |
 | **FL-34** | Bushkiller Vine | *Cayratia japonica* | Vitaceae | Plant (Herbaceous Climbing Vine) | Near AB1 | Team Viswa | [View Profile](species/fl-34_cayratia_japonica.md) |
 | **FL-35** | Campus Lithophytic Moss | *Bryophyta sp.* | Bryaceae | Plant (Non-vascular Bryophyte) | Well near cricket ground | Team Viswa | [View Profile](species/fl-35_bryophyta_sp.md) |

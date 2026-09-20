@@ -510,7 +510,7 @@
       "description": "Arching perennial herb with linear variegated striped leaves that sends out stoloniferous runners bearing small white starry flowers and miniature plantlets.",
       "image_target": "chlorophytum_comosum.png",
       "survey_source": "Assignment 2 Survey (Team Rehan)",
-      "contributor_team": "Team Viswa"
+      "contributor_team": "Team Thuliyan"
     },
     {
       "id": "FL-33",
@@ -1816,7 +1816,8 @@
         "Ritvik R - 25011103044",
         "Yogit SB - 25011103062"
       ],
-      "contributions": "Micro-habitat & canopy survey from EVS Assignment2.pdf (18 unique species: Tawny Coster, Jungle Babbler, Marsh Glider, Angelonia, Sago Palm, Ruffled Fan Palm, Golden Melinonii, Wild Jasmine, Gulmohar, Crinum Lily, Indian Red Bug, Albizia, Spider Plant, Dumb Cane, Bushkiller Vine, Asian Honeybee, Moss, Greater Coucal)"
+      "contributions": "Micro-habitat & canopy survey from EVS Assignment2.pdf (18 unique species: Tawny Coster, Jungle Babbler, Marsh Glider, Angelonia, Sago Palm, Ruffled Fan Palm, Golden Melinonii, Wild Jasmine, Gulmohar, Crinum Lily, Indian Red Bug, Albizia, Spider Plant, Dumb Cane, Bushkiller Vine, Asian Honeybee, Moss, Greater Coucal)",
+      "unique_species_count": 17
     },
     {
       "team_name": "Team Shatmika",
@@ -1913,7 +1914,7 @@
         "Sreram R (25011103054)"
       ],
       "survey_focus": "Central Campus Corridors, Clock Tower, AB Law & Recreation Zones",
-      "unique_species_count": 5
+      "unique_species_count": 6
     }
   ],
   "total_species": 107,
