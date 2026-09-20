@@ -11,8 +11,8 @@
 | **Location of Observation** | **Foliage of Mango and Guava Trees** |
 | **Microhabitat** | Leaves and twigs of bushes inhabited by Asian weaver ants |
 | **Trophic Level** | Secondary Consumer / Ambush Predator (Trophic Level 3) |
-| **Contributing Survey Team** | **Team Lokranjan** |
-| **Survey Source** | Assignment 2 Survey (Team Lokranjan) |
+| **Contributing Survey Team** | **Team Shatmika** |
+| **Survey Source** | Assignment 2 Survey (Team Shatmika) |
 
 ---
 

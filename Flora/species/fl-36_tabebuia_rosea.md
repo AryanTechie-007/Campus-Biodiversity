@@ -10,8 +10,8 @@
 | **Location of Observation** | **Central Avenue & Quadrangle Borders** |
 | **Microhabitat** | Landscaped avenues and open, sunny spaces |
 | **Trophic Level** | Primary Producer (Trophic Level 1) |
-| **Contributing Survey Team** | **Team Lokranjan** |
-| **Survey Source** | Assignment 2 Survey (Team Lokranjan) |
+| **Contributing Survey Team** | **Team Shatmika** |
+| **Survey Source** | Assignment 2 Survey (Team Shatmika) |
 
 ---
 

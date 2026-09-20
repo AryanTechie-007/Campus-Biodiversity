@@ -11,8 +11,8 @@
 | **Location of Observation** | **Dry Scrub & Rocky Embankments** |
 | **Microhabitat** | Dry scrub, grass margins, and rocky ground crevices |
 | **Trophic Level** | Tertiary Consumer / Carnivore (Trophic Level 4) |
-| **Contributing Survey Team** | **Team Lokranjan** |
-| **Survey Source** | Assignment 2 Survey (Team Lokranjan) |
+| **Contributing Survey Team** | **Team Shatmika** |
+| **Survey Source** | Assignment 2 Survey (Team Shatmika) |
 
 ---
 

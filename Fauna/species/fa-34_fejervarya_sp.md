@@ -11,8 +11,8 @@
 | **Location of Observation** | **Campus Stormwater Channel & Wet Grass** |
 | **Microhabitat** | Moist grass, seasonal puddles, edges of drainage ditches |
 | **Trophic Level** | Secondary Consumer / Insectivore (Trophic Level 3) |
-| **Contributing Survey Team** | **Team Lokranjan** |
-| **Survey Source** | Assignment 2 Survey (Team Lokranjan) |
+| **Contributing Survey Team** | **Team Shatmika** |
+| **Survey Source** | Assignment 2 Survey (Team Shatmika) |
 
 ---
 

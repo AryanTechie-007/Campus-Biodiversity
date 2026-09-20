@@ -35,11 +35,11 @@ This repository serves as the official, systematically organized **Collective Ca
 - **Team Leader**: **Aryan Sinha** (Roll No: `25011103009`) • [AryanTechie-007](https://github.com/AryanTechie-007)
 - **Team Members**:
   1. **Aryan Sinha** — `25011103009` (Team Leader)
-  2. **Pranavsai Reddy**
+  2. **Pranavsai Reddy** — `25011103038`
   3. **Srijan Karmakar** — `25011103056`
-  4. **Ragul Thangam**
-  5. **Sri Darshini**
-  6. **Shrimati**
+  4. **Ragul Thangam** — `25011103040`
+  5. **Sri Dharshini** — `25011103055`
+  6. **Shrimathi Lakshmi** — `25011103053`
 
 ### 🌸 Team Katyayani
 - **Dataset Contribution**: Campus survey within 500m radius (4 unique taxa: FL-12, FL-13, FA-16, FA-17).
@@ -71,12 +71,12 @@ This repository serves as the official, systematically organized **Collective Ca
   4. **Ritvik R** — `25011103044`
   5. **Yogit SB** — `25011103062`
 
-### 🦎 Team Lokranjan
+### 🦎 Team Shatmika
 - **Dataset Contribution**: Direct repository contributions and campus biodiversity survey (16 unique taxa: FL-36 to FL-39, FA-26 to FA-37).
-- **Team Leader**: **Lokranjan KS** (Roll No: `25011103026`)
+- **Team Leader**: **Shatmika** (Roll No: `25011103051`)
 - **Team Members**:
-  1. **Lokranjan KS** — `25011103026` (Team Leader)
-  2. **Shatmika** — `25011103051`
+  1. **Shatmika** — `25011103051` (Team Leader)
+  2. **Lokranjan KS** — `25011103026`
   3. **Pooranasri** — `25011103027`
   4. **Raja** — `25011103041`
   5. **Juveena** — `25011103020`
@@ -141,10 +141,10 @@ This repository serves as the official, systematically organized **Collective Ca
 | **FL-33** | Dumb Cane / Leopard Lily | *Dieffenbachia seguine* | Araceae | Plant (Perennial Aroid) | Team Viswa | [View Profile](Flora/species/fl-33_dieffenbachia_seguine.md) |
 | **FL-34** | Bushkiller Vine | *Cayratia japonica* | Vitaceae | Plant (Herbaceous Climbing Vine) | Team Viswa | [View Profile](Flora/species/fl-34_cayratia_japonica.md) |
 | **FL-35** | Campus Lithophytic Moss | *Bryophyta sp.* | Bryaceae | Plant (Non-vascular Bryophyte) | Team Viswa | [View Profile](Flora/species/fl-35_bryophyta_sp.md) |
-| **FL-36** | Pink Trumpet Tree / Rosy Trumpet Tree | *Tabebuia rosea* | Bignoniaceae | Plant (Deciduous Flowering Tree) | Team Lokranjan | [View Profile](Flora/species/fl-36_tabebuia_rosea.md) |
-| **FL-37** | Sausage Tree | *Kigelia africana* | Bignoniaceae | Plant (Deciduous Flowering Tree) | Team Lokranjan | [View Profile](Flora/species/fl-37_kigelia_africana.md) |
-| **FL-38** | Banyan Tree / Indian Banyan | *Ficus benghalensis* | Moraceae | Plant (Keystone Canopy Tree / Moraceae) | Team Lokranjan | [View Profile](Flora/species/fl-38_ficus_benghalensis.md) |
-| **FL-39** | Tea Plant | *Camellia sinensis* | Theaceae | Plant (Evergreen Shrub / Theaceae) | Team Lokranjan | [View Profile](Flora/species/fl-39_camellia_sinensis.md) |
+| **FL-36** | Pink Trumpet Tree / Rosy Trumpet Tree | *Tabebuia rosea* | Bignoniaceae | Plant (Deciduous Flowering Tree) | Team Shatmika | [View Profile](Flora/species/fl-36_tabebuia_rosea.md) |
+| **FL-37** | Sausage Tree | *Kigelia africana* | Bignoniaceae | Plant (Deciduous Flowering Tree) | Team Shatmika | [View Profile](Flora/species/fl-37_kigelia_africana.md) |
+| **FL-38** | Banyan Tree / Indian Banyan | *Ficus benghalensis* | Moraceae | Plant (Keystone Canopy Tree / Moraceae) | Team Shatmika | [View Profile](Flora/species/fl-38_ficus_benghalensis.md) |
+| **FL-39** | Tea Plant | *Camellia sinensis* | Theaceae | Plant (Evergreen Shrub / Theaceae) | Team Shatmika | [View Profile](Flora/species/fl-39_camellia_sinensis.md) |
 | **FL-40** | Cathedral Bells / Air Plant / Miracle Leaf | *Kalanchoe pinnata (syn. Bryophyllum pinnatum)* | Crassulaceae | Plant (Succulent Herb / Medicinal Perennial) | Team Sasthika | [View Profile](Flora/species/fl-40_kalanchoe_pinnata.md) |
 | **FL-41** | Neem Tree / Indian Lilac / Margosa Tree | *Azadirachta indica* | Meliaceae | Plant (Evergreen Canopy Tree / Meliaceae) | Team Sasthika | [View Profile](Flora/species/fl-41_azadirachta_indica.md) |
 | **FL-42** | Elephant's Foot / Prickly Chaff Flower | *Elephantopus scaber* | Asteraceae | Herbs & Groundcover | Team Asmath | [View Profile](Flora/species/fl-42_elephantopus_scaber.md) |
@@ -180,18 +180,18 @@ This repository serves as the official, systematically organized **Collective Ca
 | **FA-23** | Indian Red Bug | *Probergrothius sanguinolens* | Largidae | Insects / Arthropods | Primary Consumer / Seed Bug | Team Viswa | [View Profile](Fauna/species/fa-23_probergrothius_sanguinolens.md) |
 | **FA-24** | Asian Honeybee / Indian Honeybee | *Apis cerana* | Apidae | Insects / Arthropods | Primary Consumer / Kept & Wild Pollinator | Team Viswa | [View Profile](Fauna/species/fa-24_apis_cerana.md) |
 | **FA-25** | Greater Coucal / Southern Crow Pheasant | *Centropus sinensis* | Cuculidae | Birds (Avifauna) | Tertiary / Apex Avian Predator | Team Viswa | [View Profile](Fauna/species/fa-25_centropus_sinensis.md) |
-| **FA-26** | Common Mormon Butterfly | *Papilio polytes* | Papilionidae | Insects / Arthropods | Primary Consumer / Pollinator | Team Lokranjan | [View Profile](Fauna/species/fa-26_papilio_polytes.md) |
-| **FA-27** | Domino Beetle / Six-spotted Ground Beetle | *Anthia sexguttata* | Carabidae | Insects / Arthropods | Secondary Consumer / Predator | Team Lokranjan | [View Profile](Fauna/species/fa-27_anthia_sexguttata.md) |
-| **FA-28** | Bush Cricket / Katydid | *Tettigoniidae sp.* | Tettigoniidae | Insects / Arthropods | Primary Consumer / Herbivore | Team Lokranjan | [View Profile](Fauna/species/fa-28_tettigoniidae_sp.md) |
-| **FA-29** | House Mosquito / True Mosquito | *Culex sp.* | Culicidae | Insects / Arthropods | Primary / Parasitic Consumer | Team Lokranjan | [View Profile](Fauna/species/fa-29_culex_sp.md) |
-| **FA-30** | Common Picture Wing Dragonfly / Variegated Flutterer | *Rhyothemis variegata* | Libellulidae | Insects / Arthropods | Secondary Consumer / Aerial Predator | Team Lokranjan | [View Profile](Fauna/species/fa-30_rhyothemis_variegata.md) |
-| **FA-31** | Asian Weaver Ant-mimicking Jumping Spider | *Myrmaplata plataleoides* | Salticidae | Arachnids / Arthropods | Secondary Consumer / Ambush Predator | Team Lokranjan | [View Profile](Fauna/species/fa-31_myrmaplata_plataleoides.md) |
-| **FA-32** | Two-striped Jumper Spider | *Telamonia dimidiata* | Salticidae | Arachnids / Arthropods | Secondary Consumer / Visual Predator | Team Lokranjan | [View Profile](Fauna/species/fa-32_telamonia_dimidiata.md) |
-| **FA-33** | Asian Common Toad / Black-spined Toad | *Duttaphrynus melanostictus* | Bufonidae | Amphibians / Vertebrates | Secondary Consumer / Insectivore | Team Lokranjan | [View Profile](Fauna/species/fa-33_duttaphrynus_melanostictus.md) |
-| **FA-34** | Indian Cricket Frog / Wetland Paddy Frog | *Fejervarya sp. (syn. Minervarya sp.)* | Dicroglossidae | Amphibians / Vertebrates | Secondary Consumer / Insectivore | Team Lokranjan | [View Profile](Fauna/species/fa-34_fejervarya_sp.md) |
-| **FA-35** | Peninsular Rock Agama / South Indian Rock Agama | *Psammophilus dorsalis* | Agamidae | Reptiles | Secondary Consumer / Insectivore | Team Lokranjan | [View Profile](Fauna/species/fa-35_psammophilus_dorsalis.md) |
-| **FA-36** | Russell's Viper / Indian Kukri Snake | *Daboia russelii (cf. Oligodon arnensis)* | Viperidae / Colubridae | Reptiles | Tertiary Consumer / Carnivore | Team Lokranjan | [View Profile](Fauna/species/fa-36_daboia_russelii.md) |
-| **FA-37** | Western Cattle Egret | *Bubulcus ibis (syn. Ardea ibis)* | Ardeidae | Birds (Avifauna) | Tertiary Consumer / Carnivorous Predator | Team Lokranjan | [View Profile](Fauna/species/fa-37_bubulcus_ibis.md) |
+| **FA-26** | Common Mormon Butterfly | *Papilio polytes* | Papilionidae | Insects / Arthropods | Primary Consumer / Pollinator | Team Shatmika | [View Profile](Fauna/species/fa-26_papilio_polytes.md) |
+| **FA-27** | Domino Beetle / Six-spotted Ground Beetle | *Anthia sexguttata* | Carabidae | Insects / Arthropods | Secondary Consumer / Predator | Team Shatmika | [View Profile](Fauna/species/fa-27_anthia_sexguttata.md) |
+| **FA-28** | Bush Cricket / Katydid | *Tettigoniidae sp.* | Tettigoniidae | Insects / Arthropods | Primary Consumer / Herbivore | Team Shatmika | [View Profile](Fauna/species/fa-28_tettigoniidae_sp.md) |
+| **FA-29** | House Mosquito / True Mosquito | *Culex sp.* | Culicidae | Insects / Arthropods | Primary / Parasitic Consumer | Team Shatmika | [View Profile](Fauna/species/fa-29_culex_sp.md) |
+| **FA-30** | Common Picture Wing Dragonfly / Variegated Flutterer | *Rhyothemis variegata* | Libellulidae | Insects / Arthropods | Secondary Consumer / Aerial Predator | Team Shatmika | [View Profile](Fauna/species/fa-30_rhyothemis_variegata.md) |
+| **FA-31** | Asian Weaver Ant-mimicking Jumping Spider | *Myrmaplata plataleoides* | Salticidae | Arachnids / Arthropods | Secondary Consumer / Ambush Predator | Team Shatmika | [View Profile](Fauna/species/fa-31_myrmaplata_plataleoides.md) |
+| **FA-32** | Two-striped Jumper Spider | *Telamonia dimidiata* | Salticidae | Arachnids / Arthropods | Secondary Consumer / Visual Predator | Team Shatmika | [View Profile](Fauna/species/fa-32_telamonia_dimidiata.md) |
+| **FA-33** | Asian Common Toad / Black-spined Toad | *Duttaphrynus melanostictus* | Bufonidae | Amphibians / Vertebrates | Secondary Consumer / Insectivore | Team Shatmika | [View Profile](Fauna/species/fa-33_duttaphrynus_melanostictus.md) |
+| **FA-34** | Indian Cricket Frog / Wetland Paddy Frog | *Fejervarya sp. (syn. Minervarya sp.)* | Dicroglossidae | Amphibians / Vertebrates | Secondary Consumer / Insectivore | Team Shatmika | [View Profile](Fauna/species/fa-34_fejervarya_sp.md) |
+| **FA-35** | Peninsular Rock Agama / South Indian Rock Agama | *Psammophilus dorsalis* | Agamidae | Reptiles | Secondary Consumer / Insectivore | Team Shatmika | [View Profile](Fauna/species/fa-35_psammophilus_dorsalis.md) |
+| **FA-36** | Russell's Viper / Indian Kukri Snake | *Daboia russelii (cf. Oligodon arnensis)* | Viperidae / Colubridae | Reptiles | Tertiary Consumer / Carnivore | Team Shatmika | [View Profile](Fauna/species/fa-36_daboia_russelii.md) |
+| **FA-37** | Western Cattle Egret | *Bubulcus ibis (syn. Ardea ibis)* | Ardeidae | Birds (Avifauna) | Tertiary Consumer / Carnivorous Predator | Team Shatmika | [View Profile](Fauna/species/fa-37_bubulcus_ibis.md) |
 | **FA-38** | Indian Palm Squirrel / Three-striped Palm Squirrel | *Funambulus palmarum* | Sciuridae | Mammals | Primary/Secondary Consumer & Granivore-Frugivore | Team Sasthika | [View Profile](Fauna/species/fa-38_funambulus_palmarum.md) |
 | **FA-39** | House Sparrow | *Passer domesticus* | Passeridae | Birds (Avifauna) | Primary/Secondary Consumer & Granivore-Insectivore | Team Sasthika | [View Profile](Fauna/species/fa-39_passer_domesticus.md) |
 | **FA-40** | Black Crazy Ant / Longhorn Ant | *Paratrechina longicornis* | Formicidae | Insects / Arthropods | Secondary Consumer / Scavenger & Generalist Predator | Team Sasthika | [View Profile](Fauna/species/fa-40_paratrechina_longicornis.md) |

@@ -11,8 +11,8 @@
 | **Location of Observation** | **Central Gardens & Citrus Shrub Borders** |
 | **Microhabitat** | Flowering hedges, open sunny garden beds |
 | **Trophic Level** | Primary Consumer / Pollinator (Trophic Level 2) |
-| **Contributing Survey Team** | **Team Lokranjan** |
-| **Survey Source** | Assignment 2 Survey (Team Lokranjan) |
+| **Contributing Survey Team** | **Team Shatmika** |
+| **Survey Source** | Assignment 2 Survey (Team Shatmika) |
 
 ---
 

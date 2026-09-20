@@ -11,8 +11,8 @@
 | **Location of Observation** | **Drainage Channels & Shaded Corridors** |
 | **Microhabitat** | Stagnant water pools, drainage channels, shaded corridors |
 | **Trophic Level** | Primary / Parasitic Consumer (Trophic Level 2-3) |
-| **Contributing Survey Team** | **Team Lokranjan** |
-| **Survey Source** | Assignment 2 Survey (Team Lokranjan) |
+| **Contributing Survey Team** | **Team Shatmika** |
+| **Survey Source** | Assignment 2 Survey (Team Shatmika) |
 
 ---
 

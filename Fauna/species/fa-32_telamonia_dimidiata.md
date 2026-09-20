@@ -11,8 +11,8 @@
 | **Location of Observation** | **Campus Hedges & Garden Leaves** |
 | **Microhabitat** | Shrub leaves, tree bark, sunny foliage |
 | **Trophic Level** | Secondary Consumer / Visual Predator (Trophic Level 3) |
-| **Contributing Survey Team** | **Team Lokranjan** |
-| **Survey Source** | Assignment 2 Survey (Team Lokranjan) |
+| **Contributing Survey Team** | **Team Shatmika** |
+| **Survey Source** | Assignment 2 Survey (Team Shatmika) |
 
 ---
 

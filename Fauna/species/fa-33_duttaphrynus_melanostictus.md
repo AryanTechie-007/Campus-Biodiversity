@@ -11,8 +11,8 @@
 | **Location of Observation** | **Damp Garden Soil & Building Foundations** |
 | **Microhabitat** | Damp leaf litter, garden soil, drain margins, nocturnal walkways |
 | **Trophic Level** | Secondary Consumer / Insectivore (Trophic Level 3) |
-| **Contributing Survey Team** | **Team Lokranjan** |
-| **Survey Source** | Assignment 2 Survey (Team Lokranjan) |
+| **Contributing Survey Team** | **Team Shatmika** |
+| **Survey Source** | Assignment 2 Survey (Team Shatmika) |
 
 ---
 

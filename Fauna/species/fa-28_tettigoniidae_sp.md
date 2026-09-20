@@ -11,8 +11,8 @@
 | **Location of Observation** | **Hostel Greenery & Low Shrub Foliage** |
 | **Microhabitat** | Dense foliage, tall grasses, and shrub crowns |
 | **Trophic Level** | Primary Consumer / Herbivore (Trophic Level 2) |
-| **Contributing Survey Team** | **Team Lokranjan** |
-| **Survey Source** | Assignment 2 Survey (Team Lokranjan) |
+| **Contributing Survey Team** | **Team Shatmika** |
+| **Survey Source** | Assignment 2 Survey (Team Shatmika) |
 
 ---
 

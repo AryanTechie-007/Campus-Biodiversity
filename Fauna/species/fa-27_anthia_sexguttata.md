@@ -11,8 +11,8 @@
 | **Location of Observation** | **Vama Sundari Park & Dry Scrub Paths** |
 | **Microhabitat** | Ground surface, sandy soil, and dry leaf litter |
 | **Trophic Level** | Secondary Consumer / Predator (Trophic Level 3) |
-| **Contributing Survey Team** | **Team Lokranjan** |
-| **Survey Source** | Assignment 2 Survey (Team Lokranjan) |
+| **Contributing Survey Team** | **Team Shatmika** |
+| **Survey Source** | Assignment 2 Survey (Team Shatmika) |
 
 ---
 

@@ -11,8 +11,8 @@
 | **Location of Observation** | **Campus Wetland Basin & Open Lawns** |
 | **Microhabitat** | Open airspace near ponds, drainage basins, and marshy lawns |
 | **Trophic Level** | Secondary Consumer / Aerial Predator (Trophic Level 3) |
-| **Contributing Survey Team** | **Team Lokranjan** |
-| **Survey Source** | Assignment 2 Survey (Team Lokranjan) |
+| **Contributing Survey Team** | **Team Shatmika** |
+| **Survey Source** | Assignment 2 Survey (Team Shatmika) |
 
 ---
 
