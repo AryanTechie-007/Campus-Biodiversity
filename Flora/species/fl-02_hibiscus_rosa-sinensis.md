@@ -10,7 +10,8 @@
 | **Location of Observation** | **Pathway behind Dhanyas** |
 | **Microhabitat** | Garden hedge / Pathway border |
 | **Trophic Level** | Primary Producer (Trophic Level 1) |
-| **Deduplication / Survey Source** | Survey Specimens 02 & 12 (Deduplicated single species with documented cultivars) |
+| **Contributing Survey Team** | **Team Thuliyan** |
+| **Deduplication / Survey Source** | Survey Specimens 02 & 12 (Team Thuliyan & Team Aryan) |
 
 ---
 

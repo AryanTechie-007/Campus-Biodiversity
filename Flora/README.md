@@ -2,7 +2,7 @@
 
 > **Shiv Nadar University Chennai (SNU Chennai)**  
 > **Course**: Environmental Science and Engineering (EVS)  
-> **Total Documented Unique Flora**: **50 Species**
+> **Total Documented Unique Flora**: **56 Species**
 
 ---
 
@@ -12,12 +12,12 @@ The flora of the SNU Chennai campus encompasses a rich diversity of botanical ha
 
 ---
 
-## Master Flora Index (55 Unique Species)
+## Master Flora Index (56 Unique Species)
 
 | ID | Common Name | Scientific Name | Family | Category / Growth Habit | Location & Microhabitat | Contributor Team | Profile Link |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **FL-01** | White Champa / Frangipani | *Plumeria obtusa* | Apocynaceae | Plant (Evergreen Tree / Shrub) | Pathway behind Dhanyas | Team Aryan | [View Profile](species/fl-01_plumeria_obtusa.md) |
-| **FL-02** | Tropical Hibiscus / China Rose & Red Hibiscus / Shoeblack Plant | *Hibiscus rosa-sinensis* | Malvaceae | Plant (Evergreen Woody Perennial Shrub) | Pathway behind Dhanyas | Team Aryan | [View Profile](species/fl-02_hibiscus_rosa_sinensis.md) |
+| **FL-02** | Tropical Hibiscus / China Rose & Red Hibiscus / Shoeblack Plant | *Hibiscus rosa-sinensis* | Malvaceae | Plant (Evergreen Woody Perennial Shrub) | Pathway behind Dhanyas | Team Thuliyan | [View Profile](species/fl-02_hibiscus_rosa_sinensis.md) |
 | **FL-03** | Peppervine | *Nekemias arborea (syn. Ampelopsis arborea)* | Vitaceae | Plant (Woody Climbing Vine) | Pathway behind Dhanyas | Team Aryan | [View Profile](species/fl-03_nekemias_arborea.md) |
 | **FL-04** | Bismarck Palm | *Bismarckia nobilis* | Arecaceae | Plant (Solitary Fan Palm / Tree) | Campus entrance | Team Aryan | [View Profile](species/fl-04_bismarckia_nobilis.md) |
 | **FL-05** | Bamboo Palm / Lady Palm | *Rhapis excelsa* | Arecaceae | Plant (Clumping Fan Palm / Shrub) | AB3 open space | Team Aryan | [View Profile](species/fl-05_rhapis_excelsa.md) |
@@ -71,6 +71,7 @@ The flora of the SNU Chennai campus encompasses a rich diversity of botanical ha
 | **FL-53** | Betel Nut Palm / Areca Palm | *Areca catechu* | Arecaceae | Plant (Slender Solitary Canopy Palm / Tree) | Zone D — Management Block Garden | Team Venkatadri | [View Profile](species/fl-53_areca_catechu.md) |
 | **FL-54** | Golden Cane Palm / Areca Palm | *Dypsis lutescens* | Arecaceae | Plant (Clumping Ornamental Palm / Shrub) | Zone C — Academic Block Foyer | Team Venkatadri | [View Profile](species/fl-54_dypsis_lutescens.md) |
 | **FL-55** | Sessile Joyweed / Ponnanganni | *Alternanthera sessilis* | Amaranthaceae | Plant (Prostrate Wild Herb / Groundcover) | Zone A — Sports Complex Lawns | Team Venkatadri | [View Profile](species/fl-55_alternanthera_sessilis.md) |
+| **FL-56** | Queen's Flower / Pride of India | *Lagerstroemia speciosa* | Lythraceae | Plant (Deciduous Flowering Canopy Tree) | Near AB-3 | Team Thuliyan | [View Profile](species/fl-56_lagerstroemia_speciosa.md) |
 
 ---
 

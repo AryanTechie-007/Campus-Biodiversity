@@ -13,16 +13,16 @@ This repository serves as the official, systematically organized **Collective Ca
 
 ### Key Inventory Highlights
 - **Institution**: Shiv Nadar University Chennai, Rajiv Gandhi Salai (OMR), Kalavakkam, Tamil Nadu.
-- **Total Unique Documented Species**: **105 Species** (Zero duplicate taxa).
-- **Flora (Botanical & Mycological Diversity)**: **55 Unique Species** (Trees, Palms, Cycads, Shrubs, Climbing Vines, Wetland Herbs, Aroids, Grasses, and Macrofungi).
-- **Fauna (Zoological Diversity)**: **50 Unique Species** across 7 distinct taxonomic guilds (Insects & Arthropods, Spiders, Molluscs, Crustaceans, Amphibians & Reptiles, Birds, and Mammals).
+- **Total Unique Documented Species**: **107 Species** (Zero duplicate taxa).
+- **Flora (Botanical & Mycological Diversity)**: **56 Unique Species** (Trees, Palms, Cycads, Shrubs, Climbing Vines, Wetland Herbs, Aroids, Grasses, and Macrofungi).
+- **Fauna (Zoological Diversity)**: **51 Unique Species** across 7 distinct taxonomic guilds (Insects & Arthropods, Spiders, Molluscs, Crustaceans, Amphibians & Reptiles, Birds, and Mammals).
 - **Conservation Highlights**:
   - **Crimson Rose Butterfly (*Pachliopta hector*)**: **Schedule I Protected Species** under the Indian Wildlife (Protection) Act, 1972.
   - **Indian Peafowl (*Pavo cristatus*)**: National Bird of India.
   - **Russell's Viper (*Daboia russelii*)**: Apex serpentine predator regulating small mammal populations.
   - **Checkered Keelback (*Fowlea piscator*)**: Semi-aquatic predator regulating drain and wetland food webs.
   - **Greater Coucal (*Centropus sinensis*)**: Avian predator regulating snakes, lizards, and ground invertebrates.
-- **Contributing Research Teams**: **11 Collective Survey Teams** integrated with verified taxonomic profiles and data provenance.
+- **Contributing Research Teams**: **12 Collective Survey Teams** integrated with verified taxonomic profiles and data provenance.
 - **Deduplication Policy**: In strict compliance with guidelines (*"Do not include duplicate/repeated species. Each species should be listed only once"*), all survey reports have been cross-verified and consolidated into unique taxa entries with their respective original field photographic documentation preserved.
 
 ---
@@ -30,7 +30,7 @@ This repository serves as the official, systematically organized **Collective Ca
 ## Contributing Teams & Research Roster
 
 ### Team Aryan
-- **Dataset Contribution**: Founding comprehensive campus biodiversity survey (20 unique taxa: FL-01 to FL-06, FL-08, FL-09, FA-01 to FA-05, FA-07 to FA-09, FA-11, FA-12, FA-15).
+- **Dataset Contribution**: Founding comprehensive campus biodiversity survey (17 unique taxa: FL-01, FL-03 to FL-06, FL-08, FL-09, FA-01 to FA-05, FA-07 to FA-09, FA-11, FA-15).
 - **Team Leader**: **Aryan Sinha** (Roll No: `25011103009`) • [AryanTechie-007](https://github.com/AryanTechie-007)
 - **Team Members**:
   1. **Aryan Sinha** — `25011103009` (Team Leader)
@@ -148,14 +148,27 @@ This repository serves as the official, systematically organized **Collective Ca
 
 ---
 
+### Team Thuliyan
+- **Dataset Contribution**: Assignment 2 Campus Biodiversity Explorer survey report (5 unique taxa: FL-02, FL-56, FA-06, FA-12, FA-51; 18 total documented species across campus corridors and lawns).
+- **Team Leader**: **Thuyilan VJ** (Roll No: `25011103058`)
+- **Team Members**:
+  1. **Thuyilan VJ** — `25011103058` (Team Leader)
+  2. **Anirudh Sridhar** — `25011103005`
+  3. **Athin Jai Desikan** — `25011103011`
+  4. **Harshit Rao G** — `25011103019`
+  5. **Sreram R** — `25011103054`
 
 
-## Master Flora Inventory Table (55 Species)
+---
+
+
+
+## Master Flora Inventory Table (56 Species)
 
 | ID | Common Name | Scientific Name | Family | Category / Habit | Survey Provenance | Profile Link |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **FL-01** | White Champa / Frangipani | *Plumeria obtusa* | Apocynaceae | Plant (Evergreen Tree / Shrub) | Team Aryan | [View Profile](Flora/species/fl-01_plumeria_obtusa.md) |
-| **FL-02** | Tropical Hibiscus / China Rose & Red Hibiscus / Shoeblack Plant | *Hibiscus rosa-sinensis* | Malvaceae | Plant (Evergreen Woody Perennial Shrub) | Team Aryan | [View Profile](Flora/species/fl-02_hibiscus_rosa_sinensis.md) |
+| **FL-02** | Tropical Hibiscus / China Rose & Red Hibiscus / Shoeblack Plant | *Hibiscus rosa-sinensis* | Malvaceae | Plant (Evergreen Woody Perennial Shrub) | Team Thuliyan | [View Profile](Flora/species/fl-02_hibiscus_rosa_sinensis.md) |
 | **FL-03** | Peppervine | *Nekemias arborea (syn. Ampelopsis arborea)* | Vitaceae | Plant (Woody Climbing Vine) | Team Aryan | [View Profile](Flora/species/fl-03_nekemias_arborea.md) |
 | **FL-04** | Bismarck Palm | *Bismarckia nobilis* | Arecaceae | Plant (Solitary Fan Palm / Tree) | Team Aryan | [View Profile](Flora/species/fl-04_bismarckia_nobilis.md) |
 | **FL-05** | Bamboo Palm / Lady Palm | *Rhapis excelsa* | Arecaceae | Plant (Clumping Fan Palm / Shrub) | Team Aryan | [View Profile](Flora/species/fl-05_rhapis_excelsa.md) |
@@ -212,7 +225,7 @@ This repository serves as the official, systematically organized **Collective Ca
 
 ---
 
-## Master Fauna Inventory Table (50 Species)
+## Master Fauna Inventory Table (51 Species)
 
 | ID | Common Name | Scientific Name | Family | Category / Guild | Trophic Level | Survey Provenance | Profile Link |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -221,13 +234,13 @@ This repository serves as the official, systematically organized **Collective Ca
 | **FA-03** | Indian Paper Wasp / Yellow Paper Wasp | *Ropalidia marginata* | Vespidae | Insects / Arthropods | Secondary Consumer / Insectivore | Team Aryan | [View Profile](Fauna/species/fa-03_ropalidia_marginata.md) |
 | **FA-04** | Giant African Snail | *Lissachatina fulica (syn. Achatina fulica)* | Achatinidae | Molluscs | Primary Consumer / Detritivore & Decomposer | Team Aryan | [View Profile](Fauna/species/fa-04_lissachatina_fulica.md) |
 | **FA-05** | Indian Freshwater / Field Crab | *Oziotelphusa senex* | Gecarcinucidae | Crustaceans | Primary/Secondary Consumer & Detritivore | Team Aryan | [View Profile](Fauna/species/fa-05_oziotelphusa_senex.md) |
-| **FA-06** | Red Cotton Stainer | *Dysdercus cingulatus* | Pyrrhocoridae | Insects / Arthropods | Primary Consumer / Herbivore | Team Aryan | [View Profile](Fauna/species/fa-06_dysdercus_cingulatus.md) |
+| **FA-06** | Red Cotton Stainer | *Dysdercus cingulatus* | Pyrrhocoridae | Insects / Arthropods | Primary Consumer / Herbivore | Team Thuliyan | [View Profile](Fauna/species/fa-06_dysdercus_cingulatus.md) |
 | **FA-07** | Red-Headed / Banded Millipede | *Xenobolus carnifex* | Pachybolidae | Myriapods / Arthropods | Primary Consumer / Primary Detritivore | Team Aryan | [View Profile](Fauna/species/fa-07_xenobolus_carnifex.md) |
 | **FA-08** | Yellow-billed Babbler (Seven Sisters) | *Argya affinis (syn. Turdoides affinis)* | Leiothrichidae | Birds (Avifauna) | Secondary Consumer / Insectivore-Omnivore | Team Aryan | [View Profile](Fauna/species/fa-08_argya_affinis.md) |
 | **FA-09** | Black Drongo (King Crow) | *Dicrurus macrocercus* | Dicruridae | Birds (Avifauna) | Secondary Consumer / Aerial Insectivore | Team Aryan | [View Profile](Fauna/species/fa-09_dicrurus_macrocercus.md) |
 | **FA-10** | House Crow | *Corvus splendens* | Corvidae | Birds (Avifauna) | Tertiary Consumer / Omnivorous Scavenger | Team Asmath | [View Profile](Fauna/species/fa-10_corvus_splendens.md) |
 | **FA-11** | Bonnet Macaque | *Macaca radiata* | Cercopithecidae | Mammals | Primary/Secondary Consumer & Frugivore | Team Aryan | [View Profile](Fauna/species/fa-11_macaca_radiata.md) |
-| **FA-12** | Indian Pariah Dog (Desi Dog / INDog) | *Canis lupus familiaris* | Canidae | Mammals | Tertiary Consumer / Apex Predator & Scavenger | Team Aryan | [View Profile](Fauna/species/fa-12_canis_lupus_familiaris.md) |
+| **FA-12** | Indian Pariah Dog (Desi Dog / INDog) | *Canis lupus familiaris* | Canidae | Mammals | Tertiary Consumer / Apex Predator & Scavenger | Team Thuliyan | [View Profile](Fauna/species/fa-12_canis_lupus_familiaris.md) |
 | **FA-13** | Indian Peafowl (Peacock - National Bird of India) | *Pavo cristatus* | Phasianidae | Birds (Avifauna) | Secondary / Tertiary Consumer & Predator | Team Saravanan | [View Profile](Fauna/species/fa-13_pavo_cristatus.md) |
 | **FA-14** | Oriental Garden Lizard (Changeable Lizard) | *Calotes versicolor* | Agamidae | Reptiles | Secondary Consumer / Insectivore | Team Saravanan | [View Profile](Fauna/species/fa-14_calotes_versicolor.md) |
 | **FA-15** | Domestic Cat (Campus Tabby / Feral Cat) | *Felis catus* | Felidae | Mammals | Tertiary Consumer / Small Carnivore & Apex Predator | Team Aryan | [View Profile](Fauna/species/fa-15_felis_catus.md) |
@@ -279,10 +292,10 @@ For complete trophic structure diagrams, energy flow pathways, and micro-habitat
 
 ### Cohort Distribution Summary
 - **Class Registry Range**: 1 to 62 (Total capacity: 62 students)
-- **Documented Participating Students**: **56 Students** across **11 Collective Survey Teams**
-  - Teams with explicit report registration numbers: 51 students (10 teams)
+- **Documented Participating Students**: **61 Students** across **12 Collective Survey Teams**
+  - Teams with explicit report registration numbers: 56 students (11 teams)
   - Team Saravanan (5 members mapped via alphabetical registry sequence): 5 students
-- **Remaining Unassigned / Missing Registration Numbers**: **6 Students**
+- **Remaining Unassigned / Missing Registration Numbers**: **1 Student**
 
 ### Team Saravanan Assigned Registration Numbers
 Based on the batch's alphabetical roll allocation structure, the 5 members of Team Saravanan map to the following registry positions:
@@ -295,21 +308,16 @@ Based on the batch's alphabetical roll allocation structure, the 5 members of Te
 | 4 | **Saravanan K** | Team Leader | `25011103048` | Suffix `048` (Between S Swetha `047` and Sasthika `049`) |
 | 5 | **Sudhanthiran S** | Team Member | `25011103057` | Suffix `057` (Between Srijan Karmakar `056` and Gunashekar `060`) |
 
-### Remaining 6 Missing Registration Numbers
+### Remaining Missing Registration Number
 
-With Team Venkatadri (Arvindh - 08, Jaswanth - 15, Hariharan - 18, Venkatadri - 29, Shreeharsh - 52, Leesha Priya - 59) registered, only the following 6 registration numbers remain unassigned across the 1 to 62 class range:
+With Team Thuliyan (Anirudh Sridhar - 005, Athin Jai Desikan - 011, Harshit Rao G - 019, Sreram R - 054, Thuyilan VJ - 058) registered, exactly 1 registration number remains unassigned across the 1 to 62 class range:
 
-- **Missing Roll Suffixes**:  
-  `005`, `011`, `012`, `019`, `054`, `058`
+- **Missing Roll Suffix**:  
+  `012`
 
 | S.No | Roll No. | Registration Number (`25011103XXX`) | Status |
 | :---: | :---: | :---: | :---: |
-| 1 | 005 | `25011103005` | Missing / Unassigned |
-| 2 | 011 | `25011103011` | Missing / Unassigned |
-| 3 | 012 | `25011103012` | Missing / Unassigned |
-| 4 | 019 | `25011103019` | Missing / Unassigned |
-| 5 | 054 | `25011103054` | Missing / Unassigned |
-| 6 | 058 | `25011103058` | Missing / Unassigned |
+| 1 | 012 | `25011103012` | Missing / Unassigned |
 
 ---
 

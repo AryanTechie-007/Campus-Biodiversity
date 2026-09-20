@@ -51,7 +51,7 @@
       "image_src": "extracted_pdf_assets/page_2_img_1_13.png",
       "image_target": "hibiscus_rosa_sinensis.png",
       "survey_source": "Survey Specimens 02 & 12 (Deduplicated single species with documented cultivars)",
-      "contributor_team": "Team Aryan"
+      "contributor_team": "Team Thuliyan"
     },
     {
       "id": "FL-03",
@@ -863,6 +863,20 @@
       "image_target": "alternanthera_sessilis.png",
       "survey_source": "Assignment 2 Survey (Team Venkatadri)",
       "contributor_team": "Team Venkatadri"
+    },
+    {
+      "id": "FL-56",
+      "common_name": "Queen's Flower / Pride of India",
+      "scientific_name": "Lagerstroemia speciosa",
+      "family": "Lythraceae",
+      "category": "Flowering Tree",
+      "habitat": "Ornamental avenue tree near academic buildings",
+      "location": "Near AB-3",
+      "trophic_level": "Producer",
+      "ecological_status": "Cultivated Ornamental / Pollinator Attractor",
+      "image_path": "Flora/images/lagerstroemia_speciosa.png",
+      "contributor_team": "Team Thuliyan",
+      "description": "Medium to large deciduous tropical tree characterized by vibrant crinkled pink to lavender flowers and rich nectar resources for pollinators."
     }
   ],
   "fauna": [
@@ -973,7 +987,7 @@
       "image_src": "extracted_pdf_assets/page_10_img_1_53.png",
       "image_target": "dysdercus_cingulatus.png",
       "survey_source": "Survey Specimen 18",
-      "contributor_team": "Team Aryan"
+      "contributor_team": "Team Thuliyan"
     },
     {
       "id": "FA-07",
@@ -1081,7 +1095,7 @@
       "image_src": "extracted_pdf_assets/page_13_img_1_70.png",
       "image_target": "canis_lupus_familiaris.png",
       "survey_source": "Survey Specimen 24",
-      "contributor_team": "Team Aryan"
+      "contributor_team": "Team Thuliyan"
     },
     {
       "id": "FA-13",
@@ -1737,6 +1751,20 @@
       "image_target": "anoplodesmus_sp.png",
       "survey_source": "Assignment 2 Survey (Team Venkatadri)",
       "contributor_team": "Team Venkatadri"
+    },
+    {
+      "id": "FA-51",
+      "common_name": "Domestic Cattle / Cow",
+      "scientific_name": "Bos taurus",
+      "family": "Bovidae",
+      "category": "Mammal",
+      "habitat": "Open campus pastures, lawns, and tree belts",
+      "location": "Near JP Auditorium lawns",
+      "trophic_level": "Primary Consumer / Herbivore",
+      "ecological_status": "Domesticated Herbivore / Grazing Grazer",
+      "image_path": "Fauna/images/bos_taurus.png",
+      "contributor_team": "Team Thuliyan",
+      "description": "Domestic cattle observed grazing on campus grassy patches, functioning as primary grazers regulating grass biomass."
     }
   ],
   "contributing_teams": [
@@ -1751,7 +1779,8 @@
         "Sri Dharshini - 25011103055",
         "Shrimathi Lakshmi - 25011103053"
       ],
-      "contributions": "Founding campus biodiversity survey (20 unique species: FL-01 to FL-06, FL-08, FL-09, FA-01 to FA-05, FA-07 to FA-09, FA-11, FA-12, FA-15)"
+      "contributions": "Founding campus biodiversity survey (20 unique species: FL-01 to FL-06, FL-08, FL-09, FA-01 to FA-05, FA-07 to FA-09, FA-11, FA-12, FA-15)",
+      "unique_species_count": 17
     },
     {
       "team_name": "Team Katyayani",
@@ -1872,6 +1901,22 @@
         "Leesha Priya — 25011103059"
       ],
       "contributions": "Assignment 2 Campus Biodiversity Explorer survey report (6 unique species: FL-53, FL-54, FL-55, FA-48, FA-49, FA-50; 23 total documented species across 6 zones)"
+    },
+    {
+      "team_name": "Team Thuliyan",
+      "lead": "Thuyilan VJ (25011103058)",
+      "members": [
+        "Thuyilan VJ (25011103058)",
+        "Anirudh Sridhar (25011103005)",
+        "Athin Jai Desikan (25011103011)",
+        "Harshit Rao G (25011103019)",
+        "Sreram R (25011103054)"
+      ],
+      "survey_focus": "Central Campus Corridors, Clock Tower, AB Law & Recreation Zones",
+      "unique_species_count": 5
     }
-  ]
+  ],
+  "total_species": 107,
+  "total_flora": 56,
+  "total_fauna": 51
 }

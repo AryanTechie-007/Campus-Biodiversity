@@ -2,7 +2,7 @@
 
 > **Shiv Nadar University Chennai (SNU Chennai)**  
 > **Course**: Environmental Science and Engineering (EVS)  
-> **Total Documented Unique Fauna**: **44 Species**
+> **Total Documented Unique Fauna**: **51 Species**
 
 ---
 
@@ -12,7 +12,7 @@ The fauna of SNU Chennai ranges across 7 distinct taxonomic guilds: Insects & Ar
 
 ---
 
-## Master Fauna Index (50 Unique Species)
+## Master Fauna Index (51 Unique Species)
 
 | ID | Common Name | Scientific Name | Family | Taxonomic Guild | Trophic Level | Contributor Team | Profile Link |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -21,13 +21,13 @@ The fauna of SNU Chennai ranges across 7 distinct taxonomic guilds: Insects & Ar
 | **FA-03** | Indian Paper Wasp / Yellow Paper Wasp | *Ropalidia marginata* | Vespidae | Insects / Arthropods | Secondary Consumer / Insectivore | Team Aryan | [View Profile](species/fa-03_ropalidia_marginata.md) |
 | **FA-04** | Giant African Snail | *Lissachatina fulica (syn. Achatina fulica)* | Achatinidae | Molluscs | Primary Consumer / Detritivore & Decomposer | Team Aryan | [View Profile](species/fa-04_lissachatina_fulica.md) |
 | **FA-05** | Indian Freshwater / Field Crab | *Oziotelphusa senex* | Gecarcinucidae | Crustaceans | Primary/Secondary Consumer & Detritivore | Team Aryan | [View Profile](species/fa-05_oziotelphusa_senex.md) |
-| **FA-06** | Red Cotton Stainer | *Dysdercus cingulatus* | Pyrrhocoridae | Insects / Arthropods | Primary Consumer / Herbivore | Team Aryan | [View Profile](species/fa-06_dysdercus_cingulatus.md) |
+| **FA-06** | Red Cotton Stainer | *Dysdercus cingulatus* | Pyrrhocoridae | Insects / Arthropods | Primary Consumer / Herbivore | Team Thuliyan | [View Profile](species/fa-06_dysdercus_cingulatus.md) |
 | **FA-07** | Red-Headed / Banded Millipede | *Xenobolus carnifex* | Pachybolidae | Myriapods / Arthropods | Primary Consumer / Primary Detritivore | Team Aryan | [View Profile](species/fa-07_xenobolus_carnifex.md) |
 | **FA-08** | Yellow-billed Babbler (Seven Sisters) | *Argya affinis (syn. Turdoides affinis)* | Leiothrichidae | Birds (Avifauna) | Secondary Consumer / Insectivore-Omnivore | Team Aryan | [View Profile](species/fa-08_argya_affinis.md) |
 | **FA-09** | Black Drongo (King Crow) | *Dicrurus macrocercus* | Dicruridae | Birds (Avifauna) | Secondary Consumer / Aerial Insectivore | Team Aryan | [View Profile](species/fa-09_dicrurus_macrocercus.md) |
 | **FA-10** | House Crow | *Corvus splendens* | Corvidae | Birds (Avifauna) | Tertiary Consumer / Omnivorous Scavenger | Team Asmath | [View Profile](species/fa-10_corvus_splendens.md) |
 | **FA-11** | Bonnet Macaque | *Macaca radiata* | Cercopithecidae | Mammals | Primary/Secondary Consumer & Frugivore | Team Aryan | [View Profile](species/fa-11_macaca_radiata.md) |
-| **FA-12** | Indian Pariah Dog (Desi Dog / INDog) | *Canis lupus familiaris* | Canidae | Mammals | Tertiary Consumer / Apex Predator & Scavenger | Team Aryan | [View Profile](species/fa-12_canis_lupus_familiaris.md) |
+| **FA-12** | Indian Pariah Dog (Desi Dog / INDog) | *Canis lupus familiaris* | Canidae | Mammals | Tertiary Consumer / Apex Predator & Scavenger | Team Thuliyan | [View Profile](species/fa-12_canis_lupus_familiaris.md) |
 | **FA-13** | Indian Peafowl (Peacock - National Bird of India) | *Pavo cristatus* | Phasianidae | Birds (Avifauna) | Secondary / Tertiary Consumer & Predator | Team Saravanan | [View Profile](species/fa-13_pavo_cristatus.md) |
 | **FA-14** | Oriental Garden Lizard (Changeable Lizard) | *Calotes versicolor* | Agamidae | Reptiles | Secondary Consumer / Insectivore | Team Saravanan | [View Profile](species/fa-14_calotes_versicolor.md) |
 | **FA-15** | Domestic Cat (Campus Tabby / Feral Cat) | *Felis catus* | Felidae | Mammals | Tertiary Consumer / Small Carnivore & Apex Predator | Team Aryan | [View Profile](species/fa-15_felis_catus.md) |
@@ -66,6 +66,7 @@ The fauna of SNU Chennai ranges across 7 distinct taxonomic guilds: Insects & Ar
 | **FA-48** | Indian Jungle Crow / Large-billed Crow | *Corvus culminatus* | Corvidae | Birds (Avifauna) | Tertiary Consumer / Scavenger & Top Omnivore | Team Venkatadri | [View Profile](species/fa-48_corvus_culminatus.md) |
 | **FA-49** | Rock Pigeon / Blue Rock Dove | *Columba livia* | Columbidae | Birds (Avifauna) | Primary Consumer / Granivore & Frugivore | Team Venkatadri | [View Profile](species/fa-49_columba_livia.md) |
 | **FA-50** | Flat-backed Millipede / Paradoxosomatid Millipede | *Anoplodesmus sp.* | Paradoxosomatidae | Myriapods / Arthropods | Primary Consumer / Primary Detritivore & Decomposer | Team Venkatadri | [View Profile](species/fa-50_anoplodesmus_sp.md) |
+| **FA-51** | Domestic Cattle / Cow | *Bos taurus* | Bovidae | Mammals | Primary Consumer / Herbivore | Team Thuliyan | [View Profile](species/fa-51_bos_taurus.md) |
 
 ---
 

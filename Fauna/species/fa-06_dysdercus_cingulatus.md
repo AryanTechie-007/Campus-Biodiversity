@@ -12,7 +12,8 @@
 | **Location of Observation** | **Pathway behind Dhanyas** |
 | **Microhabitat** | Foliage, flowers, and ground litter of Malvaceae plants |
 | **Trophic Guild** | Primary Consumer / Herbivore (Trophic Level 2) |
-| **Survey Source** | Survey Specimen 18 |
+| **Contributing Survey Team** | **Team Thuliyan** |
+| **Survey Source** | Assignment 2 Survey (Team Thuliyan & Team Aryan) |
 
 ---
 

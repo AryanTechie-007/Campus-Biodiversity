@@ -2,7 +2,7 @@
 
 > **Department of Environmental Science & Engineering (EVS)**  
 > **Shiv Nadar University Chennai (SNU Chennai)**  
-> **Dataset Scale**: **105 Unique Documented Taxa** (55 Flora, 50 Fauna)
+> **Dataset Scale**: **107 Unique Documented Taxa** (56 Flora, 51 Fauna)
 
 ---
 
@@ -20,17 +20,17 @@ The Shiv Nadar University Chennai campus ecosystem functions through a structure
 
 ---
 
-## 3. Trophic Level Stratification (105 Species)
+## 3. Trophic Level Stratification (107 Species)
 
-### Trophic Level 1: Primary Producers (55 Autotrophic Taxa)
-- **Key Canopy, Shade Trees & Palms**: *Plumeria obtusa*, *Plumeria alba*, *Plumeria rubra*, *Delonix regia*, *Ficus benghalensis*, *Kigelia africana*, *Tabebuia rosea*, *Azadirachta indica*, *Albizia lebbeck*, *Peltophorum pterocarpum* (Copperpod Tree), *Samanea saman* (Rain Tree), *Areca catechu* (Betel Nut Palm), *Dypsis lutescens* (Golden Cane Palm), *Washingtonia filifera* (California Fan Palm), *Bismarckia nobilis*, *Phoenix sylvestris*.
+### Trophic Level 1: Primary Producers (56 Autotrophic Taxa)
+- **Key Canopy, Shade Trees & Palms**: *Plumeria obtusa*, *Plumeria alba*, *Plumeria rubra*, *Delonix regia*, *Ficus benghalensis*, *Kigelia africana*, *Tabebuia rosea*, *Azadirachta indica*, *Albizia lebbeck*, *Peltophorum pterocarpum* (Copperpod Tree), *Samanea saman* (Rain Tree), *Areca catechu* (Betel Nut Palm), *Dypsis lutescens* (Golden Cane Palm), *Washingtonia filifera* (California Fan Palm), *Bismarckia nobilis*, *Phoenix sylvestris*, *Lagerstroemia speciosa* (Queen's Flower / Pride of India).
 - **Shrubs & Ornamental Flora**: *Hibiscus rosa-sinensis*, *Ixora coccinea*, *Duranta erecta*, *Lantana camara*, *Tabernaemontana divaricata*, *Pentas lanceolata*, *Angelonia salicariifolia*, *Turnera ulmifolia*, *Galphimia gracilis* (Golden Thryallis), *Acalypha wilkesiana* (Copperleaf), *Jatropha integerrima* (Spicy Jatropha), *Nerium oleander* (Oleander), *Euphorbia milii* (Crown of Thorns), *Adenium obesum* (Desert Rose), *Pandanus sanderi* (Variegated Screw Pine).
 - **Herbs, Grasses & Groundcovers**: *Elephantopus scaber*, *Kalanchoe pinnata*, *Cynodon dactylon*, *Hymenocallis littoralis*, *Persicaria barbata*, *Chlorophytum comosum*, *Alternanthera sessilis* (Sessile Joyweed).
 
 ### Trophic Level 2: Primary Consumers (Herbivores, Detritivores & Decomposers)
 - **Herbivorous Invertebrates**: *Dysdercus cingulatus* (Red Cotton Bug), *Spilostethus hospes* (Dolic Bug), *Pachliopta hector* (Crimson Rose), *Acraea terpsicore* (Tawny Coster), *Papilio demoleus* (Lime Butterfly), *Papilio polytes* (Common Mormon).
 - **Detritivores & Soil Decomposers**: *Xenobolus carnifex* (Red-Headed Millipede), *Lissachatina fulica* (Giant African Snail), *Oziotelphusa senex* (Indian Field Crab), *Trigoniulus corallinus* (Rusty Millipede), *Anoplodesmus sp.* (Flat-backed Millipede), *Periplaneta americana* (American Cockroach).
-- **Frugivorous & Granivorous Birds & Mammals**: *Columba livia* (Rock Pigeon), *Funambulus palmarum* (Indian Palm Squirrel), *Macaca radiata* (Bonnet Macaque).
+- **Frugivorous, Herbivorous & Granivorous Birds & Mammals**: *Columba livia* (Rock Pigeon), *Funambulus palmarum* (Indian Palm Squirrel), *Macaca radiata* (Bonnet Macaque), *Bos taurus* (Domestic Cattle / Cow).
 
 ### Trophic Level 3: Secondary Consumers (Carnivores, Insectivores & Small Predators)
 - **Avian Insectivores & Frugivores**: *Acridotheres tristis* (Common Myna), *Eudynamys scolopaceus* (Asian Koel), *Dicrurus macrocercus* (Black Drongo), *Argya affinis* (Yellow-billed Babbler), *Argya striata* (Jungle Babbler), *Passer domesticus* (House Sparrow).
@@ -77,6 +77,9 @@ graph LR
 
 - **Chain 7 (Lawn & Shaded Margin Detritus-Avian Pathway - Team Venkatadri)**:  
   *Azadirachta indica* leaf litter / *Alternanthera sessilis* (Producer) -> *Anoplodesmus sp.* (Millipede) / *Acraea terpsicore* (Primary Consumer) -> *Calotes versicolor* (Secondary Consumer) -> *Corvus culminatus* (Indian Jungle Crow - Tertiary Consumer) -> *Canis lupus familiaris* (Top Predator)
+
+- **Chain 8 (Central Campus Herbaceous & Canopy Food Pathway - Team Thuliyan)**:  
+  *Poaceae sp.* (Grass) / *Hibiscus rosa-sinensis* (Producer) -> *Dysdercus cingulatus* (Red Cotton Stainer) / *Lepidoptera sp.* (Primary Consumer) -> *Araneae sp.* (Spider) / *Calotes versicolor* (Secondary Consumer) -> *Corvus splendens* (House Crow - Tertiary Consumer) -> *Canis lupus familiaris* (Indian Pariah Dog - Top Carnivore)
 
 
 
